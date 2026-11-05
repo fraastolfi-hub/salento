@@ -14,7 +14,7 @@ Prototipo HTML della homepage del nuovo portale Salento.it, da far vedere al tea
 
 1. **Il consiglio non si compra.** Il punteggio delle marine (`valuta()` e `consiglio()`) non usa mai commissione o conversione. Il campo `conv` delle strutture serve solo a ordinarle dentro la marina consigliata (`struttureFiltrate()`, `renderHomeGrid()`).
 2. **Niente indicizzazione.** Mantieni i meta `robots` e `googlebot` in `<head>`, il `netlify.toml` e il `robots.txt`.
-3. **Niente mascotte.** Zì Cosimo è chiuso: nessun personaggio, nessuna voce di mascotte, niente dialetto.
+3. **Niente mascotte.** Zì Cosimo è chiuso: nessun personaggio, nessuna voce di mascotte. Il portale non si finge salentino ("noi qua", "chi è di qua"). Il dialetto è ammesso solo come descritto in "Tono di voce".
 4. **Dati dimostrativi.** I nomi delle strutture, i prezzi e i profili delle marine sono segnaposto. La striscia "BOZZA" in alto resta finché non arrivano i dati veri.
 
 ## Identità visiva (dal brand manual Area38)
@@ -24,13 +24,19 @@ Prototipo HTML della homepage del nuovo portale Salento.it, da far vedere al tea
 - Font: Inter.
 - Il rosso pieno non va usato come sfondo di grandi sezioni: il cliente lo ha trovato eccessivo. Le grandi superfici sono foto con velatura blu notte.
 
-## Tono di voce: "L'amico del posto"
+## Tono di voce: "Sciamu", senza personaggio
 
-Caldo, diretto, con un filo di ironia. Dà del tu e dice anche quello che una brochure non direbbe. Ogni consiglio ha un perché e un contro ("il rovescio della medaglia"). Esempio di riferimento:
+Fonte: `tono-di-voce-sciamu.md`, paragrafo 8. Insider asciutto: dice la verità anche quando scoccia, frasi corte, un'idea per riga, nomi veri al posto degli aggettivi, dà del tu. Ogni battuta è seguita da un consiglio vero e si prende in giro lo stile, mai le persone. Dice anche dove non andare: è la prova che il consiglio non è di chi paga.
 
-> Pescoluse. Te l'avranno già detto: le Maldive del Salento. Il soprannome è un po' esagerato, ma non troppo. La sabbia è bianca, l'acqua resta bassa per un bel pezzo e i bambini possono sguazzare senza che tu stia col cuore in gola. Il rovescio della medaglia? Ad agosto lo sanno tutti, e si vede.
+- **Portale:** registro asciutto. Più ci si avvicina ai soldi (risultati, prezzi, form), più la voce abbassa i giri.
+- **Sigilli:** nel portale il dialetto si ferma a "Sciamu" e "Statte bonu".
+- **Dialetto pieno:** solo nei consigli firmati da salentini veri (`.voices`). Oggi quei testi sono segnaposto e il dialetto è da far validare.
 
-Evita le formule da brochure ("location da sogno", "esperienza indimenticabile") e i trattini lunghi.
+Esempio di riferimento:
+
+> Il Salento è uno solo? Falso. Ce ne sono quaranta, e trentanove non fanno per te. Ti diciamo qual è il tuo. E pure dove non mettere piede. Sciamu.
+
+Lessico vietato: mare cristallino, spiagge bianche, angolo di paradiso, location da sogno, perla del Salento, borgo pittoresco o suggestivo, esperienza unica, mozzafiato, relax e divertimento, "experience", "un mix perfetto di". Niente trattini lunghi.
 
 ## Logica del quiz
 
@@ -45,7 +51,9 @@ Evita le formule da brochure ("location da sogno", "esperienza indimenticabile")
 - Sostituire `CERVELLO` con il JSON delle prime 10 marine, quando la raccolta chiude.
 - Far validare la regola dei venti a chi verifica le marine sul campo. Oggi è: tramontana e levante per lo Ionio, scirocco e maestrale per l'Adriatico.
 - Sostituire le foto segnaposto con quelle vere: strutture, una foto per marina, persone e cucina.
-- Mettere al posto del consiglio firmato "MC" un salentino vero, con nome e foto.
+- Mettere al posto dei tre consigli firmati (`.voices`) salentini veri, con parole, nome e foto.
+- Far rileggere il dialetto a un salentino.
+- Decidere con Area38 se tenere "Dove non mettere piede", che nomina marine vere in negativo. I dati sono dimostrativi.
 - Collegare il form di richiesta al backend vero: il punto da agganciare è commentato nel codice.
 
 ## Commit
