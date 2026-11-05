@@ -1,0 +1,9 @@
+# Sito statico: nessuna build, pubblica la radice del repository.
+[build]
+  publish = "."
+
+# Bozza: non deve essere indicizzata.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow, noarchive"
