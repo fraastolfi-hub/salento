@@ -69,23 +69,28 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .nav .right{margin-left:auto;display:flex;gap:10px;align-items:center}
 .nav .partner{font-size:.85rem;font-weight:600;color:var(--muted)}
 
-/* ---------- HERO ---------- */
-.hero{position:relative;overflow:hidden;color:#fff;background:linear-gradient(180deg,#D8143A 0%,#E5233D 38%,#EF4A3E 62%,#F27A43 78%,#C8132F 78.2%,#B30F2C 100%)}
-.hero-art{position:absolute;inset:auto 0 0 0;width:100%;height:34%;pointer-events:none}
-.hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1.02fr .98fr;gap:clamp(28px,4vw,56px);align-items:start;padding-top:clamp(40px,6vw,72px);padding-bottom:clamp(48px,6vw,80px)}
+/* ---------- HERO (foto scogliera, rosso solo d'accento) ---------- */
+.hero{position:relative;overflow:hidden;color:#fff;background:var(--navy)}
+.hero-bg{position:absolute;inset:0;background:url("images/scogliera-1920.jpg") center 60%/cover no-repeat;transform:scale(1.06);animation:kb 22s ease-out forwards}
+@keyframes kb{to{transform:scale(1)}}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(95deg,rgba(13,34,46,.92) 0%,rgba(13,34,46,.72) 38%,rgba(13,34,46,.25) 70%,rgba(13,34,46,.05) 100%),linear-gradient(0deg,rgba(13,34,46,.55),transparent 35%)}
+.hero-inner{position:relative;z-index:2;display:grid;grid-template-columns:1.02fr .98fr;gap:clamp(28px,4vw,56px);align-items:start;padding-top:clamp(44px,6vw,80px);padding-bottom:clamp(96px,9vw,130px)}
 .hero .eyebrow{color:var(--sun)}
-.hero h1{color:#fff;font-size:clamp(2.2rem,4.6vw,3.6rem);font-weight:900;margin:14px 0 18px;letter-spacing:-.035em}
-.hero .lead{font-size:clamp(1.02rem,1.4vw,1.16rem);color:rgba(255,255,255,.92);max-width:46ch}
+.hero h1{color:#fff;font-size:clamp(2.3rem,4.8vw,3.8rem);font-weight:900;margin:14px 0 18px;letter-spacing:-.035em;text-shadow:0 2px 24px rgba(0,0,0,.25)}
+.hero h1 .hl{color:var(--sun)}
+.hero .lead{font-size:clamp(1.02rem,1.4vw,1.16rem);color:rgba(255,255,255,.9);max-width:46ch}
 .hero .lead b{color:#fff}
 .hstats{display:flex;gap:28px;flex-wrap:wrap;margin-top:26px}
 .hstats div{border-left:3px solid var(--sun);padding-left:10px}
 .hstats b{display:block;font-size:1.3rem;font-weight:800;line-height:1}
-.hstats span{font-size:.82rem;color:rgba(255,255,255,.82)}
-.honest{margin-top:26px;display:flex;gap:10px;align-items:flex-start;background:rgba(14,58,74,.28);border:1px solid rgba(255,255,255,.22);border-radius:12px;padding:12px 14px;font-size:.9rem;max-width:48ch}
+.hstats span{font-size:.82rem;color:rgba(255,255,255,.8)}
+.honest{margin-top:26px;display:flex;gap:10px;align-items:flex-start;background:rgba(255,255,255,.1);backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.2);border-radius:12px;padding:12px 14px;font-size:.9rem;max-width:48ch}
 .honest .dot{width:9px;height:9px;border-radius:50%;background:var(--sun);flex:none;margin-top:7px}
+.photo-credit{position:absolute;right:16px;top:12px;z-index:2;font-size:.7rem;color:rgba(255,255,255,.6)}
 
 /* ---------- QUIZ CARD ---------- */
-.quiz{background:var(--paper);color:var(--ink);border-radius:20px;box-shadow:var(--shadow-up);overflow:hidden}
+.quiz{background:var(--paper);color:var(--ink);border-radius:20px;box-shadow:0 24px 60px rgba(0,0,0,.35);overflow:hidden;animation:up .7s .15s both}
+@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
 .q-top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 22px 0}
 .q-top .t{font-weight:800;color:var(--navy);font-size:1rem}
 .q-top .step{font-size:.76rem;font-weight:700;color:var(--muted);background:var(--cream);padding:4px 10px;border-radius:99px}
@@ -101,7 +106,9 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .opt .ic{width:36px;height:36px;border-radius:9px;background:var(--cream);display:grid;place-items:center;font-size:18px;flex:none}
 .opt small{display:block;font-weight:500;color:var(--muted);font-size:.8rem}
 .opt.on{border-color:var(--red);background:#FFF5F6}
-.opt.on .ic{background:var(--red);}
+.opt.on .ic{background:var(--sun);}
+.opt:hover .ic{transform:scale(1.08)}
+.opt .ic{transition:transform .15s}
 .toggle{display:flex;align-items:center;gap:10px;margin:-4px 0 14px;font-size:.92rem;font-weight:600;cursor:pointer;user-select:none;width:max-content}
 .toggle input{display:none}
 .toggle .sw{width:38px;height:22px;border-radius:99px;background:var(--cream-2);position:relative;transition:.2s}
@@ -116,8 +123,8 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .q-done .big{font-size:2.6rem}
 
 /* ---------- SEARCH STRIP ---------- */
-.search-strip{background:var(--paper);border-bottom:1px solid var(--line)}
-.search-strip .wrap{padding-top:20px;padding-bottom:20px}
+.search-strip{position:relative;z-index:5;margin-top:-64px}
+.search-strip .wrap>div.card{background:#fff;border-radius:18px;box-shadow:0 14px 40px rgba(14,42,53,.16);padding:20px 22px}
 .ss-head{display:flex;align-items:baseline;gap:10px;margin-bottom:12px;flex-wrap:wrap}
 .ss-head b{color:var(--navy);font-size:1.02rem}
 .ss-head span{color:var(--muted);font-size:.9rem}
@@ -139,7 +146,7 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .all{font-weight:700;color:var(--red);font-size:.93rem;white-space:nowrap}
 
 /* ---------- RISULTATI QUIZ ---------- */
-#risultati{display:none;background:var(--paper);border-bottom:1px solid var(--line)}
+#risultati{display:none;background:var(--paper);border-bottom:1px solid var(--line);margin-top:28px}
 #risultati.show{display:block}
 .r-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:22px}
 .r-head h2{font-size:clamp(1.8rem,3.2vw,2.5rem)}
@@ -181,12 +188,15 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .sgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .scard{background:#fff;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column;box-shadow:var(--shadow);transition:.18s}
 .scard:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(14,42,53,.1)}
-.ph{height:138px;position:relative;background:linear-gradient(160deg,var(--sea),var(--navy));overflow:hidden}
-.ph.p2{background:linear-gradient(160deg,#E9A25B,var(--red-d))}
-.ph.p3{background:linear-gradient(160deg,#7FB7A6,#2F6B5E)}
-.ph.p4{background:linear-gradient(160deg,#D9C29A,#8C6A3E)}
-.ph .lbl{position:absolute;bottom:8px;right:10px;font-size:.68rem;color:rgba(255,255,255,.7);letter-spacing:.06em;text-transform:uppercase}
-.ph .bdg{position:absolute;top:10px;left:10px;display:flex;gap:6px;flex-wrap:wrap}
+.ph{height:150px;position:relative;background:var(--navy) center/cover no-repeat;overflow:hidden}
+.ph::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(13,34,46,.35),transparent 50%)}
+.ph.p1{background-image:url("images/scogliera-900.jpg");background-position:30% 60%}
+.ph.p2{background-image:url("images/tramonto-900.jpg");background-position:50% 50%}
+.ph.p3{background-image:url("images/spiaggia-900.jpg");background-position:20% 40%}
+.ph.p4{background-image:url("images/spiaggia-900.jpg");background-position:85% 80%}
+.scard:hover .ph{background-size:110%}
+.ph .lbl{position:absolute;z-index:1;bottom:8px;right:10px;font-size:.68rem;color:rgba(255,255,255,.7);letter-spacing:.06em;text-transform:uppercase}
+.ph .bdg{position:absolute;z-index:1;top:10px;left:10px;display:flex;gap:6px;flex-wrap:wrap}
 .ph .bdg span{font-size:.72rem;font-weight:700;padding:3px 9px;border-radius:5px;background:#fff;color:var(--navy)}
 .ph .bdg .rec{background:var(--sun);color:var(--navy)}
 .sbody{padding:14px 15px 15px;display:flex;flex-direction:column;gap:8px;flex:1}
@@ -204,41 +214,55 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 
 /* ---------- OCCASIONI ---------- */
 .occ{display:grid;grid-template-columns:1.3fr 1fr 1fr;grid-auto-rows:minmax(200px,auto);gap:16px}
-.oc{position:relative;border-radius:var(--r);padding:22px;color:#fff;display:flex;flex-direction:column;justify-content:flex-end;overflow:hidden;transition:.2s;min-height:200px}
-.oc:hover{transform:translateY(-3px)}
-.oc::after{content:"→";position:absolute;top:18px;right:20px;font-size:1.3rem;font-weight:700;opacity:.8}
+.oc{position:relative;border-radius:var(--r);padding:22px;color:#fff;display:flex;flex-direction:column;justify-content:flex-end;overflow:hidden;min-height:220px;background:var(--navy) center/cover no-repeat;isolation:isolate}
+.oc::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(13,34,46,.92) 0%,rgba(13,34,46,.5) 45%,rgba(13,34,46,.15) 75%,rgba(13,34,46,.55) 100%);transition:.3s}
+.oc .bgz{position:absolute;inset:0;z-index:-2;background:inherit;transition:transform .6s ease}
+.oc:hover .bgz{transform:scale(1.06)}
+.oc:hover::before{background:linear-gradient(0deg,rgba(13,34,46,.95) 0%,rgba(13,34,46,.6) 50%,rgba(13,34,46,.15) 100%)}
+.oc::after{content:"→";position:absolute;top:16px;right:16px;width:36px;height:36px;border-radius:50%;background:rgba(255,255,255,.18);backdrop-filter:blur(4px);display:grid;place-items:center;font-size:1.1rem;font-weight:700;transition:.2s}
+.oc:hover::after{background:var(--sun);color:var(--navy)}
 .oc h3{color:#fff;font-size:1.3rem;margin-bottom:6px}
 .oc p{font-size:.92rem;color:rgba(255,255,255,.88);max-width:36ch}
-.oc .k{position:absolute;top:18px;left:22px;font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sun)}
-.oc.big{grid-row:span 2;background:linear-gradient(170deg,var(--red) 0%,var(--red-dd) 100%)}
+.oc .k{position:absolute;top:20px;left:22px;font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--sun)}
+.oc.big{grid-row:span 2;background-image:url("images/tramonto-900.jpg");background-position:center 40%}
+.oc.big::before{background:linear-gradient(0deg,rgba(13,34,46,.95) 0%,rgba(13,34,46,.5) 50%,rgba(13,34,46,0) 100%)}
 .oc.big h3{font-size:clamp(1.6rem,2.6vw,2.1rem)}
-.oc.big .stat{font-size:3.2rem;font-weight:900;color:var(--sun);line-height:1;margin-bottom:6px;letter-spacing:-.04em}
-.oc.c1{background:linear-gradient(160deg,var(--sea),var(--navy))}
-.oc.c2{background:linear-gradient(160deg,#2C6E63,#123F3A)}
-.oc.c3{background:linear-gradient(160deg,var(--navy-2),#0A2A36)}
-.oc.c4{background:linear-gradient(160deg,#C98A2E,#8A5410)}
+.oc.big .stat{font-size:3.4rem;font-weight:900;color:var(--sun);line-height:1;margin-bottom:6px;letter-spacing:-.04em}
+.oc.c1{background-image:url("images/spiaggia-900.jpg");background-position:70% 70%}
+.oc.c2{background-image:url("images/spiaggia-900.jpg");background-position:15% 60%}
+.oc.c3{background-image:url("images/scogliera-900.jpg");background-position:60% 50%}
+.oc.c4{background-image:url("images/tramonto-900.jpg");background-position:90% 60%}
 
-/* ---------- VENTO ---------- */
-.wind-box{display:grid;grid-template-columns:1fr 1.1fr;gap:clamp(24px,4vw,48px);align-items:center}
-.wind-box h2{font-size:clamp(1.8rem,3.4vw,2.6rem);margin-bottom:12px}
-.wind-box p.l{color:rgba(255,255,255,.78);font-size:1.03rem;max-width:46ch}
-.wbtns{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px}
+/* ---------- VENTO: i due mari ---------- */
+.wind-head{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;margin-bottom:26px}
+.wind-head h2{font-size:clamp(1.8rem,3.4vw,2.6rem);margin-bottom:10px;max-width:20ch}
+.wind-head p.l{color:rgba(255,255,255,.78);font-size:1.03rem;max-width:52ch}
+.wbtns{display:flex;gap:8px;flex-wrap:wrap}
 .wbtn{background:rgba(255,255,255,.08);border:1.5px solid rgba(255,255,255,.25);color:#fff;padding:10px 16px;border-radius:99px;font-weight:600;cursor:pointer;font-size:.92rem;transition:.15s}
 .wbtn:hover{border-color:#fff}
 .wbtn.on{background:var(--sun);border-color:var(--sun);color:var(--navy)}
-.wout{background:#fff;color:var(--ink);border-radius:18px;padding:24px;box-shadow:var(--shadow-up);min-height:240px}
-.wout .k{font-size:.74rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--red)}
-.wout h3{font-size:1.5rem;margin:6px 0 8px}
-.wout p{color:var(--muted);font-size:.95rem}
-.chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:14px}
-.chip{font-size:.84rem;font-weight:600;padding:6px 12px;border-radius:99px;background:var(--cream);color:var(--navy)}
-.chip.no{background:#F3F3F3;color:#9AA4A8;text-decoration:line-through}
-.wout .fine{font-size:.78rem;color:var(--muted);margin-top:14px}
+.seas{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.sea{position:relative;min-height:400px;border-radius:20px;overflow:hidden;padding:26px;display:flex;flex-direction:column;justify-content:flex-end;isolation:isolate;transition:filter .5s, transform .5s, opacity .5s}
+.sea .bg{position:absolute;inset:0;z-index:-2;background:center/cover no-repeat;transition:transform 1.2s ease}
+.sea::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(13,34,46,.95) 0%,rgba(13,34,46,.45) 55%,rgba(13,34,46,.05) 100%)}
+.sea.ion .bg{background-image:url("images/spiaggia-900.jpg");background-position:60% 60%}
+.sea.adr .bg{background-image:url("images/scogliera-900.jpg");background-position:40% 60%}
+.sea.calm .bg{transform:scale(1.04)}
+.sea.rough{filter:grayscale(.75) brightness(.7)}
+.sea .st{position:absolute;top:20px;left:22px;font-size:.78rem;font-weight:800;padding:6px 12px;border-radius:99px;letter-spacing:.02em}
+.sea.calm .st{background:var(--sun);color:var(--navy)}
+.sea.rough .st{background:rgba(255,255,255,.18);color:#fff}
+.sea .k{font-size:.74rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--sun)}
+.sea h3{color:#fff;font-size:clamp(1.5rem,2.6vw,2rem);margin:6px 0 8px}
+.sea p{color:rgba(255,255,255,.86);font-size:.97rem;max-width:40ch;margin-bottom:14px}
+.sea .chips{display:flex;flex-wrap:wrap;gap:6px}
+.sea .chip{font-size:.82rem;font-weight:600;padding:5px 11px;border-radius:99px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.26);color:#fff}
+.wind-fine{font-size:.82rem;color:rgba(255,255,255,.6);margin-top:16px}
 
 /* ---------- OFFERTE ---------- */
 .offers{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .offer{background:#fff;border:1px solid var(--line);border-top:5px solid var(--sun);border-radius:var(--r);padding:20px;display:flex;flex-direction:column;gap:8px}
-.offer .when{font-size:.74rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--red)}
+.offer .when{font-size:.74rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--sea)}
 .offer h3{font-size:1.15rem}
 .offer .where{font-size:.86rem;color:var(--muted)}
 .offer ul{list-style:none;font-size:.88rem;display:grid;gap:3px;margin-top:4px}
@@ -268,7 +292,7 @@ header{position:sticky;top:0;z-index:70;background:rgba(255,255,255,.96);backdro
 .faq p{padding:0 0 18px;color:var(--muted)}
 
 /* ---------- CTA + FOOTER ---------- */
-.final{background:var(--red);color:#fff;text-align:center;padding:clamp(52px,7vw,84px) 0;position:relative;overflow:hidden}
+.final{background:linear-gradient(0deg,rgba(13,34,46,.78),rgba(13,34,46,.45)),url("images/tramonto-1920.jpg") center 45%/cover no-repeat;color:#fff;text-align:center;padding:clamp(80px,11vw,140px) 0;position:relative;overflow:hidden}
 .final h2{color:#fff;font-size:clamp(2rem,3.8vw,2.9rem);margin-bottom:12px}
 .final p{color:rgba(255,255,255,.88);max-width:50ch;margin:0 auto 24px;font-size:1.05rem}
 footer{background:var(--navy);color:rgba(255,255,255,.7);padding:44px 0 26px;font-size:.88rem}
@@ -293,6 +317,9 @@ footer a:hover{color:var(--sun)}
 .ok-msg .big{font-size:2.8rem}
 .ok-msg h3{margin:8px 0}
 
+.js .rv{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
+.js .rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.hero-bg,.quiz{animation:none}.js .rv{opacity:1;transform:none;transition:none}}
 @media(max-width:1040px){
   .sgrid,.trust{grid-template-columns:repeat(2,1fr)}
   .searchbox{grid-template-columns:1fr 1fr 1fr}
@@ -303,6 +330,8 @@ footer a:hover{color:var(--sun)}
   .fgrid{grid-template-columns:1fr 1fr}
 }
 @media(max-width:860px){
+  .seas{grid-template-columns:1fr}.sea{min-height:320px}
+  .hero::after{background:linear-gradient(180deg,rgba(13,34,46,.85) 0%,rgba(13,34,46,.7) 60%,rgba(13,34,46,.9) 100%)}
   .nav-links,.nav .partner{display:none}
   .hero-inner,.wind-box{grid-template-columns:1fr}
   .offers{grid-template-columns:1fr}
@@ -340,19 +369,13 @@ footer a:hover{color:var(--sun)}
 
 <!-- ===================== HERO + QUIZ ===================== -->
 <section class="hero">
-  <svg class="hero-art" viewBox="0 0 1440 420" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
-    <circle cx="1080" cy="86" r="34" fill="#F0D120" opacity=".9"/>
-    <g fill="#8E0B22" opacity=".85">
-      <path d="M760,420 L772,230 C780,205 820,200 826,226 L838,420Z"/>
-      <path d="M1210,420 L1226,150 C1240,110 1300,104 1318,140 L1350,420Z"/>
-      <path d="M1380,420 L1390,200 C1400,180 1440,178 1440,178 L1440,420Z"/>
-    </g>
-  </svg>
+  <div class="hero-bg" role="img" aria-label="Scogliera di Torre Sant'Andrea con il mare turchese"></div>
+  <span class="photo-credit">Torre Sant'Andrea · foto dal brand manual</span>
 
   <div class="wrap hero-inner">
     <div>
       <span class="eyebrow">Il Salento, marina per marina</span>
-      <h1>Quaranta marine.<br>Una è quella giusta per te.</h1>
+      <h1>Quaranta marine.<br>Una è <span class="hl">quella giusta</span> per te.</h1>
       <p class="lead">Dicci con chi vieni e cosa cerchi. Ti diciamo dove andare e perché, <b>compreso quello che una brochure non ti direbbe</b>: dove ad agosto non trovi parcheggio, dove l'acqua resta bassa per un bel pezzo, dove la sera si mangia bene.</p>
       <div class="hstats">
         <div><b>4 domande</b><span>niente filtri, niente moduli</span></div>
@@ -372,7 +395,7 @@ footer a:hover{color:var(--sun)}
 
 <!-- ===================== RICERCA DIRETTA ===================== -->
 <section class="search-strip">
-  <div class="wrap">
+  <div class="wrap"><div class="card">
     <div class="ss-head"><b>Sai già dove vuoi andare?</b><span>Allora cerca direttamente.</span></div>
     <form class="searchbox" id="searchForm">
       <div class="fld"><label for="sDove">Dove</label><input id="sDove" list="marineList" placeholder="Marina o località"></div>
@@ -385,7 +408,7 @@ footer a:hover{color:var(--sun)}
       <button class="btn btn-red" type="submit">Cerca</button>
       <datalist id="marineList"></datalist>
     </form>
-  </div>
+  </div></div>
 </section>
 
 <!-- ===================== RISULTATI QUIZ ===================== -->
@@ -396,7 +419,7 @@ footer a:hover{color:var(--sun)}
 <!-- ===================== OCCASIONI ===================== -->
 <section class="band" id="occasioni">
   <div class="wrap">
-    <div class="shead">
+    <div class="rv shead">
       <div>
         <span class="eyebrow">Partiamo dal motivo</span>
         <span class="bar"></span>
@@ -404,29 +427,29 @@ footer a:hover{color:var(--sun)}
         <p>Nessuno sogna "un tre stelle a duecento metri dal mare". Si pensa: abbiamo un bimbo di due anni e non vogliamo sbagliare. Parti da lì.</p>
       </div>
     </div>
-    <div class="occ">
-      <a class="oc big" href="#" data-occ="pensione">
+    <div class="rv occ">
+      <a class="oc big" href="#" data-occ="pensione"><span class="bgz"></span>
         <span class="k">La più richiesta</span>
         <span class="stat">2 su 3</span>
         <h3>Cucinano ancora loro</h3>
         <p>Due richieste su tre, da noi, includono le cene. Sette cene sono sette cene: ti mandiamo dove ai fornelli c'è qualcuno con un nome, non un servizio catering.</p>
       </a>
-      <a class="oc c1" href="#" data-occ="bimbi">
+      <a class="oc c1" href="#" data-occ="bimbi"><span class="bgz"></span>
         <span class="k">Famiglie</span>
         <h3>Con i bambini piccoli</h3>
         <p>Acqua bassa, sabbia, l'ombra vicina e la pizzeria a piedi.</p>
       </a>
-      <a class="oc c2" href="#" data-occ="cane">
+      <a class="oc c2" href="#" data-occ="cane"><span class="bgz"></span>
         <span class="k">Anche lui in vacanza</span>
         <h3>Con il cane</h3>
         <p>Spiagge dove lo fanno entrare e strutture dove non ti guardano storto.</p>
       </a>
-      <a class="oc c3" href="#" data-occ="fuori">
+      <a class="oc c3" href="#" data-occ="fuori"><span class="bgz"></span>
         <span class="k">Il segreto di chi è di qua</span>
         <h3>Giugno e settembre</h3>
         <p>Stesso mare, metà della gente. E i prezzi scendono.</p>
       </a>
-      <a class="oc c4" href="#vento">
+      <a class="oc c4" href="#vento"><span class="bgz"></span>
         <span class="k">Prima di uscire</span>
         <h3>Il mare giusto col vento giusto</h3>
         <p>Tramontana o scirocco? Cambia la spiaggia, non la giornata.</p>
@@ -438,7 +461,7 @@ footer a:hover{color:var(--sun)}
 <!-- ===================== DOVE DORMIRE ===================== -->
 <section class="band band-white" id="dormire">
   <div class="wrap">
-    <div class="shead">
+    <div class="rv shead">
       <div>
         <span class="eyebrow">Dove dormire</span>
         <span class="bar"></span>
@@ -453,12 +476,14 @@ footer a:hover{color:var(--sun)}
 
 <!-- ===================== VENTO ===================== -->
 <section class="band band-navy" id="vento">
-  <div class="wrap wind-box">
-    <div>
-      <span class="eyebrow" style="color:var(--sun)">Una cosa che sanno solo quelli di qua</span>
-      <span class="bar" style="background:var(--sun)"></span>
-      <h2>Prima di scegliere la spiaggia, guarda il vento.</h2>
-      <p class="l">Il Salento è stretto: da una parte lo Ionio, dall'altra l'Adriatico, mezz'ora di macchina in mezzo. Con un vento un lato è una tavola e l'altro ha le onde. Dicci che vento tira e ti diciamo da che parte andare.</p>
+  <div class="wrap">
+    <div class="wind-head rv">
+      <div>
+        <span class="eyebrow" style="color:var(--sun)">Una cosa che sanno solo quelli di qua</span>
+        <span class="bar" style="background:var(--sun)"></span>
+        <h2>Prima di scegliere la spiaggia, guarda il vento.</h2>
+        <p class="l">Il Salento è stretto: da una parte lo Ionio, dall'altra l'Adriatico, mezz'ora di macchina in mezzo. Con un vento un lato è una tavola e l'altro ha le onde. Dicci che vento tira.</p>
+      </div>
       <div class="wbtns" id="wBtns">
         <button class="wbtn on" data-w="tramontana">Tramontana</button>
         <button class="wbtn" data-w="levante">Levante</button>
@@ -466,14 +491,22 @@ footer a:hover{color:var(--sun)}
         <button class="wbtn" data-w="maestrale">Maestrale</button>
       </div>
     </div>
-    <div class="wout" id="wOut"></div>
+    <div class="seas" id="seas">
+      <div class="sea ion" data-costa="ionica"><div class="bg"></div><span class="st"></span>
+        <span class="k">Costa ionica</span><h3>Sabbia, acqua bassa e il sole che cala in mare</h3>
+        <p>La più comoda con i bambini piccoli: entri senza scogli e tocchi per un bel pezzo.</p><div class="chips"></div></div>
+      <div class="sea adr" data-costa="adriatica"><div class="bg"></div><span class="st"></span>
+        <span class="k">Costa adriatica</span><h3>Scogliere, grotte e acqua blu da subito</h3>
+        <p>Qui si viene per i tuffi, la maschera e le calette. Con i piccoli meno comoda.</p><div class="chips"></div></div>
+    </div>
+    <p class="wind-fine">Regola pratica di chi è di qua: il mare vero lo decide il vento di quel giorno, quindi guardalo la mattina.</p>
   </div>
 </section>
 
 <!-- ===================== OFFERTE ===================== -->
 <section class="band" id="offerte">
   <div class="wrap">
-    <div class="shead">
+    <div class="rv shead">
       <div>
         <span class="eyebrow">Offerte con le cene comprese</span>
         <span class="bar"></span>
@@ -482,7 +515,7 @@ footer a:hover{color:var(--sun)}
       </div>
       <a class="all" href="#">Tutte le offerte →</a>
     </div>
-    <div class="offers">
+    <div class="rv offers">
       <div class="offer">
         <span class="when">Giugno · 7 notti</span>
         <h3>Una settimana in masseria, cene dell'orto</h3>
@@ -511,20 +544,20 @@ footer a:hover{color:var(--sun)}
 <!-- ===================== PERCHÉ FIDARSI ===================== -->
 <section class="band band-white">
   <div class="wrap">
-    <div class="shead">
+    <div class="rv shead">
       <div>
         <span class="eyebrow">Come ragioniamo</span>
         <span class="bar"></span>
         <h2>Ti diciamo anche i contro. Soprattutto i contro.</h2>
       </div>
     </div>
-    <div class="trust">
+    <div class="rv trust">
       <div class="tc"><span class="n">01</span><h3>Il consiglio non si compra</h3><p>Dove andare te lo diciamo in base a te. Nessuna struttura può pagare per farti cambiare marina.</p></div>
       <div class="tc"><span class="n">02</span><h3>Lo scrive chi ci vive</h3><p>Fondale, vento, folla mese per mese: lo verifica sul posto gente del Salento, d'inverno e d'estate.</p></div>
       <div class="tc"><span class="n">03</span><h3>Una richiesta, e rispondono loro</h3><p>Prezzo e disponibilità veri, direttamente dalla struttura. Paghi a loro, a noi niente.</p></div>
       <div class="tc"><span class="n">04</span><h3>Se tarda, ce ne accorgiamo</h3><p>Le strutture che non rispondono scendono in fondo alla lista. Il tuo tempo vale.</p></div>
     </div>
-    <div class="quote">
+    <div class="rv quote">
       <div class="av">MC</div>
       <div>
         <p>"A Pescoluse ad agosto ci sono tutti, inutile girarci intorno. Se hai un bimbo piccolo e puoi venire a settembre, trovi la stessa acqua e il lido mezzo vuoto. E dormi a dieci minuti, dove la sera si mangia meglio e spendi meno."</p>
@@ -537,8 +570,8 @@ footer a:hover{color:var(--sun)}
 <!-- ===================== FAQ ===================== -->
 <section class="band">
   <div class="wrap">
-    <div class="shead"><div><span class="eyebrow">Prima di partire</span><span class="bar"></span><h2>Le domande che ci fanno tutti</h2></div></div>
-    <div class="faq">
+    <div class="rv shead"><div><span class="eyebrow">Prima di partire</span><span class="bar"></span><h2>Le domande che ci fanno tutti</h2></div></div>
+    <div class="rv faq">
       <details><summary>Quanto costa usare Salento.it?</summary><p>Niente. Il consiglio è gratis, la richiesta pure. Paghi solo la vacanza, direttamente alla struttura.</p></details>
       <details><summary>Mi mandate dove vi pagano di più?</summary><p>No. La marina che ti consigliamo dipende solo da quello che ci hai detto e da come è fatta. Poi, tra le strutture di quella zona, ti mostriamo per prime quelle che rispondono meglio e più in fretta.</p></details>
       <details><summary>Che differenza c'è tra mezza pensione e pensione completa?</summary><p>Mezza pensione: camera, colazione e cena. Pensione completa: c'è anche il pranzo. In ogni proposta trovi scritto cosa è compreso, così sai quanto spendi prima di partire.</p></details>
@@ -987,7 +1020,7 @@ function cardStruttura(s, consigliata){
   const stelle = s.stelle ? "★".repeat(s.stelle) : "";
   const prezzo = s.tratt.includes("casa") && s.tratt.length===1 ? `da <b>€ ${s.da}</b> a notte, tutta la casa` : `da <b>€ ${s.da}</b> a persona, al giorno`;
   return `<article class="scard">
-    <div class="ph ${s.foto}"><div class="bdg">${consigliata?`<span class="rec">Consigliata</span>`:""}<span>${TRATT[s.tratt[0]]}</span></div><span class="lbl">foto struttura</span></div>
+    <div class="ph ${s.foto}"><div class="bdg">${consigliata?`<span class="rec">Consigliata</span>`:""}<span>${TRATT[s.tratt[0]]}</span></div><span class="lbl">foto segnaposto</span></div>
     <div class="sbody">
       <span class="loc">${s.tipo} · ${m.nome}</span>
       <h4>${s.nome}<small>${stelle}</small></h4>
@@ -1048,15 +1081,12 @@ document.querySelectorAll("[data-occ]").forEach(el => el.addEventListener("click
 
 /* ---------- VENTO ---------- */
 function renderVento(w){
-  const buone = CERVELLO.marine.filter(m => CERVELLO.venti[m.costa].buono.includes(w));
-  const no = CERVELLO.marine.filter(m => !CERVELLO.venti[m.costa].buono.includes(w));
-  const costaOk = buone.filter(m => m.costa!=="punta")[0];
-  const lato = costaOk ? (costaOk.costa==="ionica" ? "sullo Ionio" : "sull'Adriatico") : "";
-  document.getElementById("wOut").innerHTML = `<span class="k">Con ${w}</span>
-    <h3>Oggi vai ${lato}.</h3>
-    <p>${costaOk && costaOk.costa==="ionica" ? "Sabbia, acqua bassa e il tramonto sul mare. Dall'altra parte ci sono le onde." : "Scogliere, calette e acqua trasparente. Dall'altra parte il mare è mosso."}</p>
-    <div class="chips">${buone.map(m => `<span class="chip">${m.nome}</span>`).join("")}${no.slice(0,4).map(m => `<span class="chip no">${m.nome}</span>`).join("")}</div>
-    <p class="fine">Regola pratica di chi è di qua. Il mare vero lo decide il vento di quel giorno, quindi guardalo la mattina.</p>`;
+  document.querySelectorAll(".sea").forEach(el => {
+    const c = el.dataset.costa, ok = CERVELLO.venti[c].buono.includes(w);
+    el.classList.toggle("calm", ok); el.classList.toggle("rough", !ok);
+    el.querySelector(".st").textContent = ok ? "Con " + w + ": mare calmo, vai qui" : "Con " + w + ": mare mosso";
+    el.querySelector(".chips").innerHTML = CERVELLO.marine.filter(m => m.costa===c).map(m => `<span class="chip">${m.nome}</span>`).join("");
+  });
 }
 document.querySelectorAll(".wbtn").forEach(b => b.addEventListener("click", () => {
   document.querySelectorAll(".wbtn").forEach(x => x.classList.remove("on")); b.classList.add("on");
@@ -1118,6 +1148,15 @@ function chiudi(){ modal.classList.remove("show"); }
 modal.addEventListener("click", e => { if(e.target===modal) chiudi(); });
 document.addEventListener("keydown", e => { if(e.key==="Escape") chiudi(); });
 document.querySelectorAll("[data-offer]").forEach(b => b.addEventListener("click", () => apriRichiesta(b.dataset.offer)));
+
+/* ---------- animazioni ---------- */
+document.documentElement.classList.add("js");
+(function(){
+  const els = document.querySelectorAll(".rv");
+  if(!("IntersectionObserver" in window)){ els.forEach(e => e.classList.add("in")); return; }
+  const io = new IntersectionObserver(es => es.forEach(e => { if(e.isIntersecting){ e.target.classList.add("in"); io.unobserve(e.target); } }), {threshold:.12});
+  els.forEach(e => io.observe(e));
+})();
 
 /* ---------- avvio ---------- */
 renderDomanda();
