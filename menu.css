@@ -1,0 +1,95 @@
+/* Salento.it: menu generale, uguale su tutte le pagine. */
+header .nav{flex-wrap:nowrap}
+.menu{margin-right:auto}
+.menu-apri{display:none;width:44px;height:44px;flex:none;align-items:center;justify-content:center;border:1.5px solid #E4DCD1;border-radius:10px;background:#fff;color:#183648;cursor:pointer;transition:border-color .15s}
+.menu-apri:hover{border-color:#183648}
+.menu-apri svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.menu-voci{list-style:none;display:flex;align-items:center;gap:2px;margin:0;padding:0}
+.voce-btn,.voce-link{display:inline-flex;align-items:center;gap:5px;min-height:44px;padding:8px 11px;border:0;border-radius:8px;background:none;font-family:inherit;font-size:.93rem;font-weight:600;color:#183648;white-space:nowrap;cursor:pointer;transition:background-color .15s,color .15s}
+.voce-btn:hover,.voce-link:hover,.voce-btn[aria-expanded="true"]{background:#F7F1EA;color:#B80F2C}
+.voce-btn svg{width:12px;height:12px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;transition:transform .15s}
+.voce-btn[aria-expanded="true"] svg{transform:rotate(180deg)}
+.pannello{position:absolute;left:0;right:0;top:100%;z-index:80;background:#fff;border-top:1px solid #E4DCD1;border-bottom:1px solid #E4DCD1;box-shadow:0 18px 40px rgba(14,42,53,.14)}
+.pannello[hidden]{display:none}
+.pannello-dentro{max-width:1200px;margin:0 auto;padding:24px clamp(16px,3.5vw,36px) 26px;display:grid;grid-template-columns:repeat(var(--col,4),minmax(0,1fr));gap:24px}
+.m-col h2{margin:0 0 6px;font-size:.75rem;font-weight:700;letter-spacing:.07em;line-height:1.3;text-transform:uppercase;color:#5A6D74}
+.m-col ul{list-style:none;margin:0;padding:0}
+.m-col a{display:block;padding:5px 0;font-size:.95rem;font-weight:500;color:#183648}
+.m-col a:hover{color:#B80F2C}
+.m-col a[aria-current="page"]{font-weight:700}
+.m-tutti{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 20px;padding-top:14px;border-top:1px solid #E4DCD1}
+.m-tutti a{display:inline-flex;align-items:center;min-height:32px;font-size:.92rem;font-weight:700;color:#B80F2C}
+.m-consiglio{border-radius:12px;background:#183648;color:#fff;padding:16px}
+.m-consiglio h2{margin:0 0 6px;font-size:1.05rem;font-weight:800;letter-spacing:-.015em;color:#fff}
+.m-consiglio p{margin:0 0 10px;font-size:.88rem;line-height:1.4;color:rgba(255,255,255,.85)}
+.m-consiglio a{display:inline-flex;align-items:center;min-height:40px;padding:6px 14px;border-radius:9px;background:#F0D120;color:#183648;font-size:.9rem;font-weight:800}
+.m-consiglio a:hover{background:#FFD84D}
+
+@media (max-width:1040px){
+  .menu{order:3;margin-right:0}
+  header .nav{gap:8px}
+  header .nav .logo{margin-right:auto}
+  .menu-apri{display:inline-flex}
+  .menu-voci{display:none;position:absolute;left:0;right:0;top:100%;z-index:80;flex-direction:column;align-items:stretch;gap:0;max-height:calc(100vh - 72px);max-height:calc(100dvh - 72px);overflow:auto;padding:6px clamp(16px,3.5vw,36px) 18px;background:#fff;border-top:1px solid #E4DCD1;border-bottom:1px solid #E4DCD1;box-shadow:0 18px 40px rgba(14,42,53,.14)}
+  .menu-voci.aperto{display:flex}
+  .voce{border-bottom:1px solid #E4DCD1}
+  .voce:last-child{border-bottom:0}
+  .voce-btn,.voce-link{display:flex;justify-content:space-between;width:100%;min-height:50px;padding:10px 2px;border-radius:0;font-size:1.02rem}
+  .voce-btn:hover,.voce-link:hover,.voce-btn[aria-expanded="true"]{background:none}
+  .pannello{position:static;border:0;box-shadow:none}
+  .pannello-dentro{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;padding:2px 0 16px}
+  .m-col a{padding:9px 0}
+  .m-consiglio,.m-tutti{grid-column:1/-1}
+  .m-tutti a{min-height:44px}
+}
+@media (max-width:600px){
+  .pannello-dentro{grid-template-columns:minmax(0,1fr)}
+  header .logo img,header .logo-svg{height:36px}
+}
+header .nav .btn{flex:none;white-space:nowrap}
+
+/* Tendine: larghe quanto le voci che contengono, agganciate alla voce */
+@media (min-width:1041px){
+  .voce{position:relative}
+  .pannello{left:0;right:auto;top:calc(100% + 6px);width:max-content;max-width:calc(100vw - 32px);border:1px solid #E4DCD1;border-radius:12px;box-shadow:0 12px 32px rgba(14,42,53,.14)}
+  .pannello-dentro{max-width:none;margin:0;padding:16px 20px 14px;grid-template-columns:repeat(var(--col,3),max-content);gap:14px 32px}
+  .m-col h2{margin-bottom:4px;font-size:.72rem}
+  .m-col a{padding:4px 0;font-size:.92rem;white-space:nowrap}
+  .m-consiglio{width:190px;padding:14px}
+  .m-consiglio a{min-height:36px;padding:5px 12px;font-size:.86rem;white-space:nowrap}
+  .m-tutti{padding-top:10px}
+  .m-tutti a{min-height:28px;font-size:.88rem}
+}
+
+/* Quiz in modale: si apre da ogni pulsante Trova il tuo Salento e Sciamu */
+.qz-modale{width:min(1040px,calc(100vw - 32px));height:min(820px,calc(100vh - 32px));height:min(820px,calc(100dvh - 32px));max-width:none;max-height:none;margin:auto;padding:0;border:0;border-radius:18px;background:#fff;overflow:hidden;box-shadow:0 18px 60px rgba(14,42,53,.4)}
+.qz-modale::backdrop{background:rgba(14,42,53,.65)}
+.qz-modale iframe{display:block;width:100%;height:100%;border:0}
+.qz-x{position:absolute;top:10px;right:10px;z-index:2;width:44px;height:44px;border:0;border-radius:50%;background:#F7F1EA;color:#183648;font-size:1.5rem;line-height:1;cursor:pointer;transition:background-color .15s}
+.qz-x:hover{background:#E4DCD1}
+@media (max-width:600px){
+  .qz-modale{width:100vw;height:100vh;height:100dvh;border-radius:0}
+}
+
+/* Footer: le voci uscite dal menu */
+footer .fgrid{grid-template-columns:minmax(0,1fr) minmax(0,3.8fr)}
+.fcols{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px}
+.fcols h2{margin:0 0 10px;color:#fff;font-size:.92rem}
+.fcols ul{list-style:none;display:grid;gap:7px;margin:0;padding:0}
+.fcols a{color:inherit}
+.fcols a:hover{color:#F0D120}
+@media (max-width:1040px){
+  footer .fgrid{grid-template-columns:minmax(0,1fr)}
+  .fcols{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width:600px){
+  .fcols{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+
+/* Titoli e sottotitoli: a capo solo quando serve */
+h1,h2,h3,h4,.claim,.claim2,.claim-h,.lead,.hero .lead,.p-hero .lead,.intesta p,.shead p,.final p,.oc p,.coast-card p,.mot p,.honest{text-wrap:wrap}
+.hero .lead,.p-hero .lead,.intesta p,.shead h2,.shead p,.final p,.oc p,.coast-card p,.honest,.p-hero .claim,.intesta .claim{max-width:none}
+.p-hero h1,.intesta h1{max-width:none}
+.hero .titolo,.final h2{text-wrap:balance}
+
+

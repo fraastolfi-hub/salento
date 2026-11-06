@@ -1,0 +1,1944 @@
+{
+ "nota": "Dati dimostrativi inventati per provare il modello. Da sostituire con quelli verificati.",
+ "vocabolario": {
+  "bambini-piccoli": "Bambini piccoli",
+  "cane": "Cane",
+  "senza-glutine": "Senza glutine",
+  "vegano": "Vegano",
+  "pensione": "Pensione",
+  "silenzio": "Silenzio",
+  "senza-auto": "Senza auto",
+  "sabbia": "Sabbia",
+  "scogli": "Scogli",
+  "vita-serale": "Vita serale"
+ },
+ "destinazioni": {
+  "lecce": [
+   "cane"
+  ],
+  "gallipoli": [
+   "bambini-piccoli",
+   "vita-serale",
+   "senza-auto",
+   "pensione"
+  ],
+  "otranto": [
+   "cane",
+   "pensione"
+  ],
+  "santa-maria-di-leuca": [
+   "scogli"
+  ],
+  "porto-cesareo": [
+   "sabbia",
+   "cane"
+  ],
+  "torre-dellorso": [
+   "bambini-piccoli",
+   "sabbia",
+   "senza-glutine"
+  ],
+  "castro-marina": [
+   "scogli",
+   "vita-serale",
+   "pensione"
+  ],
+  "maldive-del-salento": [
+   "bambini-piccoli",
+   "sabbia"
+  ],
+  "santandrea": [
+   "vita-serale",
+   "senza-auto",
+   "pensione",
+   "senza-glutine"
+  ],
+  "torre-rinalda": [
+   "bambini-piccoli",
+   "sabbia",
+   "scogli",
+   "cane",
+   "pensione"
+  ],
+  "tricase": [
+   "silenzio",
+   "scogli",
+   "pensione"
+  ],
+  "marina-di-marittima": [
+   "scogli",
+   "senza-auto"
+  ],
+  "lido-marini": [
+   "bambini-piccoli",
+   "sabbia",
+   "scogli",
+   "cane"
+  ],
+  "patu": [
+   "silenzio",
+   "pensione"
+  ],
+  "ugento": [
+   "bambini-piccoli",
+   "sabbia",
+   "scogli",
+   "senza-glutine"
+  ],
+  "marina-di-alliste": [
+   "bambini-piccoli",
+   "silenzio",
+   "scogli",
+   "pensione"
+  ],
+  "sannicola": [
+   "silenzio",
+   "cane",
+   "pensione"
+  ],
+  "punta-prosciutto": [
+   "bambini-piccoli",
+   "sabbia",
+   "cane"
+  ],
+  "cutrofiano": [
+   "silenzio",
+   "pensione",
+   "senza-glutine"
+  ],
+  "san-foca": [
+   "sabbia",
+   "scogli"
+  ],
+  "vernole": [
+   "senza-glutine"
+  ],
+  "marina-serra": [
+   "silenzio",
+   "scogli",
+   "cane"
+  ],
+  "torre-vado": [
+   "bambini-piccoli",
+   "senza-auto"
+  ],
+  "torre-mozza": [
+   "bambini-piccoli",
+   "cane",
+   "pensione"
+  ],
+  "morciano-di-leuca": [
+   "cane"
+  ],
+  "torre-suda": [
+   "silenzio",
+   "scogli",
+   "senza-auto",
+   "cane"
+  ],
+  "alliste": [
+   "bambini-piccoli",
+   "scogli"
+  ],
+  "tuglie": [],
+  "nardo": [
+   "bambini-piccoli",
+   "scogli",
+   "cane",
+   "pensione"
+  ],
+  "grecia-salentina": [
+   "senza-auto",
+   "pensione"
+  ],
+  "frigole": [
+   "silenzio",
+   "sabbia",
+   "senza-glutine"
+  ],
+  "santa-cesarea-terme": [
+   "bambini-piccoli",
+   "scogli",
+   "cane",
+   "pensione"
+  ],
+  "poggiardo": [
+   "silenzio",
+   "scogli",
+   "cane"
+  ],
+  "torre-pali": [
+   "bambini-piccoli",
+   "scogli"
+  ],
+  "salve": [
+   "cane",
+   "pensione"
+  ],
+  "torre-san-giovanni": [
+   "bambini-piccoli",
+   "vita-serale",
+   "senza-auto",
+   "cane",
+   "pensione"
+  ],
+  "marina-di-mancaversa": [
+   "bambini-piccoli",
+   "silenzio",
+   "sabbia",
+   "scogli"
+  ],
+  "racale": [],
+  "torre-lapillo": [
+   "bambini-piccoli",
+   "scogli",
+   "pensione"
+  ],
+  "galatina": [
+   "senza-auto",
+   "cane",
+   "pensione"
+  ]
+ },
+ "strutture": {
+  "hotel/palazzo-arco-cadura-hotel-spa": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 31,
+   "voto": 8.8,
+   "prezzo": 59,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 60,
+    "Giugno": 70,
+    "Luglio": 90,
+    "Agosto": 120,
+    "Settembre": 75,
+    "Ottobre": 60
+   }
+  },
+  "hotel/the-crown-palace": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 29,
+   "voto": 9.1,
+   "prezzo": 89,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [],
+   "listino": {
+    "Maggio": 90,
+    "Giugno": 105,
+    "Luglio": 135,
+    "Agosto": 180,
+    "Settembre": 110,
+    "Ottobre": 90
+   }
+  },
+  "hotel/gh-gallipoli-resort": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 28,
+   "voto": 9.0,
+   "prezzo": 54,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 55,
+    "Giugno": 65,
+    "Luglio": 80,
+    "Agosto": 110,
+    "Settembre": 70,
+    "Ottobre": 55
+   }
+  },
+  "hotel/albergo-2-mari": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 19,
+   "voto": 8.8,
+   "prezzo": 50,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane",
+    "pensione"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "hotel/palummare-agrihotel-relais": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 17,
+   "voto": 7.8,
+   "prezzo": 90,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "pensione",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 90,
+    "Giugno": 105,
+    "Luglio": 135,
+    "Agosto": 180,
+    "Settembre": 110,
+    "Ottobre": 90
+   }
+  },
+  "hotel/hotel-beach-salento": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.7,
+   "prezzo": 80,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "pensione",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 80,
+    "Giugno": 95,
+    "Luglio": 120,
+    "Agosto": 160,
+    "Settembre": 100,
+    "Ottobre": 80
+   }
+  },
+  "hotel/borgo-primizia": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 9,
+   "voto": 8.7,
+   "prezzo": 80,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 80,
+    "Giugno": 95,
+    "Luglio": 120,
+    "Agosto": 160,
+    "Settembre": 100,
+    "Ottobre": 80
+   }
+  },
+  "hotel/villa-conca-marco": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 32,
+   "voto": 8.2,
+   "prezzo": 95,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "pensione",
+    "senza-glutine",
+    "vegano"
+   ],
+   "listino": {
+    "Maggio": 95,
+    "Giugno": 115,
+    "Luglio": 140,
+    "Agosto": 190,
+    "Settembre": 120,
+    "Ottobre": 95
+   }
+  },
+  "hotel/antica-masseria-ficazzana": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 32,
+   "voto": 8.6,
+   "prezzo": 45,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 45,
+    "Giugno": 55,
+    "Luglio": 70,
+    "Agosto": 90,
+    "Settembre": 55,
+    "Ottobre": 45
+   }
+  },
+  "hotel/tenuta-doxi": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 31,
+   "voto": 8.4,
+   "prezzo": 90,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "pensione",
+    "senza-glutine",
+    "vegano"
+   ],
+   "listino": {
+    "Maggio": 90,
+    "Giugno": 105,
+    "Luglio": 135,
+    "Agosto": 180,
+    "Settembre": 110,
+    "Ottobre": 90
+   }
+  },
+  "hotel/hotel-terminal": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 30,
+   "voto": 9.3,
+   "prezzo": 85,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "silenzio",
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 85,
+    "Giugno": 100,
+    "Luglio": 130,
+    "Agosto": 170,
+    "Settembre": 105,
+    "Ottobre": 85
+   }
+  },
+  "hotel/hotel-luna-lido": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 30,
+   "voto": 8.8,
+   "prezzo": 95,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "senza-glutine",
+    "vegano",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 95,
+    "Giugno": 115,
+    "Luglio": 140,
+    "Agosto": 190,
+    "Settembre": 120,
+    "Ottobre": 95
+   }
+  },
+  "hotel/monteforte-suite-spa": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 29,
+   "voto": 8.5,
+   "prezzo": 116,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 115,
+    "Giugno": 140,
+    "Luglio": 175,
+    "Agosto": 230,
+    "Settembre": 145,
+    "Ottobre": 115
+   }
+  },
+  "hotel/hotel-picchio": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 28,
+   "voto": 8.0,
+   "prezzo": 55,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 55,
+    "Giugno": 65,
+    "Luglio": 80,
+    "Agosto": 110,
+    "Settembre": 70,
+    "Ottobre": 55
+   }
+  },
+  "hotel/le-gemelle-boutique-hotel": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 27,
+   "voto": 9.6,
+   "prezzo": 29,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "senza-glutine"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 35,
+    "Ottobre": 30
+   }
+  },
+  "hotel/villa-la-meridiana": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 23,
+   "voto": 8.0,
+   "prezzo": 100,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "pensione"
+   ],
+   "listino": {
+    "Maggio": 100,
+    "Giugno": 120,
+    "Luglio": 150,
+    "Agosto": 200,
+    "Settembre": 125,
+    "Ottobre": 100
+   }
+  },
+  "hotel/volito-hotel": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 22,
+   "voto": 7.9,
+   "prezzo": 130,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "vegano"
+   ],
+   "listino": {
+    "Maggio": 130,
+    "Giugno": 155,
+    "Luglio": 195,
+    "Agosto": 260,
+    "Settembre": 160,
+    "Ottobre": 130
+   }
+  },
+  "hotel/spiaggiabella-resort": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 22,
+   "voto": 8.3,
+   "prezzo": 80,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "silenzio",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 80,
+    "Giugno": 95,
+    "Luglio": 120,
+    "Agosto": 160,
+    "Settembre": 100,
+    "Ottobre": 80
+   }
+  },
+  "hotel/ecoresort-le-sirene": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 22,
+   "voto": 8.7,
+   "prezzo": 95,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane",
+    "pensione",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 95,
+    "Giugno": 115,
+    "Luglio": 140,
+    "Agosto": 190,
+    "Settembre": 120,
+    "Ottobre": 95
+   }
+  },
+  "hotel/racar-hotel-villaggio": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 21,
+   "voto": 9.6,
+   "prezzo": 40,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 60,
+    "Agosto": 80,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "hotel/marini-hotel-bb": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 20,
+   "voto": 9.0,
+   "prezzo": 30,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 40,
+    "Ottobre": 30
+   }
+  },
+  "hotel/masseria-agriturismo-faresalento": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 19,
+   "voto": 9.2,
+   "prezzo": 35,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "senza-glutine",
+    "vegano",
+    "silenzio",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 35,
+    "Giugno": 40,
+    "Luglio": 50,
+    "Agosto": 70,
+    "Settembre": 45,
+    "Ottobre": 35
+   }
+  },
+  "hotel/hilton-garden-inn-lecce": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 18,
+   "voto": 9.3,
+   "prezzo": 100,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane"
+   ],
+   "listino": {
+    "Maggio": 100,
+    "Giugno": 120,
+    "Luglio": 150,
+    "Agosto": 200,
+    "Settembre": 125,
+    "Ottobre": 100
+   }
+  },
+  "hotel/palazzo-zaca": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.7,
+   "prezzo": 55,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 55,
+    "Giugno": 65,
+    "Luglio": 80,
+    "Agosto": 110,
+    "Settembre": 70,
+    "Ottobre": 55
+   }
+  },
+  "hotel/joli-park-hotel": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.6,
+   "prezzo": 75,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 75,
+    "Giugno": 90,
+    "Luglio": 110,
+    "Agosto": 150,
+    "Settembre": 95,
+    "Ottobre": 75
+   }
+  },
+  "hotel/sangiorgio-resort-spa": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 12,
+   "voto": 8.6,
+   "prezzo": 69,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane"
+   ],
+   "listino": {
+    "Maggio": 70,
+    "Giugno": 80,
+    "Luglio": 105,
+    "Agosto": 140,
+    "Settembre": 85,
+    "Ottobre": 70
+   }
+  },
+  "hotel/hotel-bellavista-club": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 11,
+   "voto": 8.3,
+   "prezzo": 70,
+   "trattamenti": [
+    "pensione completa"
+   ],
+   "tag": [
+    "cane",
+    "pensione",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 70,
+    "Giugno": 85,
+    "Luglio": 105,
+    "Agosto": 140,
+    "Settembre": 90,
+    "Ottobre": 70
+   }
+  },
+  "hotel/casale-donna-rosa": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 32,
+   "voto": 9.2,
+   "prezzo": 25,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 25,
+    "Giugno": 30,
+    "Luglio": 40,
+    "Agosto": 50,
+    "Settembre": 30,
+    "Ottobre": 25
+   }
+  },
+  "hotel/hotel-alba-chiara": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 29,
+   "voto": 8.6,
+   "prezzo": 90,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "pensione",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 90,
+    "Giugno": 105,
+    "Luglio": 135,
+    "Agosto": 180,
+    "Settembre": 110,
+    "Ottobre": 90
+   }
+  },
+  "hotel/palazzo-insula": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 27,
+   "voto": 9.5,
+   "prezzo": 60,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 60,
+    "Giugno": 70,
+    "Luglio": 90,
+    "Agosto": 120,
+    "Settembre": 75,
+    "Ottobre": 60
+   }
+  },
+  "hotel/bb-hotel-bonila": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 22,
+   "voto": 8.5,
+   "prezzo": 40,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 60,
+    "Agosto": 80,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "hotel/hotel-garden-salento": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 22,
+   "voto": 9.4,
+   "prezzo": 80,
+   "trattamenti": [
+    "mezza pensione"
+   ],
+   "tag": [
+    "bambini-piccoli",
+    "cane",
+    "pensione",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 80,
+    "Giugno": 95,
+    "Luglio": 120,
+    "Agosto": 160,
+    "Settembre": 100,
+    "Ottobre": 80
+   }
+  },
+  "hotel/hotel-nauticus": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 14,
+   "voto": 8.7,
+   "prezzo": 30,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "senza-glutine",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 40,
+    "Ottobre": 30
+   }
+  },
+  "hotel/scirocco-boutique-eco-hotel": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 11,
+   "voto": 8.7,
+   "prezzo": 70,
+   "trattamenti": [
+    "B&B"
+   ],
+   "tag": [
+    "cane",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 70,
+    "Giugno": 85,
+    "Luglio": 105,
+    "Agosto": 140,
+    "Settembre": 90,
+    "Ottobre": 70
+   }
+  },
+  "appartamenti/la-mora": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 32,
+   "voto": 8.8,
+   "prezzo": 180,
+   "trattamenti": [],
+   "tag": [
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 180,
+    "Giugno": 215,
+    "Luglio": 270,
+    "Agosto": 360,
+    "Settembre": 225,
+    "Ottobre": 180
+   }
+  },
+  "appartamenti/casa-marea": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 32,
+   "voto": 8.9,
+   "prezzo": 495,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 495,
+    "Giugno": 590,
+    "Luglio": 740,
+    "Agosto": 990,
+    "Settembre": 620,
+    "Ottobre": 495
+   }
+  },
+  "appartamenti/dimora-torre-baldassarra": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 31,
+   "voto": 9.0,
+   "prezzo": 180,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 180,
+    "Giugno": 215,
+    "Luglio": 270,
+    "Agosto": 360,
+    "Settembre": 225,
+    "Ottobre": 180
+   }
+  },
+  "appartamenti/pantaleone": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 23,
+   "voto": 9.5,
+   "prezzo": 180,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 180,
+    "Giugno": 215,
+    "Luglio": 270,
+    "Agosto": 360,
+    "Settembre": 225,
+    "Ottobre": 180
+   }
+  },
+  "appartamenti/blumarini-6": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 22,
+   "voto": 9.6,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/borgo-del-sole": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 20,
+   "voto": 8.6,
+   "prezzo": 55,
+   "trattamenti": [],
+   "tag": [
+    "silenzio",
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 55,
+    "Giugno": 65,
+    "Luglio": 80,
+    "Agosto": 110,
+    "Settembre": 70,
+    "Ottobre": 55
+   }
+  },
+  "appartamenti/residence-zeus": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 18,
+   "voto": 8.2,
+   "prezzo": 40,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 60,
+    "Agosto": 80,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "appartamenti/petrammare": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 15,
+   "voto": 9.5,
+   "prezzo": 300,
+   "trattamenti": [],
+   "tag": [
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 300,
+    "Giugno": 355,
+    "Luglio": 450,
+    "Agosto": 600,
+    "Settembre": 375,
+    "Ottobre": 300
+   }
+  },
+  "appartamenti/casa-vacanza-lu-mare": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.5,
+   "prezzo": 224,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 225,
+    "Giugno": 265,
+    "Luglio": 335,
+    "Agosto": 450,
+    "Settembre": 280,
+    "Ottobre": 225
+   }
+  },
+  "appartamenti/dimora-le-site": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 11,
+   "voto": 8.5,
+   "prezzo": 45,
+   "trattamenti": [],
+   "tag": [
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 45,
+    "Giugno": 55,
+    "Luglio": 70,
+    "Agosto": 90,
+    "Settembre": 55,
+    "Ottobre": 45
+   }
+  },
+  "appartamenti/le-5-dimore-sul-mare": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 10,
+   "voto": 9.6,
+   "prezzo": 135,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 135,
+    "Giugno": 160,
+    "Luglio": 200,
+    "Agosto": 270,
+    "Settembre": 170,
+    "Ottobre": 135
+   }
+  },
+  "appartamenti/sole-salento-2": {
+   "top": true,
+   "modello": "commissione",
+   "conversione": 9,
+   "voto": 9.3,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/rosamarina": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 32,
+   "voto": 9.6,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/casa-micocci": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 30,
+   "voto": 8.6,
+   "prezzo": 126,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 125,
+    "Giugno": 150,
+    "Luglio": 190,
+    "Agosto": 250,
+    "Settembre": 160,
+    "Ottobre": 125
+   }
+  },
+  "appartamenti/casa-vacanza-la-perla-salentina": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 29,
+   "voto": 8.5,
+   "prezzo": 34,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 35,
+    "Giugno": 40,
+    "Luglio": 50,
+    "Agosto": 70,
+    "Settembre": 40,
+    "Ottobre": 35
+   }
+  },
+  "appartamenti/villa-bianca": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 29,
+   "voto": 7.8,
+   "prezzo": 193,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 195,
+    "Giugno": 230,
+    "Luglio": 290,
+    "Agosto": 385,
+    "Settembre": 240,
+    "Ottobre": 195
+   }
+  },
+  "appartamenti/villetta-margherita": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 28,
+   "voto": 8.1,
+   "prezzo": 30,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 40,
+    "Ottobre": 30
+   }
+  },
+  "appartamenti/li-cafari": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 27,
+   "voto": 8.2,
+   "prezzo": 9220,
+   "trattamenti": [],
+   "tag": [
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 9220,
+    "Giugno": 10950,
+    "Luglio": 13830,
+    "Agosto": 18440,
+    "Settembre": 11525,
+    "Ottobre": 9220
+   }
+  },
+  "appartamenti/villetta-apollo": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 26,
+   "voto": 9.1,
+   "prezzo": 34,
+   "trattamenti": [],
+   "tag": [
+    "cane"
+   ],
+   "listino": {
+    "Maggio": 35,
+    "Giugno": 40,
+    "Luglio": 50,
+    "Agosto": 70,
+    "Settembre": 40,
+    "Ottobre": 35
+   }
+  },
+  "appartamenti/casa-bluet": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 25,
+   "voto": 8.1,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/residence-mare-azzurro": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 24,
+   "voto": 8.2,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/blumarini-5": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 22,
+   "voto": 8.6,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/idrusa": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 19,
+   "voto": 8.1,
+   "prezzo": 180,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 180,
+    "Giugno": 215,
+    "Luglio": 270,
+    "Agosto": 360,
+    "Settembre": 225,
+    "Ottobre": 180
+   }
+  },
+  "appartamenti/sole-salento-3": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 18,
+   "voto": 8.6,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/mare-e-sabbia": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 17,
+   "voto": 9.6,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/corfu": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 17,
+   "voto": 8.8,
+   "prezzo": 102,
+   "trattamenti": [],
+   "tag": [
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 100,
+    "Giugno": 120,
+    "Luglio": 155,
+    "Agosto": 205,
+    "Settembre": 130,
+    "Ottobre": 100
+   }
+  },
+  "appartamenti/casa-sterlizia": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 17,
+   "voto": 8.4,
+   "prezzo": 114,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 115,
+    "Giugno": 135,
+    "Luglio": 170,
+    "Agosto": 230,
+    "Settembre": 140,
+    "Ottobre": 115
+   }
+  },
+  "appartamenti/trullo-tramontana": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 16,
+   "voto": 7.8,
+   "prezzo": 25,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 25,
+    "Giugno": 30,
+    "Luglio": 40,
+    "Agosto": 50,
+    "Settembre": 30,
+    "Ottobre": 25
+   }
+  },
+  "appartamenti/residence-spuma-di-mare": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 16,
+   "voto": 8.4,
+   "prezzo": 69,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 70,
+    "Giugno": 80,
+    "Luglio": 105,
+    "Agosto": 140,
+    "Settembre": 85,
+    "Ottobre": 70
+   }
+  },
+  "appartamenti/maris-inn": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 16,
+   "voto": 9.1,
+   "prezzo": 122,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 120,
+    "Giugno": 145,
+    "Luglio": 185,
+    "Agosto": 245,
+    "Settembre": 150,
+    "Ottobre": 120
+   }
+  },
+  "appartamenti/sabbia-e-mare": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 15,
+   "voto": 8.1,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/maison-gioia": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 14,
+   "voto": 8.1,
+   "prezzo": 360,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "silenzio",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 360,
+    "Giugno": 430,
+    "Luglio": 540,
+    "Agosto": 720,
+    "Settembre": 450,
+    "Ottobre": 360
+   }
+  },
+  "appartamenti/villetta-daversa-2": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 14,
+   "voto": 8.2,
+   "prezzo": 37,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 35,
+    "Giugno": 45,
+    "Luglio": 55,
+    "Agosto": 75,
+    "Settembre": 45,
+    "Ottobre": 35
+   }
+  },
+  "appartamenti/mare-di-pazze": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.2,
+   "prezzo": 50,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 50,
+    "Giugno": 60,
+    "Luglio": 75,
+    "Agosto": 100,
+    "Settembre": 60,
+    "Ottobre": 50
+   }
+  },
+  "appartamenti/villa-giulia": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.1,
+   "prezzo": 420,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 420,
+    "Giugno": 500,
+    "Luglio": 630,
+    "Agosto": 840,
+    "Settembre": 525,
+    "Ottobre": 420
+   }
+  },
+  "appartamenti/spiaggia-bianca-apartments": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 13,
+   "voto": 8.3,
+   "prezzo": 145,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 145,
+    "Giugno": 170,
+    "Luglio": 220,
+    "Agosto": 290,
+    "Settembre": 180,
+    "Ottobre": 145
+   }
+  },
+  "appartamenti/villa-lamia-del-sole": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 12,
+   "voto": 9.0,
+   "prezzo": 110,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 110,
+    "Giugno": 130,
+    "Luglio": 165,
+    "Agosto": 220,
+    "Settembre": 140,
+    "Ottobre": 110
+   }
+  },
+  "appartamenti/villa-petramore": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 11,
+   "voto": 7.9,
+   "prezzo": 230,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 230,
+    "Giugno": 275,
+    "Luglio": 345,
+    "Agosto": 460,
+    "Settembre": 290,
+    "Ottobre": 230
+   }
+  },
+  "appartamenti/residence-cala-verde": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 10,
+   "voto": 9.4,
+   "prezzo": 42,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 65,
+    "Agosto": 85,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "appartamenti/residence-apollo": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 9,
+   "voto": 9.0,
+   "prezzo": 40,
+   "trattamenti": [],
+   "tag": [
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 60,
+    "Agosto": 80,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "appartamenti/porta-terra": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 8,
+   "voto": 9.1,
+   "prezzo": 180,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 180,
+    "Giugno": 215,
+    "Luglio": 270,
+    "Agosto": 360,
+    "Settembre": 225,
+    "Ottobre": 180
+   }
+  },
+  "appartamenti/maison-monica": {
+   "top": false,
+   "modello": "commissione",
+   "conversione": 8,
+   "voto": 9.1,
+   "prezzo": 300,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 300,
+    "Giugno": 355,
+    "Luglio": 450,
+    "Agosto": 600,
+    "Settembre": 375,
+    "Ottobre": 300
+   }
+  },
+  "appartamenti/paxos": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 28,
+   "voto": 9.4,
+   "prezzo": 120,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "vita-serale"
+   ],
+   "listino": {
+    "Maggio": 120,
+    "Giugno": 140,
+    "Luglio": 180,
+    "Agosto": 240,
+    "Settembre": 150,
+    "Ottobre": 120
+   }
+  },
+  "appartamenti/bilocale-afrodite": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 28,
+   "voto": 9.6,
+   "prezzo": 30,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 40,
+    "Ottobre": 30
+   }
+  },
+  "appartamenti/casa-vacanza-ausonio": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 27,
+   "voto": 7.9,
+   "prezzo": 40,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 40,
+    "Giugno": 50,
+    "Luglio": 60,
+    "Agosto": 80,
+    "Settembre": 50,
+    "Ottobre": 40
+   }
+  },
+  "appartamenti/villa-lungomare-galilei": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 26,
+   "voto": 8.3,
+   "prezzo": 59,
+   "trattamenti": [],
+   "tag": [
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 60,
+    "Giugno": 70,
+    "Luglio": 90,
+    "Agosto": 120,
+    "Settembre": 75,
+    "Ottobre": 60
+   }
+  },
+  "appartamenti/casa-francesca": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 25,
+   "voto": 9.0,
+   "prezzo": 30,
+   "trattamenti": [],
+   "tag": [
+    "bambini-piccoli",
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 30,
+    "Giugno": 35,
+    "Luglio": 45,
+    "Agosto": 60,
+    "Settembre": 40,
+    "Ottobre": 30
+   }
+  },
+  "appartamenti/villa-il-panorama-sullo-ionio": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 22,
+   "voto": 9.3,
+   "prezzo": 68,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 70,
+    "Giugno": 80,
+    "Luglio": 100,
+    "Agosto": 135,
+    "Settembre": 85,
+    "Ottobre": 70
+   }
+  },
+  "appartamenti/zante": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 16,
+   "voto": 8.1,
+   "prezzo": 102,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 100,
+    "Giugno": 120,
+    "Luglio": 155,
+    "Agosto": 205,
+    "Settembre": 130,
+    "Ottobre": 100
+   }
+  },
+  "appartamenti/villetta-daversa-1": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 16,
+   "voto": 9.1,
+   "prezzo": 34,
+   "trattamenti": [],
+   "tag": [],
+   "listino": {
+    "Maggio": 35,
+    "Giugno": 40,
+    "Luglio": 50,
+    "Agosto": 70,
+    "Settembre": 40,
+    "Ottobre": 35
+   }
+  },
+  "appartamenti/kithira": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 13,
+   "voto": 8.4,
+   "prezzo": 120,
+   "trattamenti": [],
+   "tag": [
+    "senza-auto"
+   ],
+   "listino": {
+    "Maggio": 120,
+    "Giugno": 140,
+    "Luglio": 180,
+    "Agosto": 240,
+    "Settembre": 150,
+    "Ottobre": 120
+   }
+  },
+  "appartamenti/trullo-scirocco": {
+   "top": false,
+   "modello": "fee",
+   "conversione": 10,
+   "voto": 8.0,
+   "prezzo": 25,
+   "trattamenti": [],
+   "tag": [
+    "silenzio"
+   ],
+   "listino": {
+    "Maggio": 25,
+    "Giugno": 30,
+    "Luglio": 40,
+    "Agosto": 50,
+    "Settembre": 30,
+    "Ottobre": 25
+   }
+  }
+ }
+}

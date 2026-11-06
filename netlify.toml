@@ -7,3 +7,24 @@
   for = "/*"
   [headers.values]
     X-Robots-Tag = "noindex, nofollow, noarchive"
+
+# La vecchia guida alle spiagge ora è la sezione spiagge.
+[[redirects]]
+  from = "/servizi/spiagge-salento/*"
+  to = "/spiagge/"
+  status = 301
+  force = true
+
+# La pagina del personaggio è diventata Chi siamo.
+[[redirects]]
+  from = "/zi-cosimo.html"
+  to = "/guide/chi-siamo/"
+  status = 301
+  force = true
+
+# La sezione servizi ora si chiama guide.
+[[redirects]]
+  from = "/servizi/*"
+  to = "/guide/:splat"
+  status = 301
+  force = true
