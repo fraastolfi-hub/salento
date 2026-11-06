@@ -1,0 +1,484 @@
+{
+ "frigole": {
+  "nome": "Frigole",
+  "lead": "Marina di Lecce, a circa 15 km dalla città. Dune, un bacino e un lungomare: quanto basta per staccare.",
+  "consiglio": "Se dormi in città, vieni a Frigole per una giornata e aggiungi una camminata al Parco del Rauccio. I leccesi staccano qui, e di solito hanno ragione.",
+  "perfetta": [
+   "Chi dorme a Lecce e vuole il mare vicino",
+   "Chi cerca una marina tranquilla",
+   "Chi mette le dune e la natura prima di tutto"
+  ],
+  "nonadatta": [
+   "Chi vuole locali e vita notturna: è una marina quieta",
+   "Chi non vuole spostarsi: le attrazioni sono in città"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Frigole è una delle marine di Lecce, sulla costa adriatica. È tranquilla e la frequenta soprattutto chi abita in città.",
+     "La spiaggia è di sabbia bianca e sottile, con le dune coperte di vegetazione. Quella vegetazione tiene ferme le dune contro il vento e contro chi ci cammina sopra. Il vento non lo puoi fermare, tu sì: resta sui passaggi."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Dietro le dune c'è l'Acquatina, un bacino costiero che sembra una laguna. Sembra soltanto: non è naturale, nasce da lavori di bonifica.",
+     "Il lungomare è fatto per la passeggiata. Per mezza giornata di natura vai al vicino Parco del Rauccio, un'oasi alle porte di Lecce."
+    ],
+    "et": [
+     "Acquatina",
+     "Parco del Rauccio"
+    ]
+   }
+  ],
+  "claim": "Quando Lecce vuole il mare, viene qui."
+ },
+ "santa-cesarea-terme": {
+  "nome": "Santa Cesarea Terme",
+  "lead": "Un paese sulla scogliera adriatica. Terme vere, ville in stile moresco e poca sabbia da riportarti in valigia.",
+  "consiglio": "Qui il mare si fa dagli scogli, quindi porta scarpe adatte. Per la sera scendi verso Castro Marina, dove sono le discoteche.",
+  "perfetta": [
+   "Chi viene per terme e benessere",
+   "Chi si ferma a guardare le ville in stile moresco",
+   "Chi fa snorkeling dagli scogli",
+   "Le famiglie curiose di turismo termale"
+  ],
+  "nonadatta": [
+   "Chi vuole la sabbia: la costa è rocciosa",
+   "Chi cerca una spiaggia attrezzata con i bambini piccoli"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Santa Cesarea sta sulla scogliera, sul lato adriatico. Le spiagge sono rocciose, con qualche caletta, e il bagno si fa dagli scogli. Prima si sceglie lo scoglio, poi si stende il telo.",
+     "Sott'acqua c'è da guardare: chi fa snorkeling o immersioni trova flora e fauna marina."
+    ],
+    "et": []
+   },
+   {
+    "h": "Le terme",
+    "p": [
+     "Le sorgenti sono clorurate e sulfuree e arrivano a quattro grotte che comunicano con il mare. L'acqua viene portata a 36-37 gradi per i trattamenti.",
+     "Oggi qui non trovi solo anziani: arrivano anche le famiglie, grazie ai centri benessere. Tra i trattamenti ci sono il massaggio antistress, l'idromassaggio e la maschera al fango termale."
+    ],
+    "et": [
+     "Terme di Santa Cesarea"
+    ]
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Villa Sticchi è uno degli esempi più riusciti di architettura moresca del posto. Poi il centro storico, con le stradine strette e gli edifici storici. In zona partono anche sentieri panoramici lungo la costa, e lì le scarpe giuste tornano utili."
+    ],
+    "et": [
+     "Villa Sticchi"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Per ballare scendi lungo la costa verso Castro Marina: ci sono il Malè, il Guendalina e il Blubay. Prima il fango, poi la pista."
+    ],
+    "et": [
+     "Malè",
+     "Guendalina",
+     "Blubay"
+    ]
+   }
+  ],
+  "claim": "Terme vere e ville moresche. Il costume serve lo stesso."
+ },
+ "poggiardo": {
+  "nome": "Poggiardo",
+  "lead": "Paese del basso Salento, a 40 km da Lecce. Il motivo per venire sta sottoterra: le grotte.",
+  "consiglio": "Vieni per mezza giornata, per le grotte e non per il mare. Si arriva dalla SS16 Adriatica: metti in conto circa 40 km da Lecce.",
+  "perfetta": [
+   "Chi va matto per grotte e concrezioni",
+   "Chi vuole un paese senza folla",
+   "Chi gira il basso Salento in auto"
+  ],
+  "nonadatta": [
+   "Chi vuole il mare sotto casa: Poggiardo è un paese",
+   "Chi cerca lidi e vita serale"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Poggiardo è un comune di circa seimila abitanti nel basso Salento. Dista 40 km da Lecce e si raggiunge dalla SS16 Adriatica.",
+     "Qui si viene per storia, arte e natura. Se cerchi la spiaggia, hai sbagliato uscita."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Vicino alla Pineta ci sono le Grotte Carsiche di Poggiardo. La più famosa è la Grotta delle Meraviglie: il nome lo deve alle sue concrezioni, non all'ufficio turistico."
+    ],
+    "et": [
+     "Grotte Carsiche",
+     "Grotta delle Meraviglie"
+    ]
+   }
+  ],
+  "claim": "Vieni per le grotte. Il costume resta in valigia."
+ },
+ "torre-pali": {
+  "nome": "Torre Pali",
+  "lead": "Villaggio di pescatori sullo Ionio, con una torre cinquecentesca a 20 metri dalla riva. La foto al tramonto si compone da sola.",
+  "consiglio": "Per il tramonto vai alla torre: è uno dei punti migliori per fotografarlo. Pescoluse è a 5-6 km in auto, e qui i parcheggi sono a pagamento.",
+  "perfetta": [
+   "Le famiglie con bambini piccoli",
+   "Chi vuole un tramonto sul mare",
+   "Chi fa snorkeling o esce in barca",
+   "Chi vuole stare vicino a Pescoluse"
+  ],
+  "nonadatta": [
+   "Chi cerca discoteche: la sera è tranquilla",
+   "Chi vuole parcheggiare gratis: molti posti sono a pagamento"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Torre Pali è una marina del comune di Salve, sul tratto di costa che porta a Santa Maria di Leuca. Sabbia chiara e fine, dune, macchia mediterranea e un porticciolo per piccole barche.",
+     "Il fondale è basso, perfetto per i bambini piccoli: loro giocano, tu respiri. Trovi lidi attrezzati e tratti di spiaggia libera."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La torre di avvistamento è del Cinquecento ed è circondata dall'acqua. Oggi è in parte diroccata, ma il simbolo del posto resta lei.",
+     "A circa 100 metri dalla riva c'è lo scoglio detto Isola della Fanciulla, su cui girano varie leggende. Davanti c'è un percorso a piedi tra dune e vegetazione. La spiaggetta è più raccolta, con poca sabbia tra scogli bassi e pochi servizi."
+    ],
+    "et": [
+     "Isola della Fanciulla",
+     "Torre di avvistamento"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Un aperitivo nei bar sulla spiaggia, poi pesce nei ristoranti del litorale. Se vuoi più silenzio, vai in una masseria dell'entroterra. Programma breve, ma funziona."
+    ],
+    "et": [
+     "Brisa Beach"
+    ]
+   },
+   {
+    "h": "Nei dintorni",
+    "p": [
+     "Da qui parti per Torre Vado, Pescoluse e Specchia. Dal porticciolo escono anche le gite alle 12 grotte di Santa Maria di Leuca."
+    ],
+    "et": [
+     "Torre Vado",
+     "Pescoluse",
+     "Specchia"
+    ]
+   }
+  ],
+  "claim": "Una torre del Cinquecento con i piedi in acqua."
+ },
+ "salve": {
+  "nome": "Salve",
+  "lead": "Paese dell'entroterra a 60 km da Lecce, base per le marine ioniche di Pescoluse e Torre Pali. Il mare c'è, solo che gioca in trasferta.",
+  "consiglio": "Dormi a Salve se vuoi stare in un paese vero e arrivare al mare in auto. Per la spiaggia punta su Pescoluse o Torre Pali: in centro il telo resta nella borsa.",
+  "perfetta": [
+   "Chi vuole una base per il Capo di Leuca",
+   "Chi si ferma volentieri davanti a chiese, palazzi e frantoi",
+   "Chi si appassiona alla storia antica"
+  ],
+  "nonadatta": [
+   "Chi vuole la spiaggia a piedi: il mare è nelle marine",
+   "Chi cerca vita notturna in paese"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Salve è un paese del Capo di Leuca, a circa 60 km da Lecce. Ci arrivi dalla SS16 e dalla SS275. Il comune comprende diverse marine: il mare ce l'ha, ma ci vai in auto."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere in paese",
+    "p": [
+     "La Chiesa Madre di San Nicola Magno è del Cinquecento e ha affreschi. Poi il Palazzo Ceuli e il frantoio ipogeo Le Trappite, che racconta la storia dell'olio.",
+     "La storia qui è lunga: a Grotta Montani ci sono tracce di 60.000 anni fa, e il villaggio messapico della Chiusa fu abitato fino al 470 a.C. Qualcuno è arrivato prima di te, e senza prenotare."
+    ],
+    "et": [
+     "Chiesa di San Nicola Magno",
+     "Palazzo Ceuli",
+     "Le Trappite",
+     "Grotta Montani"
+    ]
+   },
+   {
+    "h": "Il mare",
+    "p": [
+     "Le spiagge sono nelle marine del comune: Pescoluse con le Maldive del Salento, Torre Pali, Lido Marini e Posto Vecchio. Quattro nomi, una macchina da caricare."
+    ],
+    "et": [
+     "Pescoluse",
+     "Torre Pali",
+     "Lido Marini",
+     "Posto Vecchio"
+    ]
+   }
+  ],
+  "claim": "Si dorme in paese, il mare sta nelle sue marine."
+ },
+ "torre-san-giovanni": {
+  "nome": "Torre San Giovanni",
+  "lead": "La marina principale di Ugento, sulla litoranea ionica: sabbia fine, lidi e, d'estate, tanta compagnia.",
+  "consiglio": "D'estate qui si passa da 430 a 50.000 persone. Scegli un lido con parcheggio vicino, oppure punta la sveglia e arriva presto alla spiaggia libera.",
+  "perfetta": [
+   "Le famiglie: il mare scende piano",
+   "Chi fa immersioni o pesca turismo",
+   "Chi vuole lidi, locali e musica",
+   "Chi cerca una pineta e un parco vicino"
+  ],
+  "nonadatta": [
+   "Chi cerca silenzio ad agosto: è affollata",
+   "Chi non vuole spiagge con i lidi"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Torre San Giovanni ha sabbia finissima e un mare che digrada lentamente, con la Bandiera Blu da anni. In inverno ha 430 abitanti, d'estate arriva a 50.000.",
+     "I lidi sono tanti: Cocoloco, Il Molo, Bora Bora, Malibù, Fontanelle, Onda Marina, Isola Beach, Lido Sabbioso. Ci sono anche tratti liberi. Con 50.000 persone, servono tutti."
+    ],
+    "et": [
+     "Lido Cocoloco",
+     "Lido Il Molo",
+     "Lido Bora Bora"
+    ]
+   },
+   {
+    "h": "Cosa fare",
+    "p": [
+     "Ci sono le immersioni con guide e la pesca turismo, con i pescatori locali su barche artigianali. Alle porte c'è il Parco Naturale Regionale Litorale di Ugento.",
+     "Ugento è a meno di 15 minuti: castello, cattedrale, mura messapiche e Museo Civico di Archeologia. Sul lungomare noti la torre a scacchi bianchi e neri. Il centro era probabilmente il porto dell'antica Uxentum."
+    ],
+    "et": [
+     "Parco Litorale di Ugento",
+     "Ugento"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Sul lungomare trovi ristoranti, pizzerie e locali. Chi vuole ballare in spiaggia va al Lido Cocoloco, molto frequentato d'estate. Dal lungomare ai lidi ti muovi bene a piedi, ma l'auto serve per le marine vicine: Alliste, Mancaversa, Torre Suda."
+    ],
+    "et": [
+     "Lido Cocoloco"
+    ]
+   }
+  ],
+  "claim": "D'inverno 430 persone, d'estate 50.000. Scegli bene il lido."
+ },
+ "marina-di-mancaversa": {
+  "nome": "Marina di Mancaversa",
+  "lead": "Piccola marina di Taviano, a 15 km da Gallipoli: scogli bassi, calette e snorkeling. La maschera conta più dell'ombrellone.",
+  "consiglio": "Qui si fa il bagno dagli scogli, quindi porta le scarpe. Per la sabbia lunga vai in pochi minuti a Lido Pizzo, Punta della Suina o Baia Verde.",
+  "perfetta": [
+   "Chi fa snorkeling e immersioni",
+   "Chi vuole una marina tranquilla",
+   "Chi vuole Gallipoli vicina, ma senza dormirci",
+   "Le famiglie che puntano sulla spiaggia di Mare dei Cavalli"
+  ],
+  "nonadatta": [
+   "Chi vuole una grande spiaggia sabbiosa sotto casa",
+   "Chi non ama gli scogli"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Mancaversa è una marina del comune di Taviano, tra Torre Suda e Punta Pizzo. Nasce nei primi del Novecento ed è cresciuta soprattutto negli ultimi decenni.",
+     "La costa è fatta di scogliere basse e piccole calette. Il bagno si fa lì, in acqua limpida e con fondali buoni per lo snorkeling."
+    ],
+    "et": []
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "La sabbia più vicina è Mare dei Cavalli, lunga circa 300 metri. Se non ti bastano, per arenili più grandi guarda a Lido Pizzo, Punta della Suina e Baia Verde."
+    ],
+    "et": [
+     "Mare dei Cavalli",
+     "Lido Pizzo",
+     "Punta della Suina",
+     "Baia Verde"
+    ]
+   },
+   {
+    "h": "Cosa vedere e la sera",
+    "p": [
+     "Passeggiata sul lungomare e aperitivo in Piazza delle Rose. D'estate il Comune di Taviano organizza eventi, concerti, sagre e mercatini sul lungomare e in piazza.",
+     "A pochi minuti c'è il Parco Naturale di Punta Pizzo, buono per chi vuole un po' di natura. Gallipoli è a 15 km. I parcheggi sono in parte a pagamento, anche sul lungomare: il posto gratis è un traguardo, non un diritto."
+    ],
+    "et": [
+     "Piazza delle Rose",
+     "Punta Pizzo"
+    ]
+   }
+  ],
+  "claim": "Scogli bassi e calette. Gallipoli la vai a trovare."
+ },
+ "racale": {
+  "nome": "Racale",
+  "lead": "Cittadina a una decina di minuti dal mare, con chiese antiche, un palazzo ducale e megaliti. La spiaggia può aspettare il pomeriggio.",
+  "consiglio": "Fai la mattina in paese e il pomeriggio a Torre Suda, ma sappi che lì la costa è rocciosa. Per la sabbia vai verso Mancaversa e Lido Pizzo.",
+  "perfetta": [
+   "Chi vuole dormire vicino al mare ma non sulla costa",
+   "Chi ama chiese, palazzi e preistoria",
+   "Chi pedala sulla ciclovia Ciclonica",
+   "Chi cerca una cena nel centro storico"
+  ],
+  "nonadatta": [
+   "Chi vuole la spiaggia di sabbia a due passi",
+   "Chi cerca vita notturna intensa"
+  ],
+  "sezioni": [
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il centro storico si gira a piedi. La Chiesa Matrice di San Giorgio ha affreschi medievali e decorazioni del Settecento. Poi Santa Maria la Nova, San Nicola Pellegrino e l'Immacolata.",
+     "Il Palazzo Ducale dei Basurto, con i suoi due torrioni del Cinquecento, ricorda le famiglie feudali."
+    ],
+    "et": [
+     "Chiesa di San Giorgio",
+     "Palazzo Ducale dei Basurto"
+    ]
+   },
+   {
+    "h": "Fuori dal paese",
+    "p": [
+     "Nelle campagne c'è il Dolmen Ospina, ai piedi della collina degli Specchi, e il Menhir di Castelforte. In cima alla collina c'è la Specchia Li Specchi, un grande cumulo di pietre. Stanno lì da prima dei lidi."
+    ],
+    "et": [
+     "Dolmen Ospina",
+     "Menhir di Castelforte",
+     "Specchia Li Specchi"
+    ]
+   },
+   {
+    "h": "Il mare e la sera",
+    "p": [
+     "Torre Suda è a meno di un quarto d'ora. Racale è attraversata da Ciclonica, la ciclovia del Salento ionico.",
+     "Per cena puoi provare L'Acchiatura, nel centro storico. A Gallipoli, d'estate, c'è anche lo Splash Acquapark, con piscine e acquascivoli per i bambini. Da Lecce segui la SS101 verso Gallipoli, poi la SS274 e l'uscita per Racale."
+    ],
+    "et": [
+     "Torre Suda",
+     "Ciclonica",
+     "L'Acchiatura"
+    ]
+   }
+  ],
+  "claim": "Prima i megaliti, poi il mare: una decina di minuti."
+ },
+ "torre-lapillo": {
+  "nome": "Torre Lapillo",
+  "lead": "Frazione di Porto Cesareo con fondali bassi, sabbia chiara e una torre del Cinquecento. I bambini vanno lontano, l'acqua resta bassa.",
+  "consiglio": "Prendi l'auto per Porto Cesareo e Punta Prosciutto, ma tra spiaggia e lungomare resta a piedi. Per i parcheggi gratuiti guarda in Via Ruffano e Via Torre Lapillo.",
+  "perfetta": [
+   "Le famiglie con bambini",
+   "Chi fa snorkeling o immersioni",
+   "Chi pratica windsurf e kitesurf",
+   "Chi ama le uscite in barca"
+  ],
+  "nonadatta": [
+   "Chi cerca una spiaggia solo libera: ci sono molti servizi",
+   "Chi non vuole usare l'auto per gli altri posti"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Torre Lapillo è un antico borgo di pescatori, a 5 km da Porto Cesareo e 7 da Punta Prosciutto. Ha lunghe spiagge di sabbia chiara, qualche tratto di scogliera e acque basse.",
+     "Qui si trova la cosiddetta barriera corallina, una formazione naturale che ospita tanta vita marina. Lasciala dove sta: quella in valigia non ci va."
+    ],
+    "et": [
+     "Porto Cesareo"
+    ]
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La Torre di San Tommaso, del Cinquecento, ha dato il nome al posto. Ai suoi piedi c'è il porticciolo dove noleggiare barche e gommoni.",
+     "A meno di 10 minuti d'auto c'è Punta Prosciutto, con la Riserva delle Paludi del Conte e delle Dune. Poi l'Area Marina Protetta di Porto Cesareo. A Punta Prosciutto si arriva anche in bici lungo la litoranea."
+    ],
+    "et": [
+     "Torre di San Tommaso",
+     "Punta Prosciutto",
+     "Area Marina Protetta di Porto Cesareo"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "D'estate ci sono mercatini serali e manifestazioni sulle tradizioni locali. L'atmosfera è vivace ma tranquilla: passeggi sul lungomare, poi ceni a base di pesce nei ristoranti e nelle trattorie."
+    ],
+    "et": []
+   }
+  ],
+  "claim": "Acqua bassa, sabbia chiara e una torre che sta di guardia."
+ },
+ "galatina": {
+  "nome": "Galatina",
+  "lead": "Città dell'entroterra a 20 km da Lecce, nota per gli affreschi e per il pasticciotto. Si viene per i primi, si torna per il secondo.",
+  "consiglio": "Per i monumenti basta mezza giornata. Se hai tempo resta a cena: aperitivo in piazza San Pietro e pasticciotto da Ascalone.",
+  "perfetta": [
+   "Chi ama arte, affreschi e palazzi",
+   "Chi si interessa di tarantismo",
+   "Chi vuole mangiare bene in un centro storico",
+   "Chi fa base tra le due coste"
+  ],
+  "nonadatta": [
+   "Chi vuole il mare: la costa ionica dista circa 20 km",
+   "Chi cerca spiagge: Galatina è una città"
+  ],
+  "sezioni": [
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La Basilica di Santa Caterina d'Alessandria ha cinque navate e una facciata con rosone in pietra. È uno dei pochi esempi gotici del Salento. Dentro, gli affreschi coprono pareti, pilastri e volte: il collo se lo ricorda fino a sera.",
+     "Poi la barocca Chiesa Matrice dei Santi Pietro e Paolo e i palazzi Vernaleone, Galluccio-Mezio, Venturi e Gorgoni."
+    ],
+    "et": [
+     "Basilica di Santa Caterina",
+     "Chiesa Matrice",
+     "Palazzo Vernaleone"
+    ]
+   },
+   {
+    "h": "Le tarantate",
+    "p": [
+     "La Cappella di San Paolo è legata al tarantismo. Secondo la tradizione, chi si credeva morso dalla taranta tornava ogni 28 giugno. Il pozzo oggi è murato e il Museo Civico Pietro Cavoti conserva foto e documenti. Quei riti appartengono al passato, ma la memoria resta."
+    ],
+    "et": [
+     "Cappella di San Paolo",
+     "Museo Pietro Cavoti"
+    ]
+   },
+   {
+    "h": "Cosa si mangia",
+    "p": [
+     "Il pasticciotto è il dolce simbolo: lo trovi alla Pasticceria Ascalone, vicino ai Santi Pietro e Paolo. Difficile fermarsi a uno. Per cena la Corte del Fuoco, per l'aperitivo Madrè, in piazza San Pietro."
+    ],
+    "et": [
+     "Pasticceria Ascalone",
+     "Corte del Fuoco",
+     "Madrè"
+    ]
+   }
+  ],
+  "claim": "Prima gli affreschi, poi il pasticciotto. In quest'ordine."
+ }
+}

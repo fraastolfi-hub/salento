@@ -1,0 +1,847 @@
+{
+  "spiagge": {
+    "baia-di-torre-dellorso": {
+      "nome": "Baia di Torre dell'Orso",
+      "tipo": "Sabbia",
+      "accesso": "A piedi dal paese",
+      "claim": "Mezzaluna di sabbia, pineta dietro, Due Sorelle davanti.",
+      "testo": "Una baia a mezzaluna chiusa da due scogliere, con la pineta subito dietro. Davanti alla riva ci sono i due faraglioni, le Due Sorelle: li fotografano tutti, e tu non farai eccezione.",
+      "si": [
+        "Le famiglie con bambini",
+        "Chi vuole la sabbia, non gli scogli",
+        "Chi vuole fare tutto a piedi"
+      ],
+      "no": [
+        "Chi cerca spazio ad agosto",
+        "Chi vuole tuffarsi dagli scogli"
+      ],
+      "cons": "Ad agosto arriva prima delle nove. Oppure vieni a giugno e dormi di più."
+    },
+    "calette-di-san-foca": {
+      "nome": "Calette di San Foca",
+      "tipo": "Mista",
+      "accesso": "Dal lungomare",
+      "claim": "Calette di sabbia tra scogli grandi, e il paese sopra.",
+      "testo": "Piccole calette di sabbia, separate dagli scogli, lungo la costa di Melendugno. Sopra c'è il paese con il porto. Il telo lo stendi sulla sabbia, gli scogli li hai di fianco.",
+      "si": [
+        "Chi vuole sabbia e scogli senza dover scegliere",
+        "Chi cerca un paese vivo",
+        "Chi vuole i lidi vicini"
+      ],
+      "no": [
+        "Chi cerca una spiaggia lunga",
+        "Chi la sera vuole silenzio"
+      ],
+      "cons": "Scegli la caletta in base al vento. Se tira, cambia lato del porto."
+    },
+    "faraglioni-di-santandrea": {
+      "nome": "Faraglioni di Sant'Andrea",
+      "tipo": "Scogli",
+      "accesso": "Scala e sentieri sulla scogliera",
+      "claim": "Cinque faraglioni, e il bagno si fa in mezzo a loro.",
+      "testo": "Scogliera bianca, faraglioni e acqua profonda a pochi metri da riva. Una vera spiaggia non c'è: si entra dagli scogli, quindi il secchiello resta in valigia.",
+      "si": [
+        "Chi nuota bene",
+        "Chi non si separa da maschera e pinne",
+        "Chi vuole portarsi a casa una foto che resta"
+      ],
+      "no": [
+        "Chi ha bambini piccoli",
+        "Chi vuole la sabbia"
+      ],
+      "cons": "Vieni con il mare piatto: l'Arco degli Innamorati si fa a nuoto."
+    },
+    "spiaggia-di-frigole": {
+      "nome": "Spiaggia di Frigole",
+      "tipo": "Sabbia",
+      "accesso": "Dal lungomare",
+      "claim": "La marina di chi dorme a Lecce: dune e lungomare.",
+      "testo": "Sabbia e dune a circa 15 km da Lecce. È la spiaggia comoda per chi dorme in città e non vuole passare la mattina in macchina.",
+      "si": [
+        "Chi dorme a Lecce",
+        "Le famiglie",
+        "Chi vuole il mare vicino"
+      ],
+      "no": [
+        "Chi cerca acqua turchese",
+        "Chi vuole gli scogli"
+      ],
+      "cons": "Se dormi a Lecce, qui ci arrivi in venti minuti. Il costume puoi metterlo prima di uscire."
+    },
+    "spiaggia-di-torre-rinalda": {
+      "nome": "Spiaggia di Torre Rinalda",
+      "tipo": "Sabbia",
+      "accesso": "Parcheggi lungo la strada",
+      "claim": "A 15 km da Lecce: sabbia fine e fondale che scende piano.",
+      "testo": "Una spiaggia semplice, con il fondale che scende piano. Si viene per stare comodi, e nessuno qui ti chiede di più.",
+      "si": [
+        "Le famiglie con bambini",
+        "Chi dorme a Lecce",
+        "Chi vuole la sabbia"
+      ],
+      "no": [
+        "Chi la sera cerca locali",
+        "Chi vuole tuffarsi"
+      ],
+      "cons": "Se scegli il tratto libero, porta l'ombrellone. Lì l'ombra è a carico tuo."
+    },
+    "baia-dei-turchi": {
+      "nome": "Baia dei Turchi",
+      "tipo": "Sabbia",
+      "accesso": "A piedi dal parcheggio, nella pineta",
+      "claim": "Ci arrivi a piedi, nella pineta. Ne vale ogni passo.",
+      "testo": "Una baia di sabbia chiara a nord di Otranto, dentro la macchia mediterranea. Dal parcheggio si scende a piedi.",
+      "si": [
+        "Chi cerca una baia nel verde",
+        "Chi non ha paura di camminare un po'",
+        "Chi vuole la sabbia"
+      ],
+      "no": [
+        "Chi in spiaggia porta tutta la casa",
+        "Chi ha difficoltà a camminare"
+      ],
+      "cons": "Porta poco: la strada dal parcheggio la fai a piedi. Ogni borsa in più la porti tu."
+    },
+    "spiaggia-degli-alimini": {
+      "nome": "Spiaggia degli Alimini",
+      "tipo": "Sabbia",
+      "accesso": "Parcheggi lungo la litoranea",
+      "claim": "Chilometri di sabbia, con pineta e laghi alle spalle.",
+      "testo": "Chilometri di sabbia a nord di Otranto, con la pineta e i laghi Alimini alle spalle. Spazio ce n'è, anche in estate: il vicino di ombrellone resta un'ipotesi.",
+      "si": [
+        "Le famiglie",
+        "Chi vuole spazio",
+        "Chi vuole camminare in pineta"
+      ],
+      "no": [
+        "Chi la sera vuole uscire a piedi",
+        "Chi cerca scogli"
+      ],
+      "cons": "Se il tratto vicino al parcheggio è pieno, cammina dieci minuti. Bastano."
+    },
+    "porto-badisco": {
+      "nome": "Porto Badisco",
+      "tipo": "Mista",
+      "accesso": "A piedi dal borgo",
+      "claim": "Una piccola insenatura sotto la scogliera. Piccola davvero.",
+      "testo": "Un'insenatura stretta a sud di Otranto, con poca sabbia e scogli ai lati. Il posto è piccolo e si riempie presto. La sveglia la decide lei.",
+      "si": [
+        "Chi cerca un posto piccolo",
+        "Chi ama maschera e pinne",
+        "Chi viene fuori stagione"
+      ],
+      "no": [
+        "Chi cerca spazio ad agosto",
+        "Chi vuole una spiaggia attrezzata"
+      ],
+      "cons": "Vieni la mattina presto, perché lo spazio è poco e finisce."
+    },
+    "piscina-naturale-di-marina-serra": {
+      "nome": "Piscina naturale di Marina Serra",
+      "tipo": "Scogli",
+      "accesso": "Parcheggio in via Grotta Matrona",
+      "claim": "Niente sabbia: una piscina nella roccia, riempita dal mare.",
+      "testo": "Una vasca naturale ai piedi di una torre, sulla costa di Tricase. Il mare entra, l'acqua resta calma, e nessuno ti chiede la cuffia.",
+      "si": [
+        "Chi cerca un bagno diverso",
+        "Chi vuole scogli bassi",
+        "Chi cerca poca gente"
+      ],
+      "no": [
+        "Chi vuole la sabbia",
+        "Chi cerca lidi e locali"
+      ],
+      "cons": "Per cena scendi a Tricase Porto: sono 3 km."
+    },
+    "cala-acquaviva": {
+      "nome": "Cala dell'Acquaviva",
+      "tipo": "Scogli",
+      "accesso": "Scalette sulla scogliera",
+      "claim": "Cala stretta, acqua più fredda. Ti sveglia meglio del caffè.",
+      "testo": "Un'insenatura sotto la scogliera di Marittima, dove sgorgano sorgenti d'acqua fredda. Si entra in acqua dalle piattaforme di roccia.",
+      "si": [
+        "Chi nuota bene",
+        "Chi ad agosto cerca il fresco",
+        "Chi ama gli scogli"
+      ],
+      "no": [
+        "Chi ha bambini piccoli",
+        "Chi vuole la sabbia"
+      ],
+      "cons": "Se soffri il freddo entra piano, perché l'acqua qui è più fresca."
+    },
+    "ponte-del-ciolo": {
+      "nome": "Ponte del Ciolo",
+      "tipo": "Scogli",
+      "accesso": "Gradini fino al mare",
+      "claim": "Un fiordo sotto un ponte. I gradini li conti al ritorno.",
+      "testo": "Una spaccatura nella costa sotto il ponte della litoranea per Leuca. Si scende a piedi fino al mare, tra rocce e acqua profonda.",
+      "si": [
+        "Chi nuota bene",
+        "Chi vuole un posto da vedere",
+        "Chi ama camminare"
+      ],
+      "no": [
+        "Chi ha difficoltà con le scale",
+        "Chi vuole sdraiarsi sulla sabbia"
+      ],
+      "cons": "Porta scarpette da scoglio e acqua da bere. La risalita è compresa nel bagno."
+    },
+    "pescoluse": {
+      "nome": "Pescoluse",
+      "tipo": "Sabbia",
+      "accesso": "Parcheggi lungo la litoranea",
+      "claim": "Le chiamano Maldive del Salento. In effetti, le Maldive ci si avvicinano abbastanza.",
+      "testo": "Sei chilometri di sabbia chiara e acqua bassa sullo Ionio. Il soprannome è esagerato, ma non troppo, e il passaporto resta a casa.",
+      "si": [
+        "Le famiglie con bambini piccoli",
+        "Chi vuole sabbia fine",
+        "Chi vuole scegliere tra libera e lido"
+      ],
+      "no": [
+        "Chi cerca spazio ad agosto",
+        "Chi vuole scogli e tuffi"
+      ],
+      "cons": "Ad agosto il vero problema è il parcheggio. Arriva presto."
+    },
+    "posto-vecchio": {
+      "nome": "Posto Vecchio",
+      "tipo": "Sabbia",
+      "accesso": "Dalla litoranea",
+      "claim": "Le stesse Maldive, con più spazio attorno al telo.",
+      "testo": "Il tratto di costa accanto a Pescoluse, verso Torre Vado. Sabbia e fondale basso, con meno gente del centro.",
+      "si": [
+        "Le famiglie",
+        "Chi cerca un po' di spazio",
+        "Chi vuole la sabbia"
+      ],
+      "no": [
+        "Chi vuole scendere a piedi al bar",
+        "Chi la sera cerca vita"
+      ],
+      "cons": "Se Pescoluse è piena, spostati qui: sei accanto."
+    },
+    "spiaggia-di-torre-pali": {
+      "nome": "Spiaggia di Torre Pali",
+      "tipo": "Sabbia",
+      "accesso": "A piedi dal paese",
+      "claim": "Una torre del Cinquecento nell'acqua, a 20 metri da riva.",
+      "testo": "Sabbia e scogli bassi davanti al paese, con la torre nell'acqua. Si fa tutto a piedi, e la macchina si gode le ferie.",
+      "si": [
+        "Le famiglie",
+        "Chi vuole il paese vicino",
+        "Chi ama passeggiare"
+      ],
+      "no": [
+        "Chi cerca solo scogli",
+        "Chi ad agosto vuole silenzio"
+      ],
+      "cons": "Al tramonto passa dalla torre. Ci si arriva a piedi, come a tutto il resto."
+    },
+    "spiaggia-di-lido-marini": {
+      "nome": "Spiaggia di Lido Marini",
+      "tipo": "Sabbia",
+      "accesso": "Dal lungomare",
+      "claim": "Sabbia dorata, acqua bassa e meno fama. Al telo non importa.",
+      "testo": "Una lunga spiaggia tra Torre Mozza e Torre Pali, con lidi e tratti liberi: scegli tu da che parte stare.",
+      "si": [
+        "Le famiglie",
+        "Chi vuole i lidi",
+        "Chi cerca la sabbia"
+      ],
+      "no": [
+        "Chi cerca gli scogli",
+        "Chi vuole silenzio"
+      ],
+      "cons": "Qui trovi posto più facilmente che alle Maldive. Quelle del Salento, s'intende."
+    },
+    "spiaggia-di-torre-mozza": {
+      "nome": "Spiaggia di Torre Mozza",
+      "tipo": "Sabbia",
+      "accesso": "Dal lungomare",
+      "claim": "Sabbia lunga e un fondale che scende senza fretta.",
+      "testo": "Una spiaggia lunga nella marina di Ugento, con le dune alle spalle in alcuni tratti.",
+      "si": [
+        "Le famiglie con bambini piccoli",
+        "Chi viene con il cane e chiede prima",
+        "Chi vuole la sabbia"
+      ],
+      "no": [
+        "Chi la sera cerca locali",
+        "Chi vuole tuffarsi"
+      ],
+      "cons": "Chiedi al lido se il cane può entrare, perché cambia da tratto a tratto. Lui non lo sa, quindi tocca a te."
+    },
+    "spiaggia-di-torre-san-giovanni": {
+      "nome": "Spiaggia di Torre San Giovanni",
+      "tipo": "Sabbia",
+      "accesso": "Dal lungomare",
+      "claim": "Bandiera Blu, e d'estate lo sanno in tanti.",
+      "testo": "Sabbia finissima e mare che digrada piano, nella marina principale di Ugento.",
+      "si": [
+        "Le famiglie",
+        "Chi vuole lidi e locali",
+        "Chi cerca la Bandiera Blu"
+      ],
+      "no": [
+        "Chi ad agosto cerca silenzio",
+        "Chi vuole la spiaggia libera senza fatica"
+      ],
+      "cons": "Scegli un lido con il parcheggio vicino, oppure arriva presto."
+    },
+    "baia-verde": {
+      "nome": "Baia Verde",
+      "tipo": "Sabbia",
+      "accesso": "Parcheggi lungo la litoranea",
+      "claim": "Di giorno i lidi, la sera i locali. Il sonno è facoltativo.",
+      "testo": "La spiaggia lunga a sud di Gallipoli, tra stabilimenti e locali. È il posto più vivo della costa ionica, e ci tiene.",
+      "si": [
+        "Chi vuole lidi con musica",
+        "Gli amici",
+        "Chi vuole uscire la sera"
+      ],
+      "no": [
+        "Chi cerca silenzio",
+        "Chi ha bimbi che dormono presto"
+      ],
+      "cons": "Se la notte vuoi dormire, scegli il centro o resta fuori dalla litoranea."
+    },
+    "punta-della-suina": {
+      "nome": "Punta della Suina",
+      "tipo": "Mista",
+      "accesso": "A piedi dalla pineta",
+      "claim": "Sabbia e scogli bassi, con l'ombra della pineta dietro.",
+      "testo": "Una punta verde a sud di Gallipoli, con piccole baie e alberi vicini al mare. L'ombra qui non la porti da casa.",
+      "si": [
+        "Chi vuole l'ombra vicina",
+        "Chi cerca sabbia e scogli",
+        "Le coppie"
+      ],
+      "no": [
+        "Chi vuole una spiaggia lunga",
+        "Chi ad agosto cerca silenzio"
+      ],
+      "cons": "D'estate vieni presto, perché il parcheggio è il punto debole."
+    },
+    "porto-selvaggio": {
+      "nome": "Porto Selvaggio",
+      "tipo": "Scogli",
+      "accesso": "Sentiero a piedi nella pineta",
+      "claim": "Lidi zero. Ci si arriva a piedi, dentro il parco.",
+      "testo": "Una baia dentro il Parco di Porto Selvaggio, con ciottoli, rocce e una pineta da attraversare a piedi.",
+      "si": [
+        "Chi ama camminare",
+        "Chi cerca la natura",
+        "Chi nuota bene"
+      ],
+      "no": [
+        "Chi vuole un lido",
+        "Chi porta bambini e passeggini"
+      ],
+      "cons": "Porta acqua e scarpe comode: dal parcheggio si cammina. Le infradito restano in valigia."
+    },
+    "spiaggia-di-torre-lapillo": {
+      "nome": "Spiaggia di Torre Lapillo",
+      "tipo": "Sabbia",
+      "accesso": "Dal paese",
+      "claim": "Fondali bassi, sabbia chiara e una torre a fare la guardia.",
+      "testo": "La lunga spiaggia a ovest di Porto Cesareo, con acqua bassa e lidi.",
+      "si": [
+        "Le famiglie con bambini piccoli",
+        "Chi vuole la sabbia chiara",
+        "Chi cerca i lidi"
+      ],
+      "no": [
+        "Chi soffre il vento",
+        "Chi cerca gli scogli"
+      ],
+      "cons": "Con il vento forte cerca il tratto più riparato, così il telo resta tuo."
+    },
+    "spiaggia-di-punta-prosciutto": {
+      "nome": "Spiaggia di Punta Prosciutto",
+      "tipo": "Sabbia",
+      "accesso": "Parcheggi e passerelle sulle dune",
+      "claim": "Dune e sabbia bianca. Il momento giusto è maggio o giugno.",
+      "testo": "Sabbia bianca e dune nell'Area Marina Protetta di Porto Cesareo, con fondale basso.",
+      "si": [
+        "Le famiglie",
+        "Chi fa snorkeling",
+        "Chi vuole dune e macchia"
+      ],
+      "no": [
+        "Chi la sera cerca vita",
+        "Chi non vuole usare la macchina"
+      ],
+      "cons": "Porta la maschera, e resta sulle passerelle. Le dune ringraziano."
+    },
+    "isola-dei-conigli": {
+      "nome": "Isola dei Conigli",
+      "tipo": "Sabbia",
+      "accesso": "In barca, o a nuoto con il mare calmo",
+      "claim": "L'isolotto davanti a Porto Cesareo. Qui si arriva via mare.",
+      "testo": "L'isolotto più conosciuto davanti alla costa di Porto Cesareo, dentro l'area marina protetta. Si arriva in barca, o a nuoto con il mare calmo. Per una volta, il parcheggio non è un tema.",
+      "si": [
+        "Chi vuole uscire in barca",
+        "Chi ama lo snorkeling",
+        "Chi cerca un giorno diverso"
+      ],
+      "no": [
+        "Chi soffre il mare",
+        "Chi vuole un lido"
+      ],
+      "cons": "In barca vacci con chi conosce le regole dell'area protetta."
+    }
+  },
+  "occasioni": {
+    "famiglie": {
+      "titolo": "In famiglia",
+      "claim": "Acqua bassa, sabbia, ombra e la pizzeria a piedi. Basta.",
+      "consiglio": "Con i piccoli scegli lo Ionio, a giugno o a settembre. Il mare è lo stesso, lo spazio per il castello di sabbia no.",
+      "tre_cose": [
+        [
+          "Il mare",
+          "Fondale basso e sabbia: si entra senza scogli e si tocca per un bel pezzo."
+        ],
+        [
+          "Il periodo",
+          "Giugno o settembre. Ad agosto è pieno il lido ed è pieno il parcheggio."
+        ],
+        [
+          "La cena",
+          "Con la mezza pensione la cena è risolta: niente riunione di famiglia ogni sera."
+        ]
+      ],
+      "titolo_strutture": "Strutture per le famiglie",
+      "faq": [
+        [
+          "Quale costa è meglio con i bambini?",
+          "Lo Ionio, per la sabbia e l'acqua bassa. Anche l'Adriatico è bello, ma l'acqua è profonda da subito."
+        ],
+        [
+          "Serve la pensione completa?",
+          "Non per forza. La mezza pensione lascia il pranzo in spiaggia e risolve la cena."
+        ],
+        [
+          "Quando conviene venire?",
+          "Se puoi scegliere, giugno o settembre: mare caldo e spiagge che si respirano."
+        ]
+      ],
+      "perfetta": [
+        "Chi ha bambini piccoli e vuole entrare in acqua senza scogli",
+        "Chi vuole sabbia e tutto vicino",
+        "Chi può scegliere giugno o settembre"
+      ],
+      "nonadatta": [
+        "Chi cerca scogli e tuffi",
+        "Chi ad agosto vuole silenzio"
+      ],
+      "periodo": "Giugno e settembre: mare caldo e più spazio.",
+      "portare": "Crema, cappellini e, se scegli la spiaggia libera, un ombrellone. Il resto del garage resta a casa."
+    },
+    "cane": {
+      "titolo": "Con il cane",
+      "claim": "Lui ha già la valigia. Ti diciamo dove lo fanno entrare.",
+      "consiglio": "Prima di partire chiedi sempre alla struttura e al lido. Ogni posto ha le sue regole.",
+      "tre_cose": [
+        [
+          "La spiaggia",
+          "Non tutte lo accettano: controlla prima il tratto di costa."
+        ],
+        [
+          "La struttura",
+          "Qui sotto trovi solo posti che indicano gli animali domestici tra i servizi."
+        ],
+        [
+          "Il caldo",
+          "Ad agosto scegli le ore fresche, per lui e per te. Lui gira in pelliccia."
+        ]
+      ],
+      "titolo_strutture": "Strutture che accettano animali",
+      "faq": [
+        [
+          "Il cane paga?",
+          "Dipende dalla struttura: chiedilo nella richiesta."
+        ],
+        [
+          "Posso portarlo in spiaggia?",
+          "Dipende dal tratto e dal lido. Chiedi prima di partire."
+        ],
+        [
+          "Quali marine sono più comode?",
+          "Le meno affollate: Torre Mozza, Torre Vado e Marina Serra."
+        ]
+      ],
+      "perfetta": [
+        "Chi viaggia con il cane e chiede prima",
+        "Chi sceglie le marine meno affollate",
+        "Chi può evitare agosto"
+      ],
+      "nonadatta": [
+        "Chi va al lido senza controllare le regole",
+        "Chi resta in spiaggia nelle ore calde"
+      ],
+      "periodo": "Giugno e settembre: meno caldo, per lui e per te.",
+      "portare": "Ciotola, acqua fresca, guinzaglio e libretto sanitario. Lui viaggia con i documenti in regola."
+    },
+    "cucina": {
+      "titolo": "Dove si mangia bene",
+      "claim": "Sette cene sono sette cene. Conviene sceglierle bene.",
+      "consiglio": "Chiedi sempre chi sta ai fornelli. Se la risposta è un nome, sei nel posto giusto.",
+      "tre_cose": [
+        [
+          "Mezza pensione",
+          "Camera, colazione e cena. Il pranzo è affare tuo, in spiaggia."
+        ],
+        [
+          "Chi cucina",
+          "Chiedi sempre: una risposta con un nome è un buon segno."
+        ],
+        [
+          "Fuori a cena",
+          "A Gallipoli lo scapece, a Porto Cesareo il pesce al porto."
+        ]
+      ],
+      "titolo_strutture": "Strutture con la cena compresa",
+      "faq": [
+        [
+          "Che differenza c'è tra mezza pensione e pensione completa?",
+          "Mezza pensione: camera, colazione e cena. Pensione completa: anche il pranzo."
+        ],
+        [
+          "Conviene la pensione?",
+          "Se non vuoi cercare un tavolo ogni sera, sì."
+        ],
+        [
+          "Si può chiedere un menù per intolleranze?",
+          "Scrivilo nella richiesta: la risposta arriva dalla struttura."
+        ]
+      ],
+      "perfetta": [
+        "Chi sceglie il posto anche per la cena",
+        "Chi vuole il pesce del giorno",
+        "Chi preferisce la mezza pensione"
+      ],
+      "nonadatta": [
+        "Chi cerca la cucina internazionale",
+        "Chi mangia di corsa"
+      ],
+      "periodo": "Giugno e settembre: la coda si accorcia, la cena no.",
+      "portare": "Appetito. E per il sabato sera, una prenotazione."
+    },
+    "pensione-completa": {
+      "titolo": "Pensione completa",
+      "claim": "Camera, colazione, pranzo e cena. Cucinano loro.",
+      "consiglio": "Chiedi sempre cosa è compreso: acqua, vino, pranzo al sacco per la spiaggia.",
+      "tre_cose": [
+        [
+          "Cosa è compreso",
+          "Camera, colazione, pranzo e cena."
+        ],
+        [
+          "Per chi conviene",
+          "Alle famiglie e a chi non vuole cercare un tavolo ogni giorno."
+        ],
+        [
+          "Il prezzo",
+          "Accanto al prezzo trovi sempre il trattamento. Confronta quello."
+        ]
+      ],
+      "titolo_strutture": "Hotel con pensione completa",
+      "faq": [
+        [
+          "Che differenza c'è con la mezza pensione?",
+          "Mezza pensione: camera, colazione e cena. Pensione completa: anche il pranzo."
+        ],
+        [
+          "Conviene con i bambini?",
+          "Spesso sì: i pasti sono risolti e le spese si vedono prima."
+        ],
+        [
+          "Si può chiedere un menù speciale?",
+          "Scrivilo nella richiesta: la risposta arriva dalla struttura."
+        ]
+      ],
+      "perfetta": [
+        "Le famiglie che vogliono i pasti risolti",
+        "Chi vuole sapere quanto spende prima di partire",
+        "Chi non vuole cercare un tavolo"
+      ],
+      "nonadatta": [
+        "Chi vuole un ristorante diverso ogni sera",
+        "Chi passa le giornate in giro per il Salento"
+      ],
+      "periodo": "Tutta l'estate. Conviene di più a giugno e settembre.",
+      "portare": "Poco: l'unica cosa da decidere è l'orario della cena."
+    },
+    "senza-glutine": {
+      "titolo": "Senza glutine e vegano",
+      "claim": "Sette giorni a tavola. Si chiarisce prima di prenotare.",
+      "consiglio": "Scrivilo nella richiesta, prima di prenotare. Se ti rispondono con un menù vero, sei nel posto giusto.",
+      "tre_cose": [
+        [
+          "Celiachia",
+          "Chiedi come gestiscono la cucina, non solo se hanno il pane."
+        ],
+        [
+          "Vegano",
+          "In pensione il menù va concordato prima dell'arrivo."
+        ],
+        [
+          "La richiesta",
+          "Scrivi l'esigenza nelle note: la struttura risponde a te."
+        ]
+      ],
+      "titolo_strutture": "Strutture da chiedere",
+      "faq": [
+        [
+          "Le strutture qui sotto sono certificate?",
+          "No. L'esigenza è verificata con la struttura, ma non è una certificazione: chiedi sempre conferma."
+        ],
+        [
+          "Dove lo scrivo?",
+          "Nelle note della richiesta, così arriva a chi cucina."
+        ],
+        [
+          "E fuori dall'hotel?",
+          "Chiedi al ristorante prima di sederti. Vale ovunque."
+        ]
+      ],
+      "perfetta": [
+        "Chi è celiaco e vuole parlare prima con chi cucina",
+        "Chi mangia vegano e vuole accordarsi prima",
+        "Chi preferisce la mezza pensione al ristorante scelto a caso"
+      ],
+      "nonadatta": [
+        "Chi decide tutto all'ultimo minuto",
+        "Chi cerca una certificazione: qui non la garantiamo noi"
+      ],
+      "periodo": "Fuori da agosto è più facile avere attenzione in cucina.",
+      "portare": "Le tue indicazioni scritte, da mandare con la richiesta."
+    },
+    "fuori-stagione": {
+      "titolo": "Giugno e settembre",
+      "claim": "Stesso mare, metà gente. La coda la lasciamo ad agosto.",
+      "consiglio": "A settembre trovi la stessa acqua calda di agosto e metà gente. Il Salento vero comincia quando gli altri fanno le valigie.",
+      "tre_cose": [
+        [
+          "Il mare",
+          "A giugno e settembre è caldo, e le spiagge si respirano."
+        ],
+        [
+          "I prezzi",
+          "Scendono rispetto ad agosto. Prezzi da cristiani."
+        ],
+        [
+          "Il parcheggio",
+          "La vera impresa dell'estate, qui, non è più un'impresa."
+        ]
+      ],
+      "titolo_strutture": "Strutture da tenere d'occhio",
+      "faq": [
+        [
+          "Il mare è caldo a settembre?",
+          "Sì, è uno dei mesi migliori per fare il bagno."
+        ],
+        [
+          "È tutto aperto?",
+          "Dipende dalla struttura: guarda le date sulla scheda."
+        ],
+        [
+          "Giugno o settembre?",
+          "Dipende da te. Sono due mesi simili, entrambi con meno gente."
+        ]
+      ],
+      "perfetta": [
+        "Chi può scegliere le date",
+        "Chi vuole spazio in spiaggia",
+        "Chi preferisce parcheggiare senza pensieri"
+      ],
+      "nonadatta": [
+        "Chi vuole tutti i locali aperti",
+        "Chi cerca la folla di agosto"
+      ],
+      "periodo": "Giugno e settembre.",
+      "portare": "Una felpa leggera per la sera. Il resto della valigia può stare a dieta."
+    },
+    "silenzio": {
+      "titolo": "Per stare tranquilli",
+      "claim": "Poca gente e niente musica fino a tardi. Esiste ancora.",
+      "consiglio": "Se vuoi silenzio vero, cerca una marina dove la sera non c'è niente. Quel niente è il bello.",
+      "tre_cose": [
+        [
+          "Dove",
+          "Le marine piccole, lontane dai centri."
+        ],
+        [
+          "Quando",
+          "Fuori da agosto è più facile."
+        ],
+        [
+          "Il prezzo da pagare",
+          "Pochi servizi: per cena spesso si prende la macchina."
+        ]
+      ],
+      "titolo_strutture": "Strutture tranquille",
+      "faq": [
+        [
+          "Dov'è più tranquillo ad agosto?",
+          "Nelle marine piccole dell'Adriatico, come Marina Serra."
+        ],
+        [
+          "Serve la macchina?",
+          "Di solito sì."
+        ],
+        [
+          "Meglio mare o campagna?",
+          "La campagna è a pochi minuti: dormi lì e al mare vai di giorno."
+        ]
+      ],
+      "perfetta": [
+        "Chi vuole dormire bene",
+        "Chi preferisce poche case e poca musica",
+        "Chi ha la macchina"
+      ],
+      "nonadatta": [
+        "Chi la sera vuole uscire a piedi",
+        "Chi cerca lidi e animazione"
+      ],
+      "periodo": "Agosto meglio di no. Il resto dell'estate va bene.",
+      "portare": "Libri per il giorno, la macchina per la cena."
+    },
+    "coppia": {
+      "titolo": "In coppia",
+      "claim": "Il bagno, il tramonto, una cena sul mare. Tutto qui.",
+      "consiglio": "Scegli un posto dove la sera si sente il mare, non la musica. Così a cena ci si parla.",
+      "tre_cose": [
+        [
+          "Di giorno",
+          "Calette e acqua profonda."
+        ],
+        [
+          "Al tramonto",
+          "Punta Meliso a Leuca, o Piazza Duomo a Lecce."
+        ],
+        [
+          "La sera",
+          "Una passeggiata sulle mura di Otranto."
+        ]
+      ],
+      "titolo_strutture": "Strutture per due",
+      "faq": [
+        [
+          "Mare o città?",
+          "Otranto li tiene insieme."
+        ],
+        [
+          "Quale costa?",
+          "L'Adriatico per i tuffi, lo Ionio per il tramonto sul mare."
+        ],
+        [
+          "Quando venire?",
+          "Giugno e settembre: meno gente."
+        ]
+      ],
+      "perfetta": [
+        "Chi vuole una cena sul mare",
+        "Chi non si perde il tramonto",
+        "Chi ama girare a piedi"
+      ],
+      "nonadatta": [
+        "Chi vuole lidi rumorosi",
+        "Chi viene ad agosto cercando il silenzio"
+      ],
+      "periodo": "Giugno e settembre.",
+      "portare": "Scarpe comode per i centri storici. Le altre restano in valigia."
+    },
+    "amici": {
+      "titolo": "Con gli amici",
+      "claim": "La sera succede qualcosa. A dormire si torna a piedi.",
+      "consiglio": "Scegli dove dormire a piedi dai locali. La macchina, la sera, resta ferma e a turno non guida nessuno.",
+      "tre_cose": [
+        [
+          "La sera",
+          "Gallipoli è il posto più vivo."
+        ],
+        [
+          "Di giorno",
+          "Lidi, barca e sport sul mare."
+        ],
+        [
+          "Dove dormire",
+          "Una casa grande costa meno di tante camere."
+        ]
+      ],
+      "titolo_strutture": "Case per gruppi",
+      "faq": [
+        [
+          "Dove si esce la sera?",
+          "A Gallipoli, poi sulla costa tra Torre dell'Orso e San Foca."
+        ],
+        [
+          "Meglio casa o hotel?",
+          "In gruppo, spesso la casa."
+        ],
+        [
+          "Serve la macchina?",
+          "Se dormi vicino al centro, meno."
+        ]
+      ],
+      "perfetta": [
+        "Chi vuole uscire la sera",
+        "Chi in gruppo vuole spendere poco",
+        "Chi preferisce muoversi a piedi"
+      ],
+      "nonadatta": [
+        "Chi vuole dormire presto",
+        "Chi cerca una marina tranquilla"
+      ],
+      "periodo": "Luglio e agosto, se la gente la cerchi apposta.",
+      "portare": "Sonno arretrato: lo recuperi in spiaggia."
+    },
+    "tuffi": {
+      "titolo": "Scogli e tuffi",
+      "claim": "Acqua blu da subito e grotte. Per chi nuota bene, davvero.",
+      "consiglio": "Porta le scarpette da scoglio. Poi ci ringrazi.",
+      "tre_cose": [
+        [
+          "Il mare",
+          "Profondo da subito: si entra dagli scogli."
+        ],
+        [
+          "Le grotte",
+          "Si fanno in barca o in canoa."
+        ],
+        [
+          "Con i piccoli",
+          "Meglio di no: per loro c'è lo Ionio."
+        ]
+      ],
+      "titolo_strutture": "Strutture vicino alle scogliere",
+      "faq": [
+        [
+          "Dove sono le scogliere?",
+          "Soprattutto sull'Adriatico, da Torre dell'Orso a Leuca."
+        ],
+        [
+          "Si può fare snorkeling?",
+          "Sì, soprattutto a Castro e a Leuca."
+        ],
+        [
+          "Si noleggiano canoe?",
+          "A Castro sì, al porticciolo."
+        ]
+      ],
+      "perfetta": [
+        "Chi nuota bene",
+        "Chi ama maschera e pinne",
+        "Chi vuole le grotte"
+      ],
+      "nonadatta": [
+        "Chi ha bambini piccoli",
+        "Chi vuole la sabbia"
+      ],
+      "periodo": "Da giugno a settembre, con il mare calmo.",
+      "portare": "Scarpette da scoglio, maschera e pinne. Il materassino resta a casa."
+    }
+  }
+}

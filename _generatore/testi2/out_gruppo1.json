@@ -1,0 +1,520 @@
+{
+ "santandrea": {
+  "nome": "Torre Sant'Andrea",
+  "lead": "Un porticciolo di pescatori, cinque faraglioni e una spiaggetta piccola. Qui il costume serve, il secchiello no.",
+  "consiglio": "Vai ai faraglioni con il mare piatto: l'Arco degli Innamorati si fa a nuoto. Per la baia del Bastimento serve una barca, oppure gambe buone per una scala ripida.",
+  "perfetta": [
+   "Chi preferisce un faraglione a un lettino",
+   "Chi il bagno lo vuole in mare aperto",
+   "Chi la sera vuole un pub con musica dal vivo"
+  ],
+  "nonadatta": [
+   "Chi sogna una spiaggia grande di sabbia",
+   "Chi fatica su scale e scogli"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Torre Sant'Andrea è una marina di Melendugno, tra Torre dell'Orso e Otranto.",
+     "C'è un porticciolo sull'Adriatico, una spiaggetta piccola e una falesia piena di grotte e anfratti. La sabbia è poca, la roccia abbonda.",
+     "Il nome viene da una chiesa rupestre, probabilmente di rito greco, di cui non è rimasta traccia. Sul promontorio c'è il faro del 1932, costruito dove prima stava una torre di avvistamento."
+    ],
+    "et": []
+   },
+   {
+    "h": "I faraglioni",
+    "p": [
+     "Si chiamano Lu Pepe, Colonnina, Giardinetto e Punticeddha. Il più fotografato è l'Arco degli Innamorati, e lo sa.",
+     "La baia del Bastimento si raggiunge in barca o dalla scala che scende fino all'acqua. Raccontano che la scala sia stata scavata a mano in una notte, dopo che una nave si era arenata lì durante la seconda guerra mondiale. Noi in una notte non chiudiamo nemmeno la valigia."
+    ],
+    "et": [
+     "Lu Pepe",
+     "Colonnina",
+     "Giardinetto",
+     "Punticeddha",
+     "Arco degli Innamorati",
+     "Baia del Bastimento"
+    ]
+   },
+   {
+    "h": "Come arrivare e la sera",
+    "p": [
+     "Alla spiaggia ci arrivi a piedi dalla strada litoranea, vicino al Babilonia.",
+     "Il Babilonia di giorno è bar e pizzeria, di notte pub con concerti dal vivo d'estate. È il locale dello slogan \"lu sule, lu mare, lu ientu\"."
+    ],
+    "et": [
+     "Babilonia"
+    ]
+   }
+  ],
+  "claim": "Cinque faraglioni a due passi dal parcheggio. Sul serio."
+ },
+ "torre-rinalda": {
+  "nome": "Torre Rinalda",
+  "lead": "Sabbia fine e fondale basso a 15 km da Lecce. Una marina semplice e comoda: la valigia può restare leggera.",
+  "consiglio": "Guarda le previsioni: se il vento gira, il mare si sporca e perde trasparenza. Una di quelle mattine falla all'Abbazia di Cerrate, tra gli ulivi.",
+  "perfetta": [
+   "Le famiglie con bambini piccoli al seguito",
+   "Chi vuole mare e Lecce nella stessa giornata",
+   "Chi cammina volentieri e guarda gli uccelli",
+   "Chi sceglie la sabbia e lascia gli scogli agli altri"
+  ],
+  "nonadatta": [
+   "Chi cerca scogliere e calette selvagge",
+   "Chi vuole tirare tardi senza lasciare la marina"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Torre Rinalda è una piccola marina di Lecce, sulla costa adriatica, a circa 15 km dal capoluogo.",
+     "La spiaggia è di sabbia fine e il fondale scende piano. Trovi tratti liberi e lidi con ombrelloni e lettini, così decidi tu quanta roba portarti da casa.",
+     "Il vento e le onde cambiano la trasparenza dell'acqua, quindi il colore non è sempre lo stesso. Le cartoline non lo dicono, noi sì."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La torre cinquecentesca in carparo, costruita dagli Spagnoli contro i pirati, oggi è un rudere. Restano due finestrelle e un pezzo di volta a botte.",
+     "Poco lontano, tra gli ulivi, c'è l'Abbazia di Santa Maria di Cerrate: facciata romanica, affreschi e frantoi sotterranei.",
+     "Il Parco di Rauccio ha bosco, macchia e zone umide. Con un po' di fortuna vedi il cavaliere d'Italia e il fratino: sono uccelli, e non posano a comando."
+    ],
+    "et": [
+     "Abbazia di Santa Maria di Cerrate",
+     "Parco di Rauccio"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Per una passeggiata sul lungomare vai a Casalabate, dove trovi aperitivi e pesce. Oppure vai a Lecce: Piazza del Duomo, Santa Croce, Piazza Sant'Oronzo. Le infradito, per una sera, restano a casa."
+    ],
+    "et": [
+     "Casalabate",
+     "Lecce"
+    ]
+   }
+  ],
+  "claim": "Mattina in acqua bassa, sera a Lecce: sono 15 km."
+ },
+ "tricase": {
+  "nome": "Tricase",
+  "lead": "Un paese del basso Salento con la costa alta. Il bagno lo fai dove la roccia scende, e ti diciamo dove.",
+  "consiglio": "Il bagno a Tricase non è ovunque: chiedi dove la scogliera è bassa, come a Marina Serra, Andrano e Novaglie. D'inverno i locali si tuffano a Tricase Porto, tu regolati.",
+  "perfetta": [
+   "Chi entra in acqua dagli scogli, con la maschera in mano",
+   "Chi vuole dormire in una pajara, in silenzio",
+   "Chi gira volentieri tra paesi e castelli",
+   "Chi vuole partire da qui per Leuca e il Ciolo"
+  ],
+  "nonadatta": [
+   "Chi vuole sabbia, lido e sdraio",
+   "Chi viaggia con bimbi piccoli e cerca la riva bassa"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Tricase è in provincia di Lecce, sulla litoranea adriatica verso Santa Maria di Leuca. La costa è di scogliera alta, a tratti.",
+     "I sentieri nella roccia portano nei punti dove la scogliera si abbassa e puoi entrare in acqua. Prima si cammina, poi si nuota."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "In paese c'è il Castello dei Principi Gallone, del Cinquecento, sopra il centro storico.",
+     "A Tricase Porto trovi la chiesetta di San Nicola e la Torre del Sasso, su una roccia grande, costruita contro gli attacchi dei Turchi.",
+     "Lungo la costa ci sono le pajare, case di pietra che si affittano, soprattutto a Marina Serra."
+    ],
+    "et": [
+     "Castello dei Principi Gallone",
+     "Chiesetta di San Nicola",
+     "Torre del Sasso",
+     "Pajare"
+    ]
+   },
+   {
+    "h": "Dove fare il bagno",
+    "p": [
+     "Tricase Porto: ci vanno i locali, anche in bassa stagione e in inverno.",
+     "Marina Serra: l'insenatura che chiamano \"la piscina\". Il cloro non è previsto.",
+     "Andrano: lungomare con ombrellone e lettino sugli scogli.",
+     "Novaglie: fondali buoni per lo snorkeling, quindi porta la maschera.",
+     "Il Ciolo: qui ci si tuffa dagli scogli."
+    ],
+    "et": [
+     "Marina Serra",
+     "Andrano",
+     "Novaglie",
+     "Il Ciolo"
+    ]
+   }
+  ],
+  "claim": "Costa alta. Il bagno si fa dove la roccia ti lascia."
+ },
+ "marina-di-marittima": {
+  "nome": "Marina di Marittima",
+  "lead": "Un paese di campagna che arriva al mare con terrazze, muretti a secco e calette. Il passo resta quello della campagna, anche in ciabatte.",
+  "consiglio": "Il lungomare lascialo stare: qui si va per scogli e calette. Dormi o mangia a Castro Marina, a due passi, e vieni per l'Acquaviva e Torre del Lupo.",
+  "perfetta": [
+   "Chi cerca calette e scogli senza troppa gente",
+   "Chi si ferma volentieri davanti a un muretto a secco",
+   "Chi dorme a Castro e vuole una gita vicina"
+  ],
+  "nonadatta": [
+   "Chi vuole sabbia e stabilimenti",
+   "Chi la sera cerca locali e movimento"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Marittima è una frazione di Diso, vicino a Castro Marina. È un paese rurale, con case basse e bianche, sviluppato su due strade principali: perdersi è difficile.",
+     "Il territorio scende verso l'Adriatico a terrazze e muretti a secco. Lungo la costa trovi calette, scogli e insenature."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "L'insenatura dell'Acquaviva è la tappa più nota. Sulla costa domina, da sola, l'antica Torre del Lupo.",
+     "Le zone di costa si chiamano Arenosa, Chianca Liscia, Serriti, Marine Colella, Porticelli e marina dell'Aia. Qui ogni pezzo di costa ha il suo nome."
+    ],
+    "et": [
+     "Acquaviva",
+     "Torre del Lupo"
+    ]
+   }
+  ],
+  "claim": "Scende al mare a terrazze. Il lungomare non è previsto."
+ },
+ "lido-marini": {
+  "nome": "Lido Marini",
+  "lead": "Sabbia dorata e fondale basso sulla costa ionica, tra Torre Mozza e Torre Pali. Qui si stancano i bambini, tu no.",
+  "consiglio": "Se vuoi la spiaggia vuota, qui è più semplice, e Pescoluse resta a 8-9 km, circa 10 minuti d'auto. Parcheggia sul lungomare Nazario Sauro o in via Eroi Ugentini.",
+  "perfetta": [
+   "Le famiglie con bambini piccoli e paletta al seguito",
+   "Chi vuole sabbia fine e fondale basso",
+   "Chi passeggia guardando gli uccelli",
+   "Chi fa snorkeling o pesca subacquea"
+  ],
+  "nonadatta": [
+   "Chi cerca scogli e calette",
+   "Chi vuole una vita notturna intensa"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Lido Marini sta sulla costa ionica, tra Torre Mozza e Torre Pali. Il territorio è diviso tra Ugento e Salve.",
+     "Gli abitanti sono 166, quindi sì, è piccola. La spiaggia è di sabbia fine, con tratti liberi e stabilimenti attrezzati, e ha la Bandiera Blu."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Nella parte nord-ovest ci sono i bacini Spunderati, zone umide collegate da canali, con ulivi e uccelli migratori. Loro la valigia non la fanno.",
+     "A Ugento, circa 12 km, trovi il Castello, la Cattedrale e il Museo Archeologico. A Salve, sempre a circa 12 km, c'è il Parco Astronomico Sidereus, con planetario e telescopi."
+    ],
+    "et": [
+     "Spunderati",
+     "Ugento",
+     "Parco Astronomico Sidereus"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Si passeggia sul lungomare. L'aperitivo al Rottacapozza Beach, la cena al Playa Blanca, il gelato allo storico Bar Marini in piazza Tirolo. Il programma è questo, e funziona."
+    ],
+    "et": [
+     "Rottacapozza Beach",
+     "Playa Blanca",
+     "Bar Marini"
+    ]
+   }
+  ],
+  "claim": "Sabbia dorata, acqua bassa e 166 abitanti."
+ },
+ "patu": {
+  "nome": "Patù",
+  "lead": "Un piccolo paese del Capo di Leuca con una città messapica e un monumento nazionale. Prima le pietre, poi il costume.",
+  "consiglio": "Usa Patù come base tranquilla per il Capo di Leuca: non è una località di mare. Per il bagno c'è Marina di San Gregorio, che fa parte del comune.",
+  "perfetta": [
+   "Chi va in vacanza anche per archeologia e storia antica",
+   "Chi vuole un paese piccolo e tranquillo",
+   "Chi cerca una base per girare il Capo di Leuca"
+  ],
+  "nonadatta": [
+   "Chi vuole uscire di casa e stare già in acqua",
+   "Chi la sera cerca locali e movida"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Patù ha 1721 abitanti e si trova a circa 63 km da Lecce. Ci arrivi dalla SS 101 Salentina, quella che porta a Gallipoli.",
+     "Si dice che il nome venga dal greco pathos, dolore: ricorderebbe la fine di Vereto, distrutta dai saraceni. Nome serio, per un paese così tranquillo."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il sito archeologico di Vereto conserva i resti della città messapica. Poi ci sono le Centopietre, monumento nazionale. Contarle è facoltativo.",
+     "C'è la chiesa di San Giovanni Battista, e c'è Cala Saracena. La frazione di mare è Marina di San Gregorio.",
+     "Nei dintorni: Tricase, Alessano, Specchia, Salve, Castrignano del Capo."
+    ],
+    "et": [
+     "Vereto",
+     "Centopietre",
+     "Marina di San Gregorio",
+     "Cala Saracena"
+    ]
+   }
+  ],
+  "claim": "1721 abitanti, una città messapica, un monumento nazionale."
+ },
+ "ugento": {
+  "nome": "Ugento",
+  "lead": "Un centro messapico con castello e museo, più tre marine di sabbia con la Bandiera Blu. La mattina Zeus, il pomeriggio l'ombrellone.",
+  "consiglio": "Il paese e il mare sono separati: Torre San Giovanni è a 6 km, Lido Marini a 13. Fai il Museo la mattina e la spiaggia nel pomeriggio.",
+  "perfetta": [
+   "Le famiglie, per sabbia e fondale basso",
+   "Chi tiene insieme mare e museo nella stessa giornata",
+   "Chi ama trekking e uscite a cavallo",
+   "Chi vuole uscite in barca e snorkeling"
+  ],
+  "nonadatta": [
+   "Chi vuole arrivare al mare a piedi dal centro",
+   "Chi vuole solo scogli e calette"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Ugento è un antico centro messapico, con castello, cattedrale e un bel centro storico. Il territorio comprende Gemini e le marine di Torre San Giovanni, Torre Mozza e Lido Marini.",
+     "La marina principale è Torre San Giovanni, a circa 6 km, 10 minuti d'auto."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il Museo Archeologico conserva la copia della statua bronzea di Zeus. L'originale, trovato nel 1961, è al MArTA di Taranto. Qui resta la copia, e fa comunque la sua figura.",
+     "A Torre San Giovanni c'è la torre sul porticciolo, antico porto romano. Poi la zona delle Pazze e l'Isolotto di Pazze, dove è stato scoperto un insediamento dell'età del Bronzo."
+    ],
+    "et": [
+     "Museo Archeologico",
+     "Torre San Giovanni",
+     "Isolotto di Pazze"
+    ]
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "Torre Mozza (11 km) e Lido Marini (13 km) hanno sabbia dorata e fondali bassi. Con Torre San Giovanni fanno tre Bandiere Blu.",
+     "Alle Pazze la sabbia si alterna alla scogliera. Il Lido Cocoloco, a Torre San Giovanni, ha musica e aperitivi."
+    ],
+    "et": [
+     "Torre Mozza",
+     "Lido Marini",
+     "Lido Cocoloco"
+    ]
+   },
+   {
+    "h": "Altro da fare",
+    "p": [
+     "Dal porticciolo di Torre San Giovanni partono noleggio barche, pesca turismo e snorkeling alle Secche di Ugento. C'è anche la Pista Salentina, un circuito di go kart. Per i bambini c'è la Fattoria di Nonno Pippi."
+    ],
+    "et": [
+     "Pista Salentina",
+     "Fattoria di Nonno Pippi"
+    ]
+   }
+  ],
+  "claim": "Il castello in paese, la sabbia a 6 km. Organizzati."
+ },
+ "marina-di-alliste": {
+  "nome": "Marina di Alliste",
+  "lead": "Sette km di scogliera bassa e calette, con meno gente della costa ionica più famosa. L'affitto, per una volta, non fa male.",
+  "consiglio": "L'affitto costa meno e le case stanno a pochi metri dal mare. Se ti serve la sabbia, a nord c'è Punta della Suina, a sud Torre San Giovanni.",
+  "perfetta": [
+   "Chi cerca scogli bassi e calette tranquille",
+   "Le famiglie che vogliono un mare facile per i bimbi",
+   "Chi vuole risparmiare sull'affitto in riva al mare"
+  ],
+  "nonadatta": [
+   "Chi vuole una spiaggia di sabbia",
+   "Chi la sera vuole tanti locali tra cui scegliere"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Alliste sta sulla litoranea ionica. Confina con Torre Suda a nord e Torre San Giovanni a sud.",
+     "La costa è bassa e rocciosa per 7 km, con tante calette. La massa di turisti non arriva fin qui e gli affitti costano meno: due buone notizie in una riga."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Torre Sinfonò è del XIV secolo, a 200 metri dal mare, parzialmente diroccata. Sotto, la roccia a picco è alta 6 metri e il mare è profondo una decina.",
+     "Capilungo e Posto Rosso alternano costa rocciosa e tratti di sabbia. A Capilungo c'è una pista ciclopedonale. Nella frazione Felline c'è un centro storico interessante."
+    ],
+    "et": [
+     "Torre Sinfonò",
+     "Capilungo",
+     "Posto Rosso",
+     "Felline"
+    ]
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "Per la sabbia: a nord i lidi di Punta della Suina e il parco di Punta Pizzo. D'estate ci sono sagre ed eventi fino a notte tarda, quindi la mattina dopo il mare può aspettare."
+    ],
+    "et": [
+     "Punta della Suina",
+     "Punta Pizzo"
+    ]
+   }
+  ],
+  "claim": "Sette km di scogliera bassa. La folla si ferma prima."
+ },
+ "sannicola": {
+  "nome": "Sannicola",
+  "lead": "Un paese agricolo a 6 km da Gallipoli, con un tratto di costa rocciosa e tanta campagna. Qui certe vie portano ancora i segni dei carri.",
+  "consiglio": "Per il bagno vai a Lido Conchiglie, Padula Bianca o Rivabella, nel golfo a nord di Gallipoli. Poi torna per il meglio di Sannicola, la campagna, e sali sulla serra di San Mauro.",
+  "perfetta": [
+   "Chi vuole stare vicino a Gallipoli, ma più tranquillo",
+   "Chi passeggia volentieri per vie rurali e campagne",
+   "Chi cerca una base, con l'auto, per il golfo di Gallipoli"
+  ],
+  "nonadatta": [
+   "Chi vuole il mare in paese",
+   "Chi sceglie il posto in base alla vita serale"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Sannicola ha 6398 abitanti ed è a 32 km da Lecce e circa 6 km da Gallipoli. È ancora un paese di economia agricola.",
+     "Ha un tratto breve di costa rocciosa, dalle sorgenti di Lido Conchiglie alla Montagna Spaccata."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La serra di San Mauro dà un panorama sulla campagna e sul mare di Gallipoli, che da qui guardi senza cercare parcheggio. Altri punti panoramici: la località Sergente a Chiesanuova e il parco delle Scuole Medie.",
+     "Le campagne hanno decine di vie rurali, alcune antichissime, lastricate con basoli consumati dalle ruote dei carri. Il traffico di allora ha lasciato il segno."
+    ],
+    "et": [
+     "Serra di San Mauro",
+     "Chiesanuova"
+    ]
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "I sannicolesi d'estate vanno a Lido Conchiglie, Padula Bianca e Rivabella, nel golfo a nord di Gallipoli. Fai come loro."
+    ],
+    "et": [
+     "Lido Conchiglie",
+     "Padula Bianca",
+     "Rivabella"
+    ]
+   }
+  ],
+  "claim": "A 6 km da Gallipoli, a un'altra velocità."
+ },
+ "punta-prosciutto": {
+  "nome": "Punta Prosciutto",
+  "lead": "Sabbia bianca, dune e fondale basso nell'Area Marina Protetta di Porto Cesareo. Il nome mette fame, ma qui si viene per l'acqua.",
+  "consiglio": "Vieni a maggio o giugno, con meno gente e un paesaggio più libero, e porta la maschera. Conta circa 20 euro al giorno per ombrellone e due lettini.",
+  "perfetta": [
+   "Le famiglie con bimbi piccoli, per il fondale basso",
+   "Chi al mare non va senza maschera",
+   "Chi vuole dune e macchia mediterranea",
+   "Chi preferisce la spiaggia libera, con qualche lido"
+  ],
+  "nonadatta": [
+   "Chi cerca la vita serale di un paese",
+   "Chi non vuole spostarsi in auto per tutto"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Punta Prosciutto è nel comune di Porto Cesareo, in provincia di Lecce, sulla costa ionica. Fa parte dell'Area Marina Protetta di Porto Cesareo.",
+     "La sabbia è fine e bianca, il fondale è basso e sabbioso. Le dune riparano dal vento e si alternano alla macchia mediterranea, e l'ombrellone ringrazia."
+    ],
+    "et": []
+   },
+   {
+    "h": "Quando andare e quanto costa",
+    "p": [
+     "Il periodo migliore è maggio e giugno. Se le ferie te lo permettono, non pensarci.",
+     "Gran parte della costa è libera, con alcuni lidi attrezzati. In giugno, luglio e settembre ombrellone e due lettini costano mediamente 20 euro al giorno. Pranzo o cena nei ristoranti dei lidi anche 25 euro. Il telo portato da casa resta gratis."
+    ],
+    "et": []
+   },
+   {
+    "h": "Dove dormire",
+    "p": [
+     "Ci sono residence e molti appartamenti e ville fronte mare. Tra le strutture: Residence Oasis, Giardini Sausari, il villaggio Punta Grossa, Baia Malva resort e i camping di Porto Cesareo e Torre Castiglione."
+    ],
+    "et": [
+     "Residence Oasis",
+     "Baia Malva resort"
+    ]
+   }
+  ],
+  "claim": "Dune e sabbia bianca. Le ferie mettile a maggio o giugno."
+ },
+ "cutrofiano": {
+  "nome": "Cutrofiano",
+  "lead": "Un paese dell'entroterra a 27 km da Lecce, con palazzo ducale, chiese e una cripta. Per una volta, l'unica sabbia è quella rimasta nelle scarpe.",
+  "consiglio": "Il mare qui non c'è, quindi vienici per un giro di un paio d'ore. Palazzo, chiese e la cripta di San Giovanni, a meno di un chilometro dal centro.",
+  "perfetta": [
+   "Chi ama chiese e palazzi senza folla",
+   "Chi gira l'entroterra in auto",
+   "Chi vuole una tappa culturale a metà giornata"
+  ],
+  "nonadatta": [
+   "Chi vuole il mare a portata di ciabatta",
+   "Chi cerca serate e locali"
+  ],
+  "sezioni": [
+   {
+    "h": "Com'è",
+    "p": [
+     "Cutrofiano ha 9182 abitanti e dista 27 km da Lecce. Le origini sono romane, poi arrivarono i bizantini, che influenzarono usi e lingua.",
+     "Fu a lungo feudo della famiglia Filomarino. Il nome lo ritrovi sul palazzo."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il Palazzo Ducale, o Filomarino, è l'edificio più importante, costruito verso la metà del Seicento.",
+     "La Chiesa Matrice è dedicata alla Madonna della Neve e conserva altari barocchi del XVII secolo. Accanto, il portale di Palazzo Calò ha un mascherone a cui la gente ha dato vari significati. Trovane uno tuo.",
+     "La Chiesa dell'Immacolata, fuori le mura, è ottagonale, costruita tra il 1764 e il 1772. La Cripta di San Giovanni è un piccolo vano scavato nel tufo, con tracce di affreschi."
+    ],
+    "et": [
+     "Palazzo Ducale",
+     "Chiesa Matrice",
+     "Chiesa dell'Immacolata",
+     "Cripta di San Giovanni"
+    ]
+   }
+  ],
+  "claim": "Il costume lascialo in auto: qui c'è una cripta."
+ }
+}

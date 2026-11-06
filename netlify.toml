@@ -8,6 +8,13 @@
   [headers.values]
     X-Robots-Tag = "noindex, nofollow, noarchive"
 
+# Il generatore sta nel repository ma non si pubblica.
+[[redirects]]
+  from = "/_generatore/*"
+  to = "/404.html"
+  status = 404
+  force = true
+
 # La vecchia guida alle spiagge ora è la sezione spiagge.
 [[redirects]]
   from = "/servizi/spiagge-salento/*"

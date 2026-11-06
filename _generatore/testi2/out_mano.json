@@ -1,0 +1,567 @@
+{
+ "lecce": {
+  "nome": "Lecce",
+  "claim": "Il mare è a mezz'ora. Per un giorno può aspettare.",
+  "lead": "La città del barocco. Il mare è a mezz'ora, ma per un giorno il costume resta in valigia.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "Lecce è fatta di pietra leccese, tenera sotto lo scalpello, e lo vedi su ogni facciata. La chiamano la Firenze del Sud. Lei di paragoni non ha bisogno.",
+     "È anche una buona base: da qui arrivi su tutte e due le coste, così non devi scegliere prima di partire."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "In città il mare non c'è. Le spiagge più vicine sono a 20-30 minuti di macchina. Se vuoi scendere in costume dall'hotel, ti conviene dormire altrove."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Si comincia dalla Basilica di Santa Croce, il simbolo del barocco leccese. Poi Piazza Sant'Oronzo, dove in un colpo solo hai l'anfiteatro romano, la colonna del santo e il sedile cinquecentesco.",
+     "Da lì prendi Corso Vittorio Emanuele e arrivi in Piazza Duomo, con la Cattedrale e il campanile. Vacci al tramonto, e per quell'ora non prendere altri impegni."
+    ],
+    "et": [
+     "Basilica di Santa Croce",
+     "Piazza Sant'Oronzo",
+     "Anfiteatro romano",
+     "Piazza Duomo",
+     "Castello Carlo V",
+     "Chiesa di Santa Chiara"
+    ]
+   },
+   {
+    "h": "Quanto tempo serve",
+    "p": [
+     "Un giorno basta per il centro storico. Con due ci metti anche i musei e le chiese meno conosciute, e te la prendi con calma."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa fare, oltre a guardare",
+    "p": [
+     "Qui le mani in pasta si mettono sul serio: ci sono laboratori di cartapesta, di pietra leccese e di cucina. Se invece le mani vuoi tenerle in tasca, scendi sotto la città."
+    ],
+    "et": [
+     "Laboratorio di cartapesta",
+     "Laboratorio di pietra leccese",
+     "Laboratorio di cucina",
+     "Sotterranei",
+     "Degustazioni di vini"
+    ]
+   },
+   {
+    "h": "Il mare più vicino",
+    "p": [
+     "Sull'Adriatico, a 20-30 minuti, trovi San Cataldo, Torre Chianca, Spiaggiabella, Frigole e Torre Rinalda. Sullo Ionio, a 40-50 minuti, Porto Cesareo, Torre Lapillo e Sant'Isidoro."
+    ],
+    "et": []
+   },
+   {
+    "h": "Come arrivare",
+    "p": [
+     "In treno hai collegamenti ad alta velocità da Milano, Bologna, Firenze, Roma e Napoli, e scendi alla stazione in città. L'aeroporto è Brindisi, a circa 45 km."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi in vacanza vuole chiese e palazzi, non solo ombrelloni",
+   "Chi non sa scegliere e vuole una base per tutte e due le coste",
+   "Chi vuole mettere le mani in cartapesta, pietra e cucina",
+   "Chi ha un giorno o due da dedicare al barocco"
+  ],
+  "nonadatta": [
+   "Chi vuole arrivare in spiaggia a piedi",
+   "Chi viene solo per il mare: è mezz'ora di macchina ogni giorno"
+  ],
+  "consiglio": "Il primo giorno è per il centro. Il secondo tienilo per i sotterranei e per la cartapesta."
+ },
+ "gallipoli": {
+  "nome": "Gallipoli",
+  "claim": "Un'isola, un ponte e una sera che finisce tardi.",
+  "lead": "Un'isola collegata alla terraferma da un ponte. La sera c'è sempre qualcosa, fino a tardi. Il sonno lo recuperi a casa.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "I greci la chiamarono Kalè Polis, la città bella. Il centro storico sta su un'isola, oltre il ponte seicentesco: case bianche e vicoli stretti che portano alla Cattedrale di Sant'Agata.",
+     "Fuori dal centro hai chilometri di sabbia. E quando finisce il mare comincia la sera, che qui non ha fretta."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "Se cerchi silenzio, non è il posto. D'estate il parcheggio va cercato presto: arriva nelle prime ore del giorno o nel tardo pomeriggio e lascia la macchina fuori dalla ZTL. Il posto sotto casa, qui, è una leggenda."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il centro si gira a piedi e bastano un giorno e mezzo. Non saltare i frantoi ipogei, scavati sotto la città, e la passeggiata sui bastioni."
+    ],
+    "et": [
+     "Castello Angioino",
+     "Fontana greca",
+     "Cattedrale di Sant'Agata",
+     "Chiesa della Purità",
+     "Frantoi ipogei",
+     "Bastioni e mura",
+     "Museo Civico"
+    ]
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "Dipende da chi sei. Da Punta della Suina a Baia Verde ci sono gli stabilimenti nel pieno della movida. Rivabella è più tranquilla, a misura di famiglia. Scegli prima di fare la valigia, perché cambia anche quella."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa si mangia",
+    "p": [
+     "Pesce fresco, cucinato in tutti i modi. Il piatto di qui è lo scapece: pesce fritto e marinato tra strati di pangrattato, aceto e zafferano. Se non l'hai mai assaggiato, comincia da lì."
+    ],
+    "et": []
+   },
+   {
+    "h": "Quando venire",
+    "p": [
+     "A Carnevale i carri dei maestri cartapestai sfilano lungo Corso Roma. D'estate ci sono le feste di Santa Cristina e della Madonna del Carmine, con le luminarie."
+    ],
+    "et": []
+   },
+   {
+    "h": "Come arrivare",
+    "p": [
+     "In auto prendi la SS101 da Lecce. In treno arrivi a Lecce e prosegui con i regionali delle Ferrovie del Sud Est. L'aeroporto è Brindisi, a circa 85 km."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi la sera esce e torna tardi",
+   "Chi vuole il centro storico a piedi e il mare dietro l'angolo",
+   "Le famiglie, se dormono verso Rivabella",
+   "Chi a cena vuole solo pesce fresco"
+  ],
+  "nonadatta": [
+   "Chi cerca silenzio: qui si va avanti fino a tardi",
+   "Chi vuole la macchina sotto casa: il centro è ZTL",
+   "Chi d'estate non ha voglia di cercare parcheggio"
+  ],
+  "consiglio": "Lascia la macchina fuori dalla ZTL e passa il ponte a piedi. Per la sera non serve altro."
+ },
+ "otranto": {
+  "nome": "Otranto",
+  "claim": "Il sole arriva prima qui. Tu arriva quando vuoi.",
+  "lead": "Il comune più a est d'Italia. Il sole arriva prima qui, e per vederlo serve la sveglia.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "Ha un centro storico fortificato, un castello e un pavimento che da solo vale il viaggio: il mosaico della Cattedrale, con scene bibliche e mitologiche. Per una volta conviene guardare per terra.",
+     "Fuori dalle mura il mare lo scegli tu: sabbia a nord, sassi a sud."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "In centro le spiagge di sabbia non ci sono. Per Alimini e Baia dei Turchi devi spostarti verso nord, e a sud trovi soprattutto sassi."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Parti dalla Cattedrale, poi passa al Castello Aragonese, che d'estate ospita mostre ed eventi. Finisci sul Bastione dei Pelasgi: la sera si va lì."
+    ],
+    "et": [
+     "Cattedrale e mosaico",
+     "Castello Aragonese",
+     "Mura",
+     "Torre dell'Orologio",
+     "Museo Diocesano",
+     "Bastione dei Pelasgi"
+    ]
+   },
+   {
+    "h": "Nei dintorni",
+    "p": [
+     "Il faro di Punta Palascìa è il simbolo del posto, ed è anche un museo. Vicino c'è la cava di bauxite, rossa con l'acqua verde: vacci al tramonto e tieni il telefono carico.",
+     "I Laghi Alimini sono area protetta, buoni per canoa, trekking e passeggiate a cavallo."
+    ],
+    "et": [
+     "Faro di Punta Palascìa",
+     "Cava di bauxite",
+     "Laghi Alimini",
+     "Baia dei Turchi",
+     "Porto Badisco",
+     "Baia delle Orte"
+    ]
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "Baia dei Turchi ha sabbia fine ed è una delle più amate. Ci sono anche la spiaggia libera di Alimini e la Baia del Mulino ad Acqua. Verso sud trovi Porto Badisco e Baia delle Orte."
+    ],
+    "et": []
+   },
+   {
+    "h": "Quando venire",
+    "p": [
+     "La prima domenica di settembre il porto si riempie di barche per la Madonna dell'Altomare. A Capodanno c'è l'Alba dei Popoli: si va a vedere la prima luce nel punto più a est d'Italia."
+    ],
+    "et": []
+   },
+   {
+    "h": "Come arrivare",
+    "p": [
+     "L'aeroporto è Brindisi, a circa un'ora di macchina."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi vuole il centro storico e il mare nella stessa vacanza",
+   "Chi ama camminare e pagaiare: Alimini è lì",
+   "Chi mette la sveglia per vedere l'alba",
+   "Chi vuole scegliere tra sabbia a nord e sassi a sud"
+  ],
+  "nonadatta": [
+   "Chi vuole la sabbia sotto l'hotel: le spiagge non sono in centro",
+   "Chi in vacanza non vuole toccare la macchina"
+  ],
+  "consiglio": "Al mosaico della Cattedrale dedica tempo vero. La sera sali sul Bastione dei Pelasgi."
+ },
+ "santa-maria-di-leuca": {
+  "nome": "Santa Maria di Leuca",
+  "claim": "Finisce la strada, si incontrano due mari. Si scende qui.",
+  "lead": "Dove finisce la strada. Lo Ionio e l'Adriatico si incontrano qui, e più avanti non si può andare.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "È l'ultima punta del Salento, sulla scogliera di Punta Meliso. Il faro sta a 102 metri sul mare, accanto al Santuario de Finibus Terrae.",
+     "Arrivarci è già metà del giro: la strada costiera passa tra muri a secco e pajare, con il mare sotto. Chi è al volante guarda la strada, il mare glielo raccontano gli altri."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "Qui comandano scogliere e calette. Per la sabbia devi spostarti a Felloniche o verso Pescoluse, in pochi minuti d'auto. In alta stagione, per parcheggiare vicino al mare, arriva presto."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "Il faro, il santuario e la Cascata Monumentale, aperta solo in alcuni giorni dell'anno. Poi il lungomare, a piedi o in bici. Al tramonto vai a Punta Meliso."
+    ],
+    "et": [
+     "Faro",
+     "Santuario de Finibus Terrae",
+     "Cascata Monumentale",
+     "Lungomare",
+     "Marina di Novaglie",
+     "Ponte sul Fiordo del Ciolo"
+    ]
+   },
+   {
+    "h": "Le grotte, in barca",
+    "p": [
+     "Il giro parte dal porto. Lungo la scogliera trovi la Grotta Grande del Ciolo e una serie di insenature fino a Punta Meliso. Molti alberghi organizzano l'uscita direttamente dalla struttura, e a te resta solo il costume."
+    ],
+    "et": [
+     "Gite in barca",
+     "Snorkeling e diving",
+     "Kayak e canoa",
+     "Barca a vela"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "C'è più di quanto pensi. Il Lido Azzurro di giorno è uno stabilimento, di notte diventa una piccola discoteca all'aperto. Sul mare ci sono anche Samarinda, Lido Giulia e il Blanc. Ai confini della terra, a quanto pare, si balla."
+    ],
+    "et": []
+   },
+   {
+    "h": "Come arrivare",
+    "p": [
+     "In auto prendi la SS274 da Lecce. In treno arrivi a Lecce e prosegui con regionali o autobus. L'aeroporto è Brindisi, a circa 130 km. Per girare il Capo serve la macchina."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi preferisce scogliere e grotte alla sabbia",
+   "Chi vuole vedere la costa dalla barca",
+   "Chi viene per lo snorkeling e le immersioni",
+   "Chi organizza la giornata intorno al tramonto da Punta Meliso"
+  ],
+  "nonadatta": [
+   "Chi vuole sabbia a perdita d'occhio: per quella si va a Pescoluse",
+   "Chi vuole girare il Capo senza macchina"
+  ],
+  "consiglio": "Arrivaci dalla strada costiera, senza fretta. Al tramonto fatti trovare a Punta Meliso."
+ },
+ "porto-cesareo": {
+  "nome": "Porto Cesareo",
+  "claim": "Isolotti davanti al telo e pesce al porto.",
+  "lead": "Isolotti davanti alla spiaggia, sabbia sulle dune e pesce al porto. E quando tira vento, chi fa kitesurf è contento.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "Il porto naturale guarda sull'Isola dei Conigli ed è uno dei posti più belli della costa ionica. Attorno c'è un'area marina protetta: si può visitare con una guida, e il mare si vede bene anche a poca profondità.",
+     "Se ti interessa il pesce, c'è il pescaturismo: esci con i pescatori e impari a sceglierlo per la cena. Dal giorno dopo, al banco, le domande le fai tu."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "Il lido non è regalato: ombrellone e lettini partono da 40 euro per una famiglia e in alta stagione possono superare gli 80, pranzo compreso. E qui il vento si fa sentire, tanto che è un ritrovo per chi fa kitesurf."
+    ],
+    "et": []
+   },
+   {
+    "h": "Cosa vedere",
+    "p": [
+     "La sera passeggia in Via delle Pescherie. Di giorno, oltre all'area marina, ci sono il Museo Ittico e il Museo Talassografico, comodi con i ragazzi."
+    ],
+    "et": [
+     "Isola dei Conigli",
+     "Area marina protetta",
+     "Via delle Pescherie",
+     "Museo Ittico",
+     "Museo Talassografico"
+    ]
+   },
+   {
+    "h": "Dove andare intorno",
+    "p": [
+     "Vicine hai Torre Lapillo e Punta Prosciutto. In pochi minuti d'auto arrivi anche a Sant'Isidoro, Torre Inserraglio, Porto Selvaggio e alle altre marine di Nardò."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi vuole sabbia, dune e isolotti tutti insieme",
+   "Chi fa kitesurf e il vento lo cerca",
+   "Chi vuole uscire in mare con i pescatori",
+   "Chi vuole visitare un'area marina protetta"
+  ],
+  "nonadatta": [
+   "Chi al lido vuole spendere poco",
+   "Chi il vento lo sopporta poco",
+   "Chi ad agosto cerca silenzio"
+  ],
+  "consiglio": "Esci una volta con i pescatori. Al ritorno il pesce per la cena lo scegli tu."
+ },
+ "torre-dellorso": {
+  "nome": "Torre dell'Orso",
+  "claim": "La pineta dietro, le Due Sorelle davanti, tu in mezzo.",
+  "lead": "Una baia di sabbia fine, la pineta alle spalle e le Due Sorelle davanti. Dal letto al lido bastano pochi passi.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "L'arenile è ampio, con la pineta sopra e la torre di guardia in cima alla scogliera. In mare ci sono le Due Sorelle, gli scogli della leggenda: due sorelle che un pescatore vide morire tra le onde.",
+     "I lidi sono a pochi passi da appartamenti e B&B, quindi la macchina può restare ferma. Le ferie se le è guadagnate anche lei."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "La sera il lungomare è molto affollato. Se cerchi silenzio, dormi più lontano dal centro."
+    ],
+    "et": []
+   },
+   {
+    "h": "Il lido",
+    "p": [
+     "Un ombrellone con due lettini costa da 15 a 40 euro al giorno, secondo il mese e le persone. Tra i lidi ci sono il Lido dei Caraibi, Costa d'Oriente, Lido la Sorgente e lo storico Lido Orsetta."
+    ],
+    "et": []
+   },
+   {
+    "h": "Nei dintorni",
+    "p": [
+     "A poco più di un chilometro c'è Roca, con la Grotta della Poesia e l'area archeologica di Roca Vecchia. Poi Sant'Andrea con i suoi faraglioni e il porticciolo di San Foca."
+    ],
+    "et": [
+     "Grotta della Poesia",
+     "Roca Vecchia",
+     "Torre Sant'Andrea",
+     "San Foca"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "Per i pasticciotti c'è la pasticceria Dentoni, per un po' di musica la Casaccia. I Giardini del Sole hanno giochi per bambini e minigolf. Tra Torre dell'Orso e San Foca ci sono le feste nei locali sulla spiaggia."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi vuole sabbia fine e la pineta alle spalle",
+   "Le famiglie, con giochi e minigolf a due passi",
+   "Chi parcheggia il primo giorno e ritrova la macchina l'ultimo",
+   "Chi vuole la Grotta della Poesia a portata di mano"
+  ],
+  "nonadatta": [
+   "Chi la sera vuole un lungomare tranquillo",
+   "Chi cerca scogli e tuffi: per quelli c'è Sant'Andrea"
+  ],
+  "consiglio": "Ad agosto alle nove è già piena. Arriva prima, oppure vieni a giugno."
+ },
+ "castro-marina": {
+  "nome": "Castro Marina",
+  "claim": "Niente sabbia. In cambio: scogliere, grotte e acqua blu.",
+  "lead": "Scogliere, grotte e acqua blu. La sabbia, qui, non c'è: la paletta lasciala a casa.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "Il mare è limpido e profondo, buono per nuotare, fare snorkeling e immergersi. Sopra il porticciolo c'è il Castello Aragonese, con la vista su tutta la baia.",
+     "Al porto noleggi canoe, pedalò e barche per andare alle grotte."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "A Castro non ci sono spiagge di sabbia: il bagno si fa dagli scogli. Per la sabbia devi andare a Otranto oppure a sud, verso le Maldive del Salento."
+    ],
+    "et": []
+   },
+   {
+    "h": "Le grotte",
+    "p": [
+     "La Zinzulusa è la più famosa. Il nome viene da zinzuli, stracci: sono le stalattiti che scendono dal soffitto. Il tratto visitabile è lungo circa 150 metri.",
+     "Più a nord, verso Santa Cesarea Terme, c'è la Grotta Romanelli, nota per i reperti preistorici."
+    ],
+    "et": [
+     "Grotta Zinzulusa",
+     "Grotta Romanelli",
+     "Visite guidate",
+     "Tour in barca"
+    ]
+   },
+   {
+    "h": "Dove fare il bagno",
+    "p": [
+     "La scogliera alterna tratti alti e bassi. Punta Correnti ha l'accesso libero, l'Argentiera è bassa e comoda per stendersi. A Marina di Marittima c'è la baia dell'Acquaviva: l'acqua è freddissima, e te lo diciamo prima apposta."
+    ],
+    "et": [
+     "Baia dell'Acquaviva",
+     "La Sorgente",
+     "Punta Correnti",
+     "Scogliera dell'Argentiera"
+    ]
+   },
+   {
+    "h": "La sera",
+    "p": [
+     "La costa da Tricase a Santa Cesarea si anima di locali e discoteche. Blubay e Guendalina stanno su una collina, con la vista sul mare."
+    ],
+    "et": []
+   },
+   {
+    "h": "Intorno",
+    "p": [
+     "Se ti stanchi del mare ci sono Poggiardo, Andrano, Marittima, Tricase, Spongano, Diso e Ortelle, tra muretti a secco e ulivi."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Chi nuota bene e il fondo non ha bisogno di toccarlo",
+   "Chi viene per lo snorkeling e le immersioni",
+   "Chi vuole andare alle grotte in barca",
+   "Chi la sera vuole uscire lungo la costa"
+  ],
+  "nonadatta": [
+   "Chi vuole la sabbia: qui non la trova",
+   "Le famiglie con bambini piccoli che vogliono toccare il fondo"
+  ],
+  "consiglio": "Noleggia una canoa al porticciolo e vai alle grotte. La macchina portala piccola: le strade sono strette."
+ },
+ "maldive-del-salento": {
+  "nome": "Maldive del Salento",
+  "claim": "6 km di sabbia fine. Lo sanno tutti, quindi vieni a giugno.",
+  "lead": "Il soprannome è esagerato, ma non troppo. Sono 6 km di sabbia a Pescoluse, e il passaporto resta a casa.",
+  "sezioni": [
+   {
+    "h": "Perché sì",
+    "p": [
+     "Sono circa 6 km di costa ionica tra Torre Pali e Torre Vado, a Marina di Pescoluse, nel comune di Salve. Sabbia fine, dune e acqua bassa per un bel pezzo.",
+     "Si alternano spiaggia libera e stabilimenti attrezzati, quindi quanto spendere lo decidi tu. Con i bambini piccoli è difficile fare meglio."
+    ],
+    "et": []
+   },
+   {
+    "h": "!",
+    "p": [
+     "Lo sanno tutti, e d'estate si vede. Se puoi, vieni a giugno o a settembre. Agosto lascialo a chi ama la compagnia."
+    ],
+    "et": []
+   },
+   {
+    "h": "Quale spiaggia",
+    "p": [
+     "Oltre a Pescoluse ci sono Posto Vecchio, Torre Pali, Torre Vado e Lido Marini. Il mare è lo stesso, ognuna ha il suo carattere."
+    ],
+    "et": [
+     "Pescoluse",
+     "Posto Vecchio",
+     "Torre Pali",
+     "Torre Vado",
+     "Lido Marini"
+    ]
+   },
+   {
+    "h": "Cosa fare",
+    "p": [
+     "Sul mare puoi provare SUP, kayak e snorkeling, o fare un giro in barca lungo la costa. Quando vuoi cambiare aria, il borgo di Salve è lì vicino."
+    ],
+    "et": [
+     "SUP e kayak",
+     "Snorkeling",
+     "Escursioni in barca",
+     "Borgo di Salve"
+    ]
+   },
+   {
+    "h": "Dove andare intorno",
+    "p": [
+     "Santa Maria di Leuca è a un quarto d'ora di macchina, Gallipoli a circa mezz'ora. Pescoluse è una buona base per girare il sud del Salento."
+    ],
+    "et": []
+   }
+  ],
+  "perfetta": [
+   "Le famiglie con bambini piccoli e secchielli al seguito",
+   "Chi vuole sabbia fine e acqua bassa per un bel pezzo",
+   "Chi cerca una base per girare il sud del Salento",
+   "Chi vuole decidere tra spiaggia libera e lido"
+  ],
+  "nonadatta": [
+   "Chi ad agosto cerca spazio: lo sanno tutti",
+   "Chi vuole scogli e tuffi"
+  ],
+  "consiglio": "Ad agosto arriva presto, oppure vieni a settembre. Il resto lo fa la sabbia."
+ }
+}

@@ -1,0 +1,1508 @@
+{
+ "appartamenti/borgo-del-sole": {
+  "nome": "Borgo del Sole",
+  "desc": "A Torre Vado, a 3 km dal mare: trulli, casette storiche e appartamenti con piscina, gazebo, barbecue e parcheggio.",
+  "sez": [
+   {
+    "h": "Borgo del Sole in breve",
+    "p": [
+     "Borgo del Sole sta a Torre Vado, a 3 km dal mare.",
+     "Dormi in trulli storici, monolocali o casette in pietra restaurate, su oltre 5000 metri quadrati di querce, pini e sentieri.",
+     "La piscina è circondata dal verde e ha un solarium attrezzato. Per pranzi e cene all’aperto ci sono il grande gazebo e l’area barbecue."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Giardino",
+     "Barbecue"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Accesso per sedia a rotelle"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Ci sono 7 casette in pietra restaurate, il Grande Trullo e la Casa delle Api."
+    ],
+    "li": []
+   },
+   {
+    "h": "Il Grande Trullo",
+    "p": [
+     "Suite ricavata in un trullo storico: camera matrimoniale sotto la cupola in pietra, soggiorno con divano letto doppio, cucina attrezzata e bagno. Fuori hai uno spazio privato per mangiare all’aperto."
+    ],
+    "li": []
+   },
+   {
+    "h": "La Casa delle Api",
+    "p": [
+     "È il secondo trullo, con 2 camere da letto, di cui una nella Casa delle Api. Ha cucina attrezzata, bagno, aria condizionata e TV. Fuori c’è un’area riservata per mangiare all’aperto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Le Sette Casette",
+    "p": [
+     "7 monolocali con letto matrimoniale, cucina attrezzata, aria condizionata, TV e bagno privato. Ognuno ha il suo spazio esterno, dalla colazione alla cena."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/casa-micocci": {
+  "nome": "Casa Micocci",
+  "desc": "A Depressa, vicino a Marina Serra: casa di design con dettagli artigianali, 1 camera, soggiorno, cucina e piscina.",
+  "sez": [
+   {
+    "h": "Casa Micocci in breve",
+    "p": [
+     "Casa Micocci è una casa vacanze di design a Depressa, vicino a Marina Serra. Arredi, finiture e dettagli li hanno realizzati artigiani locali, su linee contemporanee.",
+     "Ospita fino a 4 persone: una coppia, una famiglia con 2 bambini piccoli oppure 3 adulti. Dentro trovi 1 camera matrimoniale, 1 bagno, soggiorno e cucina completa, e gli ambienti proseguono verso l’esterno.",
+     "La piscina privata sta nel cortile interno, al riparo dagli sguardi. Ci torni dopo una giornata tra spiagge e borghi.",
+     "La pulizia professionale è inclusa ogni 2 giorni.",
+     "Su prenotazione puoi aggiungere giri in barca, wine tour e cooking class, oltre a noleggio bici, baby-sitter e dog-sitter."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Wi-Fi Gratuito",
+     "Piscina outdoor",
+     "Parcheggio gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Bollitore elettrico",
+     "Piano cottura (elettrico o gas)",
+     "Tostapane",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "1 camera con letto king size e biancheria in lino. In soggiorno, il divano letto su misura lungo 3,5 metri diventa un letto per 2 bambini: così la casa va bene per una famiglia di 4 persone. In alternativa ospita fino a 3 adulti."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/casa-vacanza-lu-mare": {
+  "nome": "Casa Vacanza Lu Mare",
+  "desc": "A Torre Vado, appartamento con giardino, orto e veranda arredata: 2 camere, 1 bagno, posto auto. Animali benvenuti.",
+  "sez": [
+   {
+    "h": "Casa Vacanza Lu Mare in breve",
+    "p": [
+     "Casa Vacanza Lu Mare è un appartamento con giardino e orto a Torre Vado, a pochi minuti dalle spiagge di Pescoluse. La zona è tranquilla. A piedi arrivi al porto, al supermercato, alla pescheria, al bar, all’edicola e al lungomare, che è a 320 metri. Le prime spiagge attrezzate, La Cozza e Lido Venere, sono a 1,2 km. Le Maldive del Salento e le Cinque Vele sono poco più distanti.",
+     "L’appartamento è di 50 mq, su due piani, con molto spazio intorno: un boschetto, un grande orto sul retro, 2 barbecue in muratura, 2 docce calde esterne e il parcheggio. Al piano terra trovi 2 camere matrimoniali, 1 cucina attrezzata con forno, frigo e freezer, un grande bagno, TV e aria condizionata. La veranda arredata serve per cenare all’aperto. Di fronte all’appartamento, una piccola costruzione ospita la lavatrice.",
+     "Va bene per le famiglie. Gli animali sono i benvenuti, con un piccolo supplemento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Parcheggio gratuito",
+     "Giardino",
+     "Barbecue"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Forno",
+     "Frigo",
+     "Congelatore",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Ospita fino a 4 persone, al piano terra. È luminoso e arredato in stile moderno ed essenziale, con 2 camere matrimoniali tranquille."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/idrusa": {
+  "nome": "Idrusa",
+  "desc": "Appartamento nel centro di Otranto, a 100 metri dal mare: 4 persone, 1 camera, 2 bagni, soggiorno e cucina attrezzata.",
+  "sez": [
+   {
+    "h": "Idrusa in breve",
+    "p": [
+     "Idrusa è un appartamento nel centro storico di Otranto, a 100 metri dal mare. Tra centro, ristoranti e spiaggia l’auto può restare dov’è.",
+     "Sta al primo piano, con una rampa di scale. Ha soggiorno con divano letto, camera matrimoniale, balcone e 2 bagni, per famiglie e gruppi fino a 4 persone.",
+     "La cucina è attrezzata per l’uso di ogni giorno: forno, piano cottura, frigorifero con congelatore, lavastoviglie, macchina da caffè, bollitore elettrico e il necessario per cucinare. Se preferisci, puoi richiedere lo chef a domicilio. In più ci sono lavatrice, Wi-Fi e doppia TV.",
+     "Il balcone con vista mare è tutto tuo, con il centro storico intorno.",
+     "Su richiesta puoi aggiungere escursioni in barca, wine tour, cooking class, baby-sitter, dog-sitter, noleggio biciclette e pulizie extra."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Bollitore elettrico",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "1 camera matrimoniale e 2 bagni con doccia. Con il divano letto in soggiorno si arriva a 4 persone."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/li-cafari": {
+  "nome": "Li Cafari",
+  "desc": "Masseria del XVI secolo a Nardò: 8 suite con bagno privato, piscina, hammam, terrazze e ampi spazi esterni.",
+  "sez": [
+   {
+    "h": "Li Cafari in breve",
+    "p": [
+     "Masseria Li Cafari è una tenuta del XVI secolo nella campagna protetta di Nardò, a 1,5 km dal mare e dalla Riserva Naturale di Porto Selvaggio. Intorno ci sono 3 ettari di proprietà privata: pineta, uliveto con oltre 600 alberi, frutteto e orti.",
+     "Il recupero ha conservato la pietra della masseria e ha aggiunto grandi volumi, luce naturale, pezzi di design internazionale, arredi vintage e arte contemporanea. Un atrio vetrato alto 7 mt collega le due ali e porta alla zona living di oltre 320 mq, con vista sul mare, camino monumentale, sale lounge e cucina Ernesto Meda. Al piano superiore, la terrazza panoramica guarda il Golfo di Taranto e, nelle giornate più limpide, le montagne della Calabria.",
+     "Le 8 suite hanno tutte bagno privato e giardino riservato con doccia esterna. Poi ci sono la piscina panoramica di 15 metri con solarium, palestra, hammam, seconda cucina, sala colazioni e spazi all’aperto. Fuori trovi aree lounge ombreggiate e terrazze attrezzate per pranzi e cene.",
+     "Ogni mattina 2 maggiordomi dedicati preparano la colazione e si occupano di pulizie quotidiane e lavanderia. Il concierge, disponibile 24 ore su 24, organizza chef privati, degustazioni, tour, escursioni in barca, trattamenti benessere e transfer."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Giardino",
+     "Palestra",
+     "Cinema, caminetto interno, braciere, cucina all'aperto privata, griglia per barbecue, lettini prendisole"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Bollitore elettrico",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Tostapane",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le 8 suite accolgono fino a 16 ospiti. Ogni suite ha bagno privato con doppio lavabo, ampia doccia walk-in e, in alcune, vasca. Tutte si aprono su un giardino privato con doccia esterna. 3 suite hanno anche un soggiorno riservato."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/mare-e-sabbia": {
+  "nome": "Mare e Sabbia",
+  "desc": "A Torre San Giovanni, appartamento con 2 camere, soggiorno con cucina, terrazza con vista e posto auto.",
+  "sez": [
+   {
+    "h": "Mare e Sabbia in breve",
+    "p": [
+     "Mare e Sabbia è un appartamento a Torre San Giovanni.",
+     "Ha 2 camere da letto, zona pranzo e soggiorno, angolo cottura con lavastoviglie e un bagno con doccia. Fuori c’è un ampio balcone-terrazza per i pomeriggi e le cene all’aperto, da cui si vedono il mare e il porto. Ci sono anche il barbecue e il parcheggio riservato. Su richiesta hai culla, passeggino, sdraio e ombrelloni.",
+     "L’appartamento sta all’inizio della lunga spiaggia della marina. Bar, pescheria, fruttivendolo e ristoranti sono a pochi metri, quindi puoi lasciare l’auto e muoverti a piedi o in bicicletta. Torre San Giovanni è sulla costa ionica, nota per le spiagge e i parchi naturali. Gallipoli, con il centro storico e la vita notturna, si raggiunge facilmente, come le principali attrazioni del Salento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Servizio lavanderia",
+     "Parcheggio gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Vietato fumare"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le 2 camere da letto e il divano letto da 2 posti ospitano fino a 5/6 persone, con 1 bagno con doccia. Per le famiglie con bambini, su richiesta, ci sono culla e passeggino."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/petrammare": {
+  "nome": "Petrammare",
+  "desc": "Villa a picco sul mare a Tricase Porto, vicino a Marina Serra: piscina, grandi spazi esterni arredati, 2 camere, 3 bagni, soggiorno e cucina.",
+  "sez": [
+   {
+    "h": "Petrammare in breve",
+    "p": [
+     "Villa Petrammare è a Tricase Porto, vicino a Marina Serra, a picco sul mare. Si sviluppa su 2 livelli e ospita fino a 4 persone: coppie, famiglie o amici, in piena privacy.",
+     "Al piano terra c’è la zona giorno con grande divano e tavolo da pranzo. La cucina completa ha frigorifero, forno, microonde e lavastoviglie. Sullo stesso piano trovi un bagno con doccia e lavatrice. Al primo piano ci sono le 2 camere con 2 bagni en suite.",
+     "Il bello sta fuori: un enorme spazio privato vista mare, con piscina e aree arredate con tavoli, sedie e divanetti."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Al primo piano ci sono 2 camere matrimoniali climatizzate, ognuna con TV e bagno privato en suite con doccia e bidet. Due coppie stanno comode e indipendenti."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/residence-mare-azzurro": {
+  "nome": "Residence Mare Azzurro",
+  "desc": "A Torre San Giovanni, a 20 mt dal mare: appartamenti attrezzati con parcheggio e spazi all’aperto.",
+  "sez": [
+   {
+    "h": "Residence Mare Azzurro in breve",
+    "p": [
+     "Il Residence Mare Azzurro, a Torre San Giovanni, si affaccia direttamente sul mare. Gli appartamenti hanno soggiorno con angolo cottura, 2 camere e bagno.",
+     "Al piano terra c’è uno spazio esterno privato con doccia, al primo piano un balcone con vista mare. Il residence mette a disposizione parcheggio riservato, barbecue e biciclette. Su richiesta hai culla, passeggino, ombrelloni e sdraio per la spiaggia. Davanti al mare c’è un ampio spazio per i bambini e per il relax degli adulti.",
+     "Il residence è sulla litoranea Gallipoli-Leuca, a 150 metri dalla spiaggetta dell’Isola di Pazze e a 5 minuti di macchina dalle lunghe spiagge di Torre San Giovanni. Supermercato, tabacchi, bar e ristoranti/pizzerie sono nelle immediate vicinanze. Una navetta porta ai lidi convenzionati. Puoi anche scegliere passeggiate a cavallo, gite in barca, escursioni nei parchi naturalistici e visite guidate ai borghi salentini."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Servizio lavanderia",
+     "Parcheggio gratuito",
+     "Biciclette gratuite",
+     "Spiaggia convenzionata",
+     "Sdraio e ombrelloni su richiesta"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucinino",
+     "Lavastoviglie",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Appartamenti",
+    "p": [
+     "Grandi circa 60 mq, hanno ingresso/soggiorno con divano letto singolo, angolo cottura, bagno con doccia e 2 camere da letto per 4 persone. Ci sono aria condizionata, Wi-Fi, lavatrice in comune, salotto e tavolo da giardino. Al piano terra hai un ampio spazio esterno privato con doccia, al primo piano un balcone vivibile con vista sul mare."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/sabbia-e-mare": {
+  "nome": "Sabbia e Mare",
+  "desc": "A Torre San Giovanni, vicino alla spiaggia: appartamento con 2 camere, bagno, cucina, soggiorno, spazio esterno e posto auto.",
+  "sez": [
+   {
+    "h": "Sabbia e Mare in breve",
+    "p": [
+     "Sabbia e Mare è a Torre San Giovanni, con vista, brezza marina e macchia mediterranea intorno. Sta vicino alla lunga spiaggia della marina e ai servizi principali: pescheria, fruttivendolo, bar e ristoranti.",
+     "Lasci l’auto nel parcheggio riservato e ti muovi a piedi o in bicicletta. L’appartamento, al piano terra, è arioso, con 2 camere da letto, soggiorno con zona pranzo, angolo cottura attrezzato e bagno. Lo spazio esterno è vivibile e guarda il mare e il porto. Su richiesta ci sono culla, passeggino, sdraio e ombrelloni.",
+     "Torre San Giovanni è sulla costa ionica, nota per le spiagge e i parchi naturali protetti. C’è svago per famiglie, coppie e giovani. Gallipoli, con il centro storico e la vita notturna, si raggiunge facilmente, come altre attrazioni della regione."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Servizio lavanderia",
+     "Parcheggio gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Bollitore elettrico",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Vietato fumare"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "2 camere da letto, 1 bagno con doccia e un divano letto a 2 posti, per un totale di 5/6 posti letto."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/trullo-scirocco": {
+  "nome": "Trullo Scirocco",
+  "desc": "A 90 metri dal mare di Torre Suda: alloggio tipico salentino da 40 mq, con cucina, 1 camera, 1 bagno e giardino.",
+  "sez": [
+   {
+    "h": "Trullo Scirocco in breve",
+    "p": [
+     "Il Trullo Scirocco ha le storiche coperture con volta a botte e sta nel cuore della marina di Torre Suda (Alliste).",
+     "Sono 40 mq interni, in un’antica dimora salentina ripensata per una vacanza indipendente. La zona giorno climatizzata ha TV, cucina attrezzata con forno, piano cottura, frigorifero e stoviglie, e 1 letto singolo. Il bagno completo con box doccia serve tutto l’alloggio.",
+     "Fuori c’è un grande cortile pavimentato e recintato, condiviso con l’alloggio accanto. Hai comunque un’area d’ombra privata con tavoli e divanetti. In comune ci sono il barbecue in pietra, una lavatrice e la doccia esterna. Gli animali domestici sono i benvenuti.",
+     "Il mare è a 90 metri, con una scogliera bassa e accessibile anche ai meno esperti. Sul litorale, a pochi passi, un chiringuito serve colazioni e aperitivi. I lidi sabbiosi di Punta della Suina e la riserva naturale di Lido Pizzo sono a circa 4 km in auto.",
+     "A Torre Suda hai ristoranti, market e bancomat a breve distanza. A 1200 metri c’è il Giardino Costiero, con eventi estivi e area giochi. I fondali della costa ionica sono adatti a snorkeling e diving."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Servizio lavanderia",
+     "Giardino",
+     "Barbecue"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Lavastoviglie",
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Accesso per sedia a rotelle",
+     "Zone fumatori"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "La zona notte sta sotto la tradizionale volta in pietra e ospita da 2 a 3 persone: 1 spaziosa camera matrimoniale indipendente più 1 posto letto singolo nella zona giorno. Il bagno è privato, completo e con box doccia."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/villa-il-panorama-sullo-ionio": {
+  "nome": "Villa Il Panorama sullo Ionio",
+  "desc": "A Tuglie, 6 appartamenti fino a 3 camere con cucina, soggiorno, bagno e posto auto. Piscina, giardino e aree solarium.",
+  "sez": [
+   {
+    "h": "Villa Il Panorama sullo Ionio in breve",
+    "p": [
+     "Villa Il Panorama sullo Ionio è a Tuglie, nell’entroterra salentino. In 10 minuti d’auto sei alle spiagge di Baia Verde e Punta della Suina. Da qui raggiungi anche Gallipoli, Lecce, Otranto e Santa Maria di Leuca.",
+     "Sono 6 appartamenti indipendenti, arredati in modo funzionale, per coppie, famiglie o gruppi di amici. Ognuno ha cucina attrezzata, zona giorno, fino a 3 camere da letto, 1 o 2 bagni con box doccia e posto auto.",
+     "La piscina esterna ha solarium, lettini, tavoli e sedie, con un giardino mediterraneo intorno. C’è una seconda area solarium con lettini e ombrelloni, e un porticato attrezzato, per un libro o un bicchiere di vino salentino."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Self Check-in",
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Giardino",
+     "Ristoranti convenzionati, noleggio auto convenzionati"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Accesso per sedia a rotelle",
+     "Vietato fumare"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Rilevatore di monossido di carbonio",
+     "Rilevatore di fumo",
+     "Estintore",
+     "Telecamere di sorveglianza presenti nella proprietà"
+    ]
+   },
+   {
+    "h": "Appartamenti",
+    "p": [
+     "Sono 6 appartamenti: bilocali, trilocali e quadrilocali, con autonomia e privacy."
+    ],
+    "li": []
+   },
+   {
+    "h": "Gallipoli",
+    "p": [
+     "Bilocale al primo piano con vista sulla piscina, fino a 3 adulti e 1 bambino. Ha bagno con doccia e lavatrice, camera matrimoniale con accesso al balcone, zona giorno con divano letto matrimoniale e tavolo da pranzo, cucina attrezzata con forno, piano cottura, frigorifero e macchina da caffè."
+    ],
+    "li": []
+   },
+   {
+    "h": "Porto Cesareo",
+    "p": [
+     "Trilocale al primo piano con vista sulla piscina e terrazzo privato arredato. Ospita fino a 6 persone (4 adulti e 2 bambini oppure 5 adulti). Ha una camera matrimoniale, una cameretta con letto a castello e una zona giorno con divano letto e tavolo da pranzo. La cucina è attrezzata con forno, piano cottura, frigorifero, macchina da caffè e lavatrice. Il bagno privato ha box doccia e lavatrice."
+    ],
+    "li": []
+   },
+   {
+    "h": "Appartamento Lecce",
+    "p": [
+     "Quadrilocale al piano terra, per gruppi o famiglie fino a 8 persone: è il più ampio della struttura. Ha 3 camere da letto, 2 matrimoniali e 1 con letti singoli, e una zona giorno open space con tavolo da pranzo, Smart TV e divano letto. La cucina ha forno, piano cottura, frigorifero e macchina da caffè. I 2 bagni hanno box doccia e lavatrice."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/villetta-apollo": {
+  "nome": "Villetta Apollo",
+  "desc": "A Torre Vado, per 6 persone: 2 camere, 1 bagno, soggiorno, cucina attrezzata, giardino, veranda e posto auto gratuito.",
+  "sez": [
+   {
+    "h": "Villetta Apollo in breve",
+    "p": [
+     "Villetta Apollo è un appartamento al piano rialzato di una villa nel verde a Torre Vado, a circa 600 metri dal lungomare e dalle prime spiagge. Ristoranti, bar, supermercati, noleggio barche e mare si raggiungono facilmente.",
+     "Sono circa 70 mq, fino a 6 persone, in un contesto tranquillo e riservato. Gli spazi esterni sono solo tuoi: una veranda arredata con tavoli e sedie per pranzi e cene, e un ampio giardino con barbecue in muratura.",
+     "La zona giorno comprende soggiorno con divano letto matrimoniale, TV, aria condizionata e Wi-Fi. La cucina attrezzata è separata dal soggiorno. Ci sono poi un bagno con box doccia, parcheggio interno e lavatrice in comune.",
+     "Va bene per famiglie, coppie o piccoli gruppi di amici. Gli animali sono i benvenuti."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Parcheggio gratuito",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "2 camere da letto matrimoniali per 4 persone, più 2 posti nel divano letto matrimoniale in soggiorno. Gli ambienti sono climatizzati e il bagno ha box doccia."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/zante": {
+  "nome": "Zante",
+  "desc": "Pajara a Marina Serra per 2 persone, con vista mare: cucina attrezzata, camera, bagno, parcheggio e spazi esterni privati.",
+  "sez": [
+   {
+    "h": "Zante in breve",
+    "p": [
+     "Zante è una pajara salentina a Marina Serra che accoglie fino a 2 persone, con la natura intorno e il panorama sull’Adriatico. Si vive fuori, dalla colazione nel patio alla sera. Spiagge, lungomare e ristoranti lungo la costa si raggiungono facilmente.",
+     "Ha una camera matrimoniale climatizzata, bagno e cucina indipendente con piano cottura, frigorifero, congelatore, macchina da caffè e il necessario per preparare i pasti. Puoi anche prenotare lo chef a domicilio.",
+     "Il patio vista mare, arredato con tavolo e sedie, è il centro della casa. Ci sono poi la doccia esterna e il grande giardino con ulivi secolari e alberi da frutto, riservato agli ospiti. Su richiesta: escursioni in barca, wine tour, cooking class, noleggio biciclette, baby-sitter, dog-sitter."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Self Check-in",
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Parcheggio gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Pajara vista mare con 1 camera matrimoniale climatizzata e 1 bagno con doccia, arredati in stile essenziale."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/borgo-primizia": {
+  "nome": "Borgo Primizia",
+  "desc": "A Frassanito, vicino a Otranto: hotel con camere e appartamenti, piscina, colazione, ristorante alla carta e parcheggio.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Hotel Borgo Primizia sta a Frassanito, a breve distanza dalla costa di Otranto, tra macchia mediterranea, pini e ulivi secolari.",
+     "È tutto costruito in pietra bianca salentina e sembra un piccolo villaggio di altri tempi, con ampi giardini fioriti e spazi esterni curati. Coppie e gruppi di amici trovano tranquillità. La piscina, con verde intorno, lettini e zone d’ombra, è il centro della vita all’aperto. Il Pool Bar a bordo vasca serve drink, caffetteria e piatti leggeri. In hotel c’è il parcheggio.",
+     "Da qui ti muovi lungo l’Adriatico: le spiagge degli Alimini, i Laghi, la Baia dei Turchi. In 15 minuti di auto sei nel borgo antico di Otranto, con il castello e i vicoli."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Piscina outdoor",
+     "Solarium",
+     "Parcheggio",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Animazione per bambini",
+     "Area giochi interna o esterna"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Stile mediterraneo e ambienti luminosi, nella quiete di Frassanito, a pochi minuti dal mare. Tutte le soluzioni hanno uno spazio esterno privato, giardino o balcone. Ci sono anche due tipologie di appartamenti, bilocali e trilocali, con cucina."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale",
+    "p": [
+     "Letto matrimoniale, arredi nei colori del luogo, aria condizionata, Wi-Fi, TV, frigo, cassaforte e bagno privato con doccia. Fuori hai un giardino attrezzato o un balcone privato. La colazione continentale è sempre inclusa."
+    ],
+    "li": []
+   },
+   {
+    "h": "Tripla",
+    "p": [
+     "Letto matrimoniale e un letto singolo, per piccoli gruppi o famiglie. Arredo mediterraneo, aria condizionata, Wi-Fi, TV, frigo, cassaforte e bagno privato con doccia. Ogni camera ha un giardino o un balcone privato."
+    ],
+    "li": []
+   },
+   {
+    "h": "Quadrupla",
+    "p": [
+     "4 posti letto per gruppi di amici o famiglie, arredo mediterraneo, aria condizionata, Wi-Fi, TV, frigo, cassaforte, bagno privato con doccia e un’area esterna privata."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Ogni mattina c’è la colazione continentale, con caffetteria e pasticceria italiana. Con la formula residence è disponibile su richiesta.",
+     "In hotel c’è il Ristorante Borgo Primizia, con un menù alla carta di piatti di mare e di terra e prodotti tipici del Salento. Dopo la piscina o gli Alimini, per cena non devi riprendere l’auto.",
+     "A bordo piscina lo Snack Bar serve drink e un Fast Lunch con insalate, piatti freddi, panini e proposte del giorno."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/hilton-garden-inn-lecce": {
+  "nome": "Hilton Garden Inn Lecce****",
+  "desc": "Vicino al centro di Lecce: hotel con piscina, centro benessere, ristorante e parcheggio gratuito.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Hilton Garden Inn Lecce è a 15 minuti a piedi dal centro storico e a breve distanza dalle spiagge. Ha camere moderne, parcheggio gratuito, piscina panoramica all’aperto, centro fitness e centro benessere con idromassaggio, sauna, bagno turco, massaggi e trattamenti. Gli animali sono i benvenuti.",
+     "Il ristorante The Cube fa colazione all’americana e specialità pugliesi a pranzo e a cena. Il Pantry Pavilion è sempre aperto per un drink o uno spuntino.",
+     "Il personale multilingue organizza il noleggio auto e consiglia visite ed escursioni nei dintorni. Su richiesta e a pagamento c’è la navetta da e per il centro di Lecce o l’Aeroporto di Brindisi."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Piscina outdoor",
+     "Centro benessere / Spa",
+     "Garage",
+     "Noleggio biciclette"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti",
+     "Idromassaggio",
+     "Bagno turco",
+     "Sauna finlandese",
+     "Hammam"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Tutte le camere hanno TV LCD, letti regolabili, sedia ergonomica e Wi-Fi gratuito."
+    ],
+    "li": []
+   },
+   {
+    "h": "Con letto king size",
+    "p": [
+     "Camere di 18 mq con letto king size, scrivania con sedia ergonomica, TV LCD e Wi-Fi gratuito. Ci sono anche minifrigo, aria condizionata regolabile e kit per tè e caffè. Per il lavoro hai il business center, aperto 24 ore su 24, con stampanti, fax e fotocopiatrici gratuite."
+    ],
+    "li": []
+   },
+   {
+    "h": "Per famiglie con letto king size",
+    "p": [
+     "Camere da 33 mq con letto king size e zona soggiorno separata, con divano letto per altre due persone. Il bagno ha ampia vasca e doppio lavabo. Ci sono ampia scrivania con sedia ergonomica, mini-frigo, aria condizionata regolabile e occorrente per caffè e tè. Il business center è sempre aperto, con stampanti, fax e fotocopiatrici gratuite."
+    ],
+    "li": []
+   },
+   {
+    "h": "Junior Suite con letto king size",
+    "p": [
+     "33 mq con letto king size, zona soggiorno separata con seconda zona TV, cabina armadio e ampio bagno con vasca e doccia indipendenti. Hai anche un’ampia scrivania con sedia ergonomica, mini-frigo, aria condizionata regolabile e occorrente per caffè e tè. Il business center, aperto 24 ore su 24, offre gratis stampanti, fax e fotocopiatrici."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "La colazione Garden Inn ha un’ampia selezione di tè, caffè e bevande, proposte dolci e salate, tra cui omelette, waffle e French toast.",
+     "A pranzo e a cena The Cube abbina specialità dell’Italia meridionale e cucina internazionale. Puoi mangiare anche in terrazza.",
+     "Al Cube Bar trovi pizze, hamburger e cocktail."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/hotel-luna-lido": {
+  "nome": "Hotel Luna Lido****",
+  "desc": "Nelle Maldive del Salento, a Torre San Giovanni: hotel all inclusive a 50 mt dal mare, con servizi per famiglie e ristorante.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Hotel Luna Lido è a Torre San Giovanni, nelle Maldive del Salento, con vista sul mar Ionio. Per i bambini ci sono animazione e Mini Club. Per tutti, serate a tema, piano bar, balli di gruppo e giochi.",
+     "Il ristorante unisce cucina tipica salentina e specialità internazionali. Per il mare hai la spiaggia privata, con ombrelloni e lettini in un lido di sabbia bianca. Ci sono anche uno spazio benessere con massaggi e trattamenti beauty e una saletta fitness attrezzata. Con la formula All Inclusive usi tutti i servizi dell’hotel senza pensieri.",
+     "L’hotel sta tra Gallipoli e Santa Maria di Leuca e organizza escursioni da Otranto a Gallipoli e da Porto Cesareo a Ugento, fino a Santa Maria di Leuca. In programma anche tour enogastronomici, escursioni in barca e trekking in oasi protette."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Garage",
+     "Parcheggio",
+     "Vista mare",
+     "Saletta fitness"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Area giochi interna o esterna",
+     "Baby menu e orario dei pasti flessibile"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Pensione completa",
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Camere moderne e ariose, tutte con bagno privato, aria climatizzata, minifrigo e set di cortesia."
+    ],
+    "li": []
+   },
+   {
+    "h": "Standard",
+    "p": [
+     "Camere luminose, arredate con semplicità, con balconcino, bagno con doccia, set di cortesia e minifrigo rifornibile su richiesta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Laterale panoramica",
+    "p": [
+     "Stile essenziale, balcone con affaccio laterale e parziale vista mare, finestrone panoramico fronte mare. Hanno bagno privato, set di cortesia e minifrigo rifornito su richiesta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Royal",
+    "p": [
+     "Sono sulla terrazza panoramica all’ultimo piano, con vista sul mare e su tutta Torre San Giovanni. Hanno un letto matrimoniale, un divano letto, un bagno privato, la vasca idromassaggio e il set di cortesia."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Ogni giorno il ristorante propone cucina tipica salentina e piatti internazionali, legati alle tradizioni e al territorio.",
+     "Sono disponibili pranzo e cena baby, piatti senza glutine e senza lattosio, e proposte per vegetariani.",
+     "Il ristorante ha una terrazza esterna per le cene a lume di candela. D’estate ci sono musica dal vivo e piano bar."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/joli-park-hotel": {
+  "nome": "Joli Park Hotel***",
+  "desc": "In centro a Gallipoli: hotel con piscina privata, parcheggio, ristorante, palestra e navetta. Animali e bambini benvenuti.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Joli Park Hotel è nel centro di Gallipoli, vicino al lungomare e all’isola del borgo antico, e ha una piscina privata.",
+     "È moderno e funzionale, con camere luminose, area fitness Technogym al sesto piano e ristorante di cucina salentina aperto tutto l’anno. Gli animali sono i benvenuti.",
+     "Per i bambini ci sono menù dedicati e babysitting su richiesta.",
+     "La piscina è all’aperto, coperta nei mesi autunnali e invernali, con zona solarium intorno. Puoi scegliere massaggi e trattamenti beauty. Ci sono poi bar, parcheggio interno gratuito, lavanderia, deposito valori e navetta da e per gli aeroporti di Brindisi o Bari e le stazioni di Lecce e Gallipoli.",
+     "A 3 km, all’Ecoresort Le Sirenè, gli ospiti hanno una spiaggia privata con lettini e ombrelloni, piscine, circolo nautico, campi sportivi polivalenti, percorsi fitness e sentieri nella riserva di Torre del Pizzo. L’hotel organizza anche escursioni guidate nel Salento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Parcheggio",
+     "Navetta aeroporto"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Baby sitter a pagamento"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Pensione completa",
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Camere moderne e funzionali, con bagno privato con doccia e asciugacapelli, telefono con linea diretta, sveglia programmabile, aria condizionata con termostato, TV satellitare e minibar."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale / Doppia Standard",
+    "p": [
+     "Camere per 2 persone, matrimoniali o doppie, a pochi passi dal mare. Hanno Wi-Fi, bagno con doccia, aria condizionata regolabile, TV LCD satellitare, cassaforte, minibar e biblioteca."
+    ],
+    "li": []
+   },
+   {
+    "h": "Tripla Standard",
+    "p": [
+     "Per 3 persone, con bagno con doccia, climatizzazione con controllo termostatico, TV LCD satellitare, telefono, cassaforte, biblioteca e minibar."
+    ],
+    "li": []
+   },
+   {
+    "h": "Quadrupla Standard",
+    "p": [
+     "Per 4 persone, in stile moderno e funzionale. Bagno privato con doccia, aria condizionata regolabile, Wi-Fi, TV LCD satellitare, cassaforte, minibar e biblioteca."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Lo chef del ristorante, aperto tutto l’anno, lavora su cucina salentina, specialità locali e vini D.O.C. e I.G.T. Ortaggi, farine, conserve, frutta, oli e vini arrivano per la maggior parte dalle campagne della zona, prodotti solo per l’hotel."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/monteforte-suite-spa": {
+  "nome": "Monteforte Suite & Spa",
+  "desc": "Dimora storica del 1850 nel centro di Ugento, con suite e Spa privata, a circa 4 km dal mare.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Monteforte Suite & Spa è una dimora storica del 1850 nel borgo antico di Ugento, a circa 4 km dal mare e dalle spiagge della costa ionica. Il restauro ha tenuto l’architettura originale e aggiunto soluzioni contemporanee.",
+     "Le suite sono ampie e luminose, con prodotti di cortesia, angolo tisaneria e macchina per il caffè.",
+     "La Spa interna si usa in versione private, su prenotazione, da coppie o piccoli gruppi fino a un massimo di 4 persone. Comprende sauna, bagno turco, doccia emozionale, area relax e sala massaggi.",
+     "Le Sale del Duca sono il ristorante, per la colazione e per pranzi e cene su prenotazione. L’hotel organizza anche cooking class, noleggio di auto d’epoca e Vespa, uscite in moto d’acqua e catamarano, degustazioni, escursioni a cavallo e trekking.",
+     "Sei in pieno centro storico, e il mare si raggiunge facilmente."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Centro benessere / Spa"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Baby sitter a pagamento"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti",
+     "Idromassaggio",
+     "Bagno turco",
+     "Sauna finlandese"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Suite in una dimora d’epoca, nel centro storico di Ugento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Appartamento Ponte Ciolo",
+    "p": [
+     "Al piano terra, 46 mq, fino a 4 persone (2 adulti e 2 bambini). L’ambiente principale è un open space con letto matrimoniale king size, zona living, tavolo da pranzo, angolo cottura, area tisaneria e macchina per il caffè espresso. Sul soppalco c’è una seconda camera matrimoniale con salottino. Ampio bagno con doccia e porta finestra sul vicolo principale del borgo."
+    ],
+    "li": []
+   },
+   {
+    "h": "Luxury Suite Zeus",
+    "p": [
+     "60 mq su 2 livelli, fino a 4 persone (2 adulti e 2 bambini). Sotto ci sono la camera matrimoniale e la zona living con angolo cottura, tisaneria e macchina per il caffè espresso. Una scala in legno porta al soppalco, con letto matrimoniale alla francese. I bagni sono 2: il padronale con doccia-hammam idro-cromoterapica e uno di servizio al piano superiore. Ci sono anche il terrazzino privato e il doppio accesso, dall’interno della struttura e da un ingresso indipendente esterno."
+    ],
+    "li": []
+   },
+   {
+    "h": "Senior Suite Specchia del Corno",
+    "p": [
+     "Sono 72 mq, fino a 4 persone (2 adulti e 2 bambini). Ha letto matrimoniale king size, un secondo letto matrimoniale e un ampio bagno con doccia. Il punto forte è la Spa privata interna: sauna, bagno turco, doccia emozionale e vasca idromassaggio, tutto riservato. Il terrazzino si affaccia sul giardino interno."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Il ristorante interno è il Duca Salotto dei Sapori, con cucina contemporanea su prodotti italiani. Ci sono 4 percorsi degustativi, disponibili anche à la carte. La colazione, inclusa in formula B&B, si serve nella sala ristorante."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/palummare-agrihotel-relais": {
+  "nome": "Palummare AgriHotel Relais",
+  "desc": "Ad Alliste (LE): suite ricavate nei trulli, piscina e colazione servita al tavolo, a breve distanza dal mare.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Agri Hotel Palummare è ad Alliste, in provincia di Lecce: suite ricavate dai trulli, tra olivi secolari, brezza di mare e cicale.",
+     "In giardino crescono piante mediterranee. La colazione è preparata ogni giorno. Hai una piscina con lettini, attività di risveglio muscolare, passeggiate per le viuzze di campagna con visita guidata all’orto sinergico e biciclette.",
+     "Da qui parti per le spiagge dorate dello Ionio e le scogliere dell’Adriatico, tra calette nascoste e borghi marinari."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Bar",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Piscina con idromassaggio",
+     "Biciclette gratuite",
+     "Giardino",
+     "Palestra"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Area giochi interna o esterna",
+     "Baby menu e orario dei pasti flessibile"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le suite sono ricavate nei trulli, arredate in stile semplice, con i colori e i materiali del Salento. Ogni stanza ha vista sul mare o sul verde intorno alla struttura."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Prestige",
+    "p": [
+     "Sono le più grandi tra le 9 pajare: 92 mq, fino a 4 persone. Le 2 soluzioni, luminose e di stile essenziale, hanno camera matrimoniale con letto a baldacchino, doppia con due lettini, ampio bagno con box doccia e vasca. Un salotto porta alla sala relax con sauna, bagno turco e vista sul verde. Nel patio esterno c’è una vasca idromassaggio sotto un piccolo gazebo."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Deluxe",
+    "p": [
+     "55 mq con 2 camere da letto e un bagno. Hanno 2 posti letto per camera, più altri 2 su richiesta, quindi fino a 6 persone. Nell’ampio patio esterno c’è un’area relax con divanetti e gazebo."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Comfort",
+    "p": [
+     "Camere luminose di 24 mq, fino a 3 persone: 2 posti letto, più un terzo su richiesta, e bagno privato con box doccia. Fuori, uno spazio verde con alberi di melograno."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "La colazione è servita al tavolo, con una selezione varia di prodotti tipici salentini preparati freschi ogni mattina."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/spiaggiabella-resort": {
+  "nome": "Spiaggiabella Resort***",
+  "desc": "Fronte mare a Torre Rinalda: piscina adulti e bambini, animazione, servizi per ciclisti e colazione. Animali benvenuti.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Spiaggiabella Resort è a Torre Rinalda, fronte mare, con accesso diretto alla spiaggia. Gli animali domestici sono i benvenuti.",
+     "Il resort è a pochi minuti da Lecce e piace a chi fa sport acquatici e vacanze attive. I ciclisti hanno noleggio, assistenza meccanica, personale per riparazioni, rastrelliere, bike hub privato per ogni camera con colonnina per il fai-da-te, e la bici può stare sotto il porticato. C’è anche un’area fitness diffusa all’aperto.",
+     "Intorno c’è un ampio giardino con 2 piscine, una per adulti e una per bambini, e una vasca idromassaggio. Puoi prenotare trattamenti e massaggi. Bike hub e piscine sono fruibili dal 1° giugno.",
+     "Da qui visiti Lecce, altri luoghi del Salento, tra borghi fortificati, torri costiere e natura, e la Valle d’Itria."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Piscina outdoor",
+     "Piscina con idromassaggio",
+     "Solarium",
+     "Parcheggio",
+     "Giardino",
+     "In prima linea sulla spiaggia",
+     "Vista mare"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Piscina riservata ai bambini",
+     "Area giochi interna o esterna",
+     "Baby menu e orario dei pasti flessibile"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti",
+     "Idromassaggio",
+     "Servizi per ciclisti e Bike hub (dal 1° giugno)"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Pensione completa",
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Tutte le camere hanno una veranda privata con 2 sdraio. Con i bambini puoi richiedere culle da campeggio."
+    ],
+    "li": []
+   },
+   {
+    "h": "Standard",
+    "p": [
+     "Al piano terra, con veranda privata e letto matrimoniale divisibile. Si può aggiungere un terzo o quarto letto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Vista Mare",
+    "p": [
+     "Camere matrimoniali al piano terra, con veranda privata affacciata su giardino e mare. Si possono aggiungere un terzo o un quarto letto, con supplemento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Family",
+    "p": [
+     "Camere comunicanti al piano terra, fino a 5 persone. Hanno 2 bagni e 2 camere, con possibilità di aggiungere un quinto letto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "La colazione a buffet è inclusa nella formula bed & breakfast, con prodotti locali, preferibilmente a km 0, e proposte regionali e internazionali."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/villa-la-meridiana": {
+  "nome": "Villa La Meridiana",
+  "desc": "Antica dimora salentina a Santa Maria di Leuca: suite, piscina, centro benessere e spiaggia privata.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Villa La Meridiana è una dimora ottocentesca sul lungomare di Santa Maria di Leuca.",
+     "La riconosci dalla facciata a strisce giallo ocra e rosso pompeiano, che d’estate si copre di bouganvillee. L’accoglienza è familiare. Camere e suite hanno dettagli architettonici originali e arredi d’epoca. Spiaggia privata, giardino e piscine sono condivisi con l’adiacente Hotel Terminal. C’è anche il centro benessere con sauna, bagno turco, hammam, idromassaggio, massaggi e trattamenti beauty.",
+     "Santa Maria di Leuca sta all’estremo lembo d’Italia: mare turchese, ville ottocentesche e una costa di grotte marine e scogliere a picco."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Spiaggia privata",
+     "Bar",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Giardino",
+     "In prima linea sulla spiaggia",
+     "Vista mare"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti",
+     "Hammam"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Pensione completa",
+     "Mezza pensione",
+     "Bed&Breakfast",
+     "Solo pernottamento"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Camere e suite sono in posizione panoramica, vicino al mare, con arredi d’epoca e comfort moderni. La villa fa parte del circuito delle Dimore Storiche Italiane."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale",
+    "p": [
+     "Si trovano al piano padronale e ognuna è dedicata a un letterato salentino. Si aprono su un salone esagonale e guardano una terrazza circolare con vista sul mare. Hanno mobili d’epoca, qualche pezzo di modernariato e soffitti con volta a stella. Ci sono riscaldamento e aria condizionata con controllo termostatico, telefono diretto, Wi-Fi, piccola tisaneria e biblioteca."
+    ],
+    "li": []
+   },
+   {
+    "h": "Appartamento Maria Alessandra",
+    "p": [
+     "Al piano terra della villa, con accesso diretto dal giardino: 2 camere da letto, soggiorno-pranzo, angolo cottura con caminetto e 2 bagni, uno con vasca e uno con doccia. Ha climatizzazione con regolazione automatica, telefono, TV satellitare e filodiffusione. Giardino, piscina e spiaggia privata sono a disposizione senza costi aggiuntivi."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "La colazione è a buffet, all’orario che scegli, con proposte preparate fresche ogni mattina. Dormi quanto vuoi, a un passo dal mare."
+    ],
+    "li": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,1401 @@
+{
+ "appartamenti/bilocale-afrodite": {
+  "nome": "Bilocale Afrodite",
+  "desc": "In Salento, a Torre Vado, il Bilocale Afrodite con la sua veranda esterna attrezzata e posto auto privato ospita fino a 4 persone",
+  "sez": [
+   {
+    "h": "Bilocale Afrodite in breve",
+    "p": [
+     "Un luminoso appartamento all’interno di una bella villa circondata dal verde: è il Bilocale Afrodite di Torre Vado, la località salentina rinomata per le sue spiagge di sabbia bianca e mare cristallino.",
+     "L’alloggio può ospitare confortevolmente fino a 4 persone ed è ideale (e sicuro) per le famiglie, per i piccoli gruppi e anche per un weekend romantico in coppia. Gli animali sono benvenuti. L’appartamento è dotato di un soggiorno con un divano letto e TV, 1 camera da letto matrimoniale, un angolo cottura attrezzato e dotato di forno, un bagno con box doccia. All’esterno trovi un’ampia veranda attrezzata con tavolo e sedie: per godersi momenti di relax o cene in compagnia immersi nel profumo degli ulivi.",
+     "A disposizione un posto auto gratuito interno e una lavatrice in comune. La posizione dell’appartamento è tranquilla e ben servita con ristoranti, noleggio barche, supermercati, fruttivendoli e bar nelle vicinanze. A soli 600 metri puoi raggiungere il vivace lungomare della marina e un parco giochi con giostre. L’appartamento è inoltre una comoda e strategica base per scoprire il territorio salentino, con il suo mix unico e irresistibile di natura, cultura e tradizioni."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Parcheggio gratuito",
+     "Lavatrice in comune"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri",
+     "Barbecue"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Ben organizzato negli spazi e perfetto per accogliere comodamente fino a 4 persone, l’appartamento comprende un soggiorno con divano letto, una camera da letto matrimoniale e un bagno con box doccia. A disposizione degli ospiti Wi-Fi e aria condizionata."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/casa-bluet": {
+  "nome": "Casa Bluet",
+  "desc": "In Salento, a Lido Marini, Casa Bluet offre 3 camere, 2 bagni, soggiorno, cucina, spazio esterno, parcheggio. A 50 metri dal mare.",
+  "sez": [
+   {
+    "h": "Casa Bluet in breve",
+    "p": [
+     "Il mare limpido e il sole caldo del Salento fanno da cornice alla tua vacanza a Casa Bluet di Lido Marini, Ugento. Completamente indipendente e modernamente arredata, la casa è pensata per vivere al meglio gli spazi, sia all’interno che all’esterno.",
+     "Si compone di 3 camere da letto, di cui 2 matrimoniali, un’ampia zona pranzo/soggiorno e cucina, 2 bagni. All’esterno ti aspettano un giardino e un accogliente cortile con doccia e barbecue, ideali per trascorrere piacevoli momenti all’aria aperta. Su richiesta sono disponibili anche culla, passeggino, sdraio e ombrelloni. A rendere ancora più piacevole la vacanza, i 2 parcheggi riservati e le biciclette a disposizione degli ospiti.",
+     "Casa Bluet si trova a soli 50 metri dal mare e a 200 metri dai primi lidi attrezzati. In appena 5-10 minuti si raggiungono facilmente le splendide spiagge di Pescoluse e Torre San Giovanni. Lido Marini è una destinazione perfetta per vacanze tranquille e divertenti, per grandi e piccini. La sua posizione strategica, tra Santa Maria di Leuca, Gallipoli e Porto Cesareo, permette di raggiungere facilmente e attrazioni più famose del Salento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Servizio lavanderia",
+     "Parcheggio gratuito",
+     "Biciclette gratuite",
+     "Giardino",
+     "Doccia esterna"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Casa Bluet dispone di 2 bagni completi di doccia e lavatrice. Le camere da letto sono 3: 2 matrimoniali e 1 dedicata ai più piccoli. In due delle tre camere è possibile aggiungere un ulteriore letto. L’arredamento, moderno e confortevole, è in stile mediterraneo."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/casa-sterlizia": {
+  "nome": "Casa Sterlizia",
+  "desc": "A 4 km dalle spiagge di Baia Verde, Casa Sterlizia è un appartamento a Gallipoli con 2 camere, 2 bagni, soggiorno, cucina. Ospita fino a 6 persone",
+  "sez": [
+   {
+    "h": "Casa Sterlizia in breve",
+    "p": [
+     "Situato nel cuore della zona nuova di Gallipoli, una delle località più celebri del Salento, Casa Sterlizia è un bellissimo e confortevole appartamento ideale per chi desidera vivere una vacanza tra mare, arte e divertimento. La struttura vanta una posizione ottimale per raggiungere in pochi minuti di auto il rinomato lungomare e le spettacolari spiagge di Baia Verde, distanti appena 4 km, oltre al suggestivo centro storico di Gallipoli che sorge a soli 2 km.",
+     "L’appartamento, con una generosa metratura di 100 mq, si trova al secondo piano di un palazzo signorile dotato di ascensore. Gli spazi interni si aprono su un ampio soggiorno climatizzato con divano letto e TV, collegato a una cucina indipendente completamente attrezzata con fornello, forno, frigorifero e tutto il necessario per garantire la massima comodità. La zona notte comprende 1 camera matrimoniale e 1 camera doppia con 2 letti singoli, entrambe dotate di aria condizionata indipendente, a cui si aggiungono 2 bagni completi, un pratico ripostiglio, la lavatrice e un ampio terrazzo coperto. Gli animali domestici sono i benvenuti.",
+     "La posizione di Casa Sterlizia è eccezionalmente comoda e consente di muoversi facilmente a piedi per raggiungere tutti i principali servizi cittadini. Supermercati, pescherie, bar, farmacie, edicole e il porto sono tutti nelle immediate vicinanze. La zona è ricca di attività commerciali e ristoranti, e la breve distanza dal meraviglioso lungomare permette alle famiglie con bambini piccoli di raggiungere facilmente il parco giochi del corso, e ai giovani di tuffarsi nella vivace vita notturna della città.",
+     "Gallipoli, adagiata sulla costa ionica del Salento, è famosa in tutta Italia per le sue acque cristalline e le sue spiagge da sogno come Punta della Suina e il Parco Naturale del Pizzo. Soggiornare qui offre l’opportunità di vivere esperienze uniche: dalle giornate di relax sulle spiagge di sabbia dorata alle escursioni in barca, fino alle passeggiate serali tra le mura del borgo antico, alla scoperta delle antiche tradizioni marinare e della gastronomia locale."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Animali domestici benvenuti"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Ascensore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Casa Sterlizia è un appartamento signorile di ben 100 mq, funzionale e rifinito, strutturato per ospitare comodamente da 4 fino a 6 persone. L’alloggio è composto da 2 camere da letto (una camera con letto matrimoniale e una camera con due letti singoli), a cui si aggiunge la possibilità di sfruttare il divano letto situato nel grande soggiorno climatizzato. È inclusa la biancheria da letto e da bagno."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/corfu": {
+  "nome": "Corfù",
+  "desc": "Casa vacanze Corfù a Marina Serra, con 1 camera, 1 bagno, 1 cucina attrezzata, ampio giardino, patio con tavolo e sedie, doccia esterna",
+  "sez": [
+   {
+    "h": "Corfù in breve",
+    "p": [
+     "Corfù è un’autentica pajara immersa nella quiete di Marina Serra, pensata per chi desidera vivere il Salento con i propri ritmi, tra natura, mare e momenti di relax all’aria aperta. La posizione panoramica regala una splendida vista sul Mare Adriatico e, nelle giornate più limpide, permette di ammirare anche le coste della Grecia e dell’Albania.",
+     "La casa vacanze è ideale per 2 persone e si distingue per una disposizione degli spazi che garantisce comfort e indipendenza. La camera matrimoniale e il bagno si affiancano a una cucina separata, completamente attrezzata con piano cottura, frigorifero, congelatore, macchina da caffè e tutto il necessario per cucinare in autonomia utilizzando anche i prodotti del frutteto a disposizione degli ospiti.",
+     "Il patio arredato con tavolo e sedie è molto apprezzato da chi soggiorna, mentre la doccia esterna rappresenta una piacevole soluzione dopo una giornata trascorsa al mare. Intorno alla pajara si estende un grande giardino con ulivi secolari e alberi da frutto, che contribuisce a creare un’atmosfera rilassante e autentica.",
+     "Per arricchire il soggiorno è possibile prenotare escursioni in barca, wine tour, cooking class, chef privato a domicilio, noleggio biciclette, baby-sitter, dog-sitter.",
+     "Corfù è la scelta ideale per le coppie che cercano una casa vacanze riservata, immersa nella natura e a breve distanza dalle marine di Marina Serra e Tricase Porto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Self Check-in",
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Parcheggio gratuito",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "La casa vacanze Corfù a Marina Serra, dispone di 1 camera matrimoniale e 1 bagno con doccia ed è pensata per ospitare 2 persone. Su richiesta, è possibile prenotare il servizio di pulizie extra."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/kithira": {
+  "nome": "Kithira",
+  "desc": "A Marina di Serra, Tricase, Kithira è una suggestiva paraja salentina per 2 persone, con cucina, camera, bagno, posto auto, giardino vista mare",
+  "sez": [
+   {
+    "h": "Kithira in breve",
+    "p": [
+     "Kithira è una caratteristica pajara salentina in pietra situata a Marina Serra, a Tricase, pensata per un’esclusiva vacanza di coppia all’insegna della privacy e della tranquillità. Gli spazi esterni, la vista sul Mare Adriatico e il contesto naturale rendono questa casa vacanze il luogo ideale per vivere il Salento più autentico.",
+     "La casa ospita 2 persone e dispone di una camera matrimoniale climatizzata, bagno e cucina completamente attrezzata, progettata per garantire la massima autonomia e relax durante il soggiorno. A tua disposizione ci sono macchina da caffè, piano cottura, congelatore e tutto il necessario per cucinare, tra cui pentole, padelle, piatti, posate e bicchieri.",
+     "All’esterno, il patio arredato con tavolo, sedie e lettini prendisole si affaccia su 2 giardini privati, perfetti per rilassarsi in ogni momento della giornata. Da qui la vista si apre sul mare e, nelle giornate più limpide, raggiunge le montagne della Grecia e dell’Albania. La proprietà offre inoltre l’accesso a un grande giardino con ulivi secolari e alberi da frutto, dove passeggiare immersi nei profumi della macchia mediterranea.",
+     "Se ami le vacanze esperienziali, puoi prenotare escursioni in barca, wine tour, cooking class, chef privato a domicilio, oltre a servizi di baby-sitter, dog-sitter, noleggio biciclette.",
+     "Kithira è la soluzione ideale per chi cerca una casa vacanze riservata, immersa nella natura salentina e a breve distanza dalle suggestive calette di Marina Serra."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Self Check-in",
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Parcheggio gratuito",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Macchina da Caffè",
+     "Congelatore",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Kithira dispone di 1 camera matrimoniale climatizzata e 1 bagno con doccia ed è pensata per ospitare 2 persone. A disposizione su richiesta, un servizio di pulizie extra."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/maison-gioia": {
+  "nome": "Maison Gioia",
+  "desc": "Maison Gioia di Capilungo, vicino Torre San Giovanni: un appartamento vacanze sul mare per 8 persone, con 4 camere, 2 bagni, cucina, giardino, piscina, posto auto",
+  "sez": [
+   {
+    "h": "Maison Gioia in breve",
+    "p": [
+     "Maison Gioia è un appartamento vacanze a Capilungo, vicino a Torre San Giovanni, in una posizione che regala una splendida vista sul mare e permette di raggiungere facilmente la Riserva Naturale di Punta Pizzo, Gallipoli e le più belle località della costa ionica salentina. Pensata per ospitare famiglie numerose o gruppi di amici, l’appartamento garantisce ambienti ampi e funzionali, ideali per condividere la vacanza senza rinunciare alla privacy.",
+     "L’appartamento dispone di 4 camere matrimoniali climatizzate, 2 bagni e una cucina completa di forno, microonde, lavastoviglie e di tutto il necessario per cucinare. Sono inoltre presenti Wi-Fi, lavatrice e ingresso privato, per vivere il soggiorno con la massima indipendenza.",
+     "Il panorama accompagna gran parte della vacanza: dalla piscina privata con vista mare al balcone, fino al giardino e al patio arredato con tavolo da pranzo, divani e barbecue, ogni spazio esterno è pensato per rilassarsi, pranzare all’aperto o trascorrere piacevoli serate in compagnia.",
+     "Maison Gioia è la scelta ideale per chi desidera un appartamento spazioso in Salento, con piscina e vista mare, da vivere insieme alla famiglia o agli amici."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Self Check-in",
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Griglia per barbecue"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Maison Gioia a Capilungo, dispone di 4 camere matrimoniali, tutte climatizzate, e di 2 bagni. Gli ambienti sono spaziosi e ben distribuiti, pensati per accogliere comodamente gruppi di amici o famiglie numerose durante il soggiorno."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/maris-inn": {
+  "nome": "I migliori appartamenti, residence e ville nel Salento",
+  "desc": "Trova i migliori appartamenti, residence e ville per la tua vacanza in Salento, con i principali servizi inclusi e al miglior prezzo",
+  "sez": [
+   {
+    "h": "",
+    "p": [
+     "Trova i migliori appartamenti e ville per la tua vacanza in Salento! Parti con chi vuoi – in coppia, in famiglia, con gli amici o anche per una vacanza in autonomia – e rilassati: negli appartamenti e ville in Salento che abbiamo selezionato per te, trovi tutto quello che ti serve per un soggiorno senza pensieri, con i principali servizi inclusi e al miglior prezzo."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/porta-terra": {
+  "nome": "Porta Terra",
+  "desc": "Appartamento vacanze nel centro di Otranto, Porta terra offre cucina attrezzata, camera, bagno, living, terrazzo con vista. Per 4 persone.",
+  "sez": [
+   {
+    "h": "Porta Terra in breve",
+    "p": [
+     "Affacciato sulle suggestive vie del centro storico di Otranto, Porta Terra è un appartamento pensato per chi desidera godersi il mare ad appena 100 metri e vivere la città con i suoi monumenti e i locali più caratteristici. Il tutto raggiungibile a piedi in pochi minuti. La posizione centrale permette infatti di dimenticare l’auto e godersi appieno l’atmosfera di una delle destinazioni più amate del Salento.",
+     "L’appartamento Porta Terra è organizzato per ospitare fino a 4 persone e comprendono 1 camera matrimoniale, 1 soggiorno con divano letto e una cucina completa, attrezzata con forno, piano cottura, frigorifero con congelatore, lavastoviglie, macchina da caffè, bollitore elettrico e tutto il necessario per cucinare in autonomia. Se invece preferisci lasciarti coccolare dal meglio della cucina salentina, puoi richiedere il servizio di Chef a domicilio, oppure approfittare della centralità dell’appartamento per raggiungere a piedi i ristoranti del centro storico di Gallipoli.",
+     "A disposizione anche Wi-Fi, lavatrice e TV sia nella zona living che nella camera da letto. Il balcone con vista mare regala uno spazio piacevole da vivere in ogni momento della giornata, dal caffè del mattino all’aperitivo serale. Se vuoi rendere il tuo soggiorno speciale, è possibile prenotare servizi aggiuntivi come escursioni in barca, wine tour, cooking class, noleggio biciclette, baby-sitter, dog-sitter.",
+     "Porta Terra è la soluzione ideale per coppie, famiglie o piccoli gruppi che desiderano soggiornare nel cuore di Otranto e scoprire il Salento partendo da una posizione davvero privilegiata."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Bollitore elettrico",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio",
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "L’appartamento Porta Terra dispone di 1 camera matrimoniale e 1 bagno con doccia. Grazie alla presenza del divano letto nel soggiorno, può ospitare fino a 4 persone. Il servizio di pulizie extra è disponibile su richiesta."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/residence-spuma-di-mare": {
+  "nome": "Residence Spuma di Mare",
+  "desc": "A Gallipoli, in Salento, il Residence Spuma di Mare offre appartamenti e camere moderni e confortevoli vicino alla spiaggia",
+  "sez": [
+   {
+    "h": "Residence Spuma di Mare in breve",
+    "p": [
+     "Sul lungomare di Gallipoli, Spuma di Mare è un residence di recente costruzione situato nella zona più centrale, vivace e panoramica della città salentina. Elegante e moderno, propone soluzioni abitative comodamente situate da 50 a 600 metri dalla spiaggia, ideali per chi desidera vivere la vacanza in libertà, senza vincoli né orari.",
+     "Le camere sono perfette per soggiorni singoli o di coppia, mentre gli appartamenti sono la scelta ideale per famiglie e gruppi di amici. Il residence è adatto anche a chi desidera una vacanza fuori dalla stagione calda: Spuma di Mare è infatti aperto tutto l’anno. E in ogni mese dell’anno l’accoglienza è calda, cordiale e professionale.",
+     "La posizione di Spuma di Mare è davvero unica e offre la possibilità di raggiungere facilmente a piedi o in bicicletta le spiagge, il centro storico, i locali, i ristoranti e tutte le principali attrazioni della città. Gallipoli è una località vibrante e gioiosa d’estate, affascinante e ricca di eventi d’inverno: il divertimento e lo svago non mancano mai!"
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Parcheggio gratuito",
+     "Parcheggio a pagamento"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Ascensore",
+     "Vietato fumare"
+    ]
+   },
+   {
+    "h": "Appartamenti",
+    "p": [
+     "Vicinissimi al mare, gli appartamenti del Residence Spuma di Mare sono moderni, luminosi e confortevoli, pensati per garantire agli ospiti tutti i servizi per un soggiorno riposante in un luogo d’incanto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Appartamento family",
+    "p": [
+     "Situati al secondo o al terzo piano, gli appartamenti dispongono di balcone privato con splendida vista mare e sono pensati per offrire il massimo comfort a famiglie e gruppi. Ogni appartamento comprende 2 camere da letto, un soggiorno con TV a schermo piatto, cucina attrezzata con zona pranzo e bagno completo. Per una maggiore comodità, la struttura mette a disposizione la prima fornitura di asciugamani e biancheria da letto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Attico",
+    "p": [
+     "Funzionali e curati, gli attici comprendono 2 camere da letto, un soggiorno, una TV a schermo piatto, una cucina attrezzata con zona pranzo, bagno completo e sono dotati una meravigliosa terrazza attrezzata con vista mare. Per offrire un’esperienza ancora più confortevole, la struttura mette a disposizione una prima fornitura di asciugamani e biancheria da letto."
+    ],
+    "li": []
+   },
+   {
+    "h": "Super attico",
+    "p": [
+     "La scelta giusta per una vacanza esclusiva vicino al mare: gli attici comprendono 2 camere da letto, un soggiorno, TV a schermo piatto, cucina attrezzata con zona pranzo e bagno completo. L’ampia terrazza attrezzata regala una meravigliosa vista mare. Per garantire il massimo comfort durante il soggiorno, la struttura include la prima fornitura di asciugamani e biancheria da letto."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/sole-salento-2": {
+  "nome": "Sole Salento 2",
+  "desc": "Sole Salento 2, appartamento vacanza a Torre San Giovanni: 45 mq, fino a 4 persone, camera, cucina, soggiorno, bagno. 80 mt dal mare.",
+  "sez": [
+   {
+    "h": "Sole Salento 2 in breve",
+    "p": [
+     "Sole Salento 2 è un appartamento vacanza indipendente, a soli 80 metri dalla spiaggia di sabbia dell’Isola di Pazze e a 5 minuti d’auto dalle spiagge di Torre San Giovanni. La posizione vicino al mare e la vicinanza ai principali servizi, come supermercato, tabacchi, bar e ristoranti, lo rendono una soluzione pratica e accogliente per una vacanza in Salento in completa libertà.",
+     "L’appartamento di 45 mq ospita fino a 4 persone e dispone di uno spazio esterno privato attrezzato, perfetto anche per colazioni e cene all’aperto, oltre a tutte le dotazioni per una vacanza senza pensieri, tra cui aria condizionata, Wi-Fi, barbecue, lavatrice, living con cucina attrezzata. Insomma, qui trovi tutto quello che ti serve per il tuo soggiorno!",
+     "Sole Salento si trova in una zona tranquilla, ideale per chi cerca il giusto relax senza rinunciare alla possibilità di spostarsi facilmente verso le zone naturalistiche, le località e le spiagge più belle del Salento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Parcheggio gratuito",
+     "Culla, Passeggino, Sdraio e ombrelloni (su richiesta)"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Lavastoviglie",
+     "Forno",
+     "Macchina da Caffè",
+     "Frigo",
+     "Congelatore",
+     "Forno a microonde",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Vietato fumare"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Rilevatore di monossido di carbonio",
+     "Estintore"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Sole Salento 2 dispone di 1 camera da letto e di un moderno bagno con doccia. In soggiorno offre un comodo divano letto, apribile all’occorrenza, per un totale di 4 posti letto."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/trullo-tramontana": {
+  "nome": "Trullo Tramontana",
+  "desc": "A 90 mt dal mare di Torre Suda, Trullo Tramontana è una casa vacanze di 40 mq per 3 persone: 1 camera, 1 bagno e ampio giardino recintato.",
+  "sez": [
+   {
+    "h": "Trullo Tramontana in breve",
+    "p": [
+     "Situato nella tranquilla marina di Torre Suda, frazione di Alliste, il Trullo Tramontana è una suggestiva e confortevole dimora storica ideale per chi desidera una vacanza rigenerante nel Salento. La struttura vanta una posizione eccezionale che permette di raggiungere a piedi il mare, distante appena 90 metri e caratterizzato da una costa rocciosa di facile accesso. A pochissimi passi si trova anche un grazioso chiringuito sul mare, perfetto per le colazioni al mattino e gli aperitivi al tramonto, mentre le celebri spiagge di sabbia di Lido Pizzo e Punta della Suina distano appena 4 km.",
+     "L’alloggio, con una metratura di 40 mq, è una tipica abitazione salentina caratterizzata da affascinanti stanze con volta a botte che creano un’atmosfera d’altri tempi. Gli interni sono composti da una zona giorno con cucina completamente attrezzata dotata di angolo cottura, frigorifero, stoviglie e TV, all’interno della quale si trova anche un letto singolo. La struttura si completa con un bagno funzionale dotato di doccia. All’esterno, gli ospiti possono godere di un ampio giardino piastrellato e recintato, condiviso con il trullo gemello, ma attrezzato con divanetti e tavoli privati per pranzare all’aperto. Sono inoltre presenti, in comune, una lavatrice, una doccia esterna e un barbecue per le grigliate estive. Gli animali domestici sono i benvenuti (con un piccolo supplemento per la pulizia).",
+     "La posizione del trullo consente di raggiungere a piedi i principali servizi di Torre Suda, tra cui ristoranti, pizzerie, supermercati, fruttivendoli, bar e bancomat. A soli 90 metri si snoda il meraviglioso lungomare con il Giardino Costiero, centro della movida estiva grazie a eventi e manifestazioni, completo di un parco giochi per i più piccoli."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Animali domestici benvenuti",
+     "Servizio lavanderia",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini",
+     "Accesso per sedia a rotelle",
+     "Zone fumatori"
+    ]
+   },
+   {
+    "h": "Servizi sicurezza",
+    "p": [],
+    "li": [
+     "Allarme antincendio"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Trullo Tramontana offre una zona notte accogliente ed essenziale, strutturata per ospitare comodamente da 2 fino a 3 persone. La disposizione include 1 camera da letto matrimoniale con volta a botte, a cui si aggiunge un letto singolo posizionato nella zona giorno indipendente. Il bagno adiacente è completo e dotato di box doccia."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/villa-lamia-del-sole": {
+  "nome": "Villa Lamia del Sole",
+  "desc": "Villa Lamia del Sole a Marina di Pescoluse, 50 mq con 2 camere, 1 bagno, soggiorno con cucina, piscina, ampio spazio esterno, parcheggio.",
+  "sez": [
+   {
+    "h": "Villa Lamia del Sole in breve",
+    "p": [
+     "Villa Lamia del Sole a Marina di Pescoluse, è una villa con piscina a breve distanza dalle spiagge delle rinomate Maldive del Salento. Si trova a 800 metri dal mare e a 500 metri dal centro, in una posizione comoda per raggiungere lidi attrezzati, locali, ristoranti e servizi: tutto è a portata di mano.",
+     "La villa, di circa 50 mq e con 4 posti letto, dispone inoltre di doccia esterna, lavatrice, zanzariere e parcheggio privato interno. Gli interni, climatizzati e luminosi, ospitano 2 camere da letto, 1 bagno, soggiorno e angolo cottura attrezzato con piano a induzione, lavastoviglie, frigorifero, utensili da cucina e TV.",
+     "Circondata dalla macchia mediterranea, la Villa Lamia del Sole unisce il fascino dell’architettura salentina a spazi funzionali, pensati per vivere una vacanza all’insegna del relax. Il cuore della villa è l’ampio spazio esterno privato con la piscina ad uso esclusivo – circondata da solarium, ombrelloni e lettini – ideale per rinfrescarsi nelle giornate estive e per tranquilli aperitivi a bordo vasca. L’esterno offre anche una veranda ombreggiata con zona pranzo perfetta per cene e momenti conviviali. Inoltre, lo spazio può essere usato come parcheggio privato.",
+     "Villa Lamia del Sole è soluzione ideale per famiglie, coppie e piccoli gruppi che desiderano vivere il mare e il territorio del Salento in totale libertà."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Parcheggio gratuito",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Lavastoviglie",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Villa Lamia del Sole dispone di 1 camera matrimoniale e di 1 cameretta con letto a castello, entrambe climatizzate, per una capienza complessiva fino a 4 persone. Gli ambienti sono funzionali e pensati per garantire comfort durante il soggiorno, con bagno dotato di box doccia e spazi ben organizzati."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "appartamenti/villetta-daversa-1": {
+  "nome": "Villetta Daversa 1",
+  "desc": "La Villetta Daversa 1 di Torre Vado offre soggiorno con cucina, 2 camere, 1 bagno, 2 aree esterne, parcheggio auto.",
+  "sez": [
+   {
+    "h": "Villetta Daversa 1 in breve",
+    "p": [
+     "La splendida Villetta Daversa 1 si trova a Torre Vado, rinomata per le spiagge di Pescoluse, le Maldive del Salento. La casa gode di una posizione tranquilla e al tempo stesso comoda per raggiungere a piedi il lungomare e tutti i principali servizi come i supermercati, la pescheria, bar e ristoranti. Le prime spiagge attrezzate, come Lido La Cozza e Lido Venere, si trovano a circa 1 km, le Maldive del Salento e le Cinque Vele sono poco più distanti, a 2,4 km.",
+     "Curata nei dettagli, spaziosa e luminosa, la villetta può ospitare comodamente fino a 6 persone ed è dotata di 2 aree esterne: una veranda arredata, ideale per godersi il clima mite del Salento, e un secondo spazio sul retro con doccia esterna, lavabo e lavatrice.",
+     "Villetta Daversa 1 si compone di zona giorno con divano letto matrimoniale, 2 camere da letto, 1 bagno e una cucina completamente attrezzata. A disposizione degli ospiti TV, aria condizionata, lavatrice, Wi-Fi e un comodo parcheggio esterno. La villetta è ideale per le famiglie con bambini piccoli che possono divertirsi con le giostre del vicino parco giochi e accoglie con gioia anche gli animali, con un piccolo supplemento. Gli amanti della vacanza attiva hanno la possibilità di praticare ogni sorta di sport acquatico nelle vicinanze e di visitare borghi storici e luoghi naturali di incantevole bellezza."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi generali",
+    "p": [],
+    "li": [
+     "Aria Condizionata",
+     "Wi-Fi Gratuito",
+     "Animali domestici benvenuti",
+     "Servizio lavanderia"
+    ]
+   },
+   {
+    "h": "Servizi cucina",
+    "p": [],
+    "li": [
+     "Cucina completa",
+     "Forno",
+     "Frigo",
+     "Piano cottura (elettrico o gas)",
+     "Servizi di base per cucinare (pentole, padelle, olio, sale e pepe)",
+     "Piatti, Posate e Bicchieri"
+    ]
+   },
+   {
+    "h": "Servizi accessibilità",
+    "p": [],
+    "li": [
+     "Adatto bambini"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Villetta Daversa 1 dispone di 2 camere da letto arredate con cura e pensate per garantire il massimo comfort e sonni tranquilli: la prima camera è matrimoniale, la seconda è una camera doppia con lettini singoli. Nella zona giorno si trova un comodo divano letto matrimoniale, per un totale di 6 posti letto."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/albergo-2-mari": {
+  "nome": "Albergo 2 Mari**",
+  "desc": "A Santa Maria di Leuca, l'Albergo 2 Mari vicino al mare, con ristorante, ottima colazione, servizio navetta, pet friendly.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Albergo 2 Mari a Santa Maria di Leuca è il luogo perfetto per rilassarsi, là dove il Mar Ionio e il Mare Adriatico si incontrano.",
+     "L’hotel offre un ambiente tranquillo e accogliente, una cucina ricca di sapori con le tipiche specialità salentine e numerose opportunità di relax e divertimento. Le camere, arredate con gusto e dotate di ogni comfort, regalano una vista spettacolare sull’azzurro intenso del mare. Tra i servizi a disposizione degli ospiti, la comoda navetta su richiesta e una spiaggia privata attrezzata. Gli animali domestici sono i benvenuti.",
+     "Lo staff dell’hotel è sempre disponibile a dare consigli sui luoghi da visitare e aiutare nell’organizzazione di escursioni in barca. Inoltre, la posizione dell’Albergo 2 Mari consente di esplorare Santa Maria di Leuca e il territorio circostante: il porto antico, il lungomare punteggiato di ville in stile Liberty o moresco, gli insediamenti rupestri, cripte, chiese e castelli immersi in uliveti secolari, suggestive grotte come quelle dei Giganti, del Presepio, del Diavolo e del Drago."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Biciclette gratuite"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Baby menu e orario dei pasti flessibile"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Trattamenti beauty"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast",
+     "Solo pernottamento"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Albergo 2 Mari accoglie gli ospiti camere ariose e accoglienti, arredate con gusto, dotate di tutti i comfort, con una splendida vista mare."
+    ],
+    "li": []
+   },
+   {
+    "h": "Economy",
+    "p": [
+     "Sono una soluzione vantaggiosa e comoda le camere triple e quadruple con balcone, separate dall’albergo. Gli arredi moderni si fondono perfettamente con elementi della tradizione salentina, in un ambiente rilassante e luminoso. Le camere sono dotate di letti comodi e ampi, e offrono tutti i servizi utili come aria condizionata, Wi-Fi gratuito e TV a schermo piatto, bagno con doccia."
+    ],
+    "li": []
+   },
+   {
+    "h": "Standard",
+    "p": [
+     "Le camere triple e quadruple con balcone sono perfette per coppie e famiglie in cerca di una vacanza rilassante. Gli arredi, curati nei dettagli, combinano eleganza e funzionalità, creando un ambiente accogliente e moderno. Le camere sono dotate di letti matrimoniali o letti singoli, bagno privato con doccia, aria condizionata, TV a schermo piatto e Wi-Fi gratuito."
+    ],
+    "li": []
+   },
+   {
+    "h": "Familiare",
+    "p": [
+     "Perfette per le famiglie, queste camere accoglienti e spaziose sono progettate per ospitare comodamente fino a 5 persone, offrendo il massimo comfort e relax. Arredate con cura, combinano dettagli moderni e tocchi tradizionali. Gli ospiti possono godere di letti confortevoli, un’area salotto e un balcone con una vista spettacolare sul mare cristallino."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Ogni mattina, gli ospiti possono gustare una colazione abbondante e genuina, a base di prodotti locali e pensata per soddisfare tutti i gusti.",
+     "Accoglienza mediterranea e cucina genuina: il ristorante propone le specialità tipiche del Salento e della Puglia, ponendo particolare attenzione alla qualità degli ingredienti e alla varietà dei menù. Potrai assaporare la cucina della tradizione, come le orecchiette alle cime di rapa, la purea di fave con cicorie, ciceri e tria, la pitta di patate alla pizzaiola, il polpo in pignata e lo sformato di riso, patate e cozze, oltre a piatti classici mediterranei come la parmigiana di melanzane, la frittura di calamari e il pesce spada ai ferri."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/casale-donna-rosa": {
+  "nome": "Casale Donna Rosa",
+  "desc": "Casale Donna Rosa a Sannicola, è una country house di charme in Salento, a Sannicola, con ricca colazione, piscina, parcheggio.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Casale Donna Rosa a Sannicola, è un’elegante country house circondata dalla campagna pugliese, con gli ulivi e i muretti a secco a perdita d’occhio.",
+     "Questa dimora storica di charme, che in passato ospitava attività commerciali come una manifattura di tabacchi e un magazzino agricolo, è stata riqualificata con gusto, nel rispetto della sua identità. La country house ospita Casale Donna Rosa e il Torrino B&B, per eleganti soggiorni nel cuore del Salento.",
+     "Qui puoi davvero rilassarti e godere appieno della quiete, con lenti risvegli, meravigliose colazioni e l’incantevole piscina con lettini e sdraio a disposizione. Casale Donna Rosa dispone anche di un parcheggio gratuito."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Piscina outdoor",
+     "Parcheggio",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Raffinate e accoglienti, le camere del Casale Donna Rosa sono state restaurate mantenendo lo stile dell’edificio storico, ma dotate di tutti i più moderni comfort."
+    ],
+    "li": []
+   },
+   {
+    "h": "Classic",
+    "p": [
+     "Le camere Classic si trovano a piano terra e misurano circa 24 mq. Il soffitto con volta a stella tipicamente salentino, così come lo stile sobrio, danno alle camere l’atmosfera unica delle antiche dimore di campagna. Le Classic offrono letti comodi, aria condizionata autonoma, riscaldamento centralizzato, TV, minifrigo, WiFi."
+    ],
+    "li": []
+   },
+   {
+    "h": "Standard Matrimoniale",
+    "p": [
+     "Stile sobrio e raffinato, per queste camere accoglienti e romantiche, perfette per chi cerca un soggiorno tranquillo, senza rinunciare all’eleganza."
+    ],
+    "li": []
+   },
+   {
+    "h": "Deluxe Family",
+    "p": [
+     "Le camere family di 60 mq, sono situate a piano terra e ospitano comodamente famiglie numerose o gruppi di amici fino a 6 persone. Le Deluxe Family hanno una zona soppalcata con letto matrimoniale e bagno privato, una zona sottostante di circa 40 mq con 4 posti letto e un secondo bagno."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Nella tranquillità della campagna salentina, inizia la giornata con tutto il gusto di una ricca colazione a buffet, con proposte continentali e italiane. La colazione viene servita dalle 7:30 alle 10:00."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/hotel-alba-chiara": {
+  "nome": "Hotel Alba Chiara***",
+  "desc": "A Torre Sant'Andrea, nel Salento, vicinissimo al mare e alla scogliera con i faraglioni, Hotel Alba Chiara: B&B e mezza pensione, parcheggio",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "A Torre Sant’Andrea, l’Hotel Alba Chiara è la realizzazione del sogno di ospitalità di una famiglia, in uno dei tratti di costa più suggestivi del Salento. Vicino alla celebre scogliera con i faraglioni e l’arco naturale, modellati dal vento e dal tempo, l’hotel è il luogo ideale per una vacanza al mare in una terra di bellezza unica.",
+     "Gli ospiti possono scegliere tra le accoglienti camere o le suite, con la possibilità di soggiornare in formula B&B o mezza pensione. Il tutto con la massima flessibilità, decidendo giorno per giorno se pranzare o cenare in hotel. Pur non disponendo di una spiaggia privata, a 30 metri si trova la piccola spiaggia di sabbia di Sant’Andrea e lo staff è lieto di consigliare i più bei lidi della zona. Tra i servizi offerti, la comoda navetta da/per gli aeroporti di Brindisi e Bari e la stazione di Lecce. Di fronte all’hotel c’è la fermata della navetta comunale “Mare in bus”, per raggiungere comodamente le località più famose della costa."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Bar",
+     "Solarium",
+     "Garage",
+     "Parcheggio",
+     "Vista mare",
+     "Navetta aeroporto"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Baby menu e orario dei pasti flessibile"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "L’Hotel Alba Chiara dispone di dieci camere semplici e accoglienti, e di esclusive suite. Perfette per coppie, famiglie e piccoli gruppi: la soluzione ideale per vivere il Salento autentico."
+    ],
+    "li": []
+   },
+   {
+    "h": "Doppia o tripla con balconcino",
+    "p": [
+     "Misurano circa 25 mq queste camere perfette per coppie, famiglie o piccoli gruppi in cerca di comfort e relax, a pochi passi dal mare. Ognuna è personalizzata con un colore unico e sono tutte dotate di: letto matrimoniale, divano letto singolo su richiesta, balconcino privato e bagno con doccia. Una delle camere è accessibile a persone con disabilità."
+    ],
+    "li": []
+   },
+   {
+    "h": "Quadrupla con balconcino vista mare",
+    "p": [
+     "È la soluzione perfetta per accogliere fino a 4 persone, questa stanza di 30 mq, luminosa e confortevole. La sua composizione è flessibile e versatile: dispone di un letto matrimoniale, 2 divani letto singoli (all’occorrenza), un bagno privato con doccia e un balconcino con splendida vista sul mare."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite con terrazza panoramica",
+    "p": [
+     "Nel segno dell’esclusività: la suite sulla terrazza all’ultimo piano si sviluppa su 35 mq e comprende 2 ambienti, per ospitare fino a 4 persone. Dispone di un letto king size, 2 letti singoli e di una zona esterna privata coperta, ovviamente con vista panoramica."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Il Ristorante Alba Chiara, che è anche pizzeria con forno a legna, offre una cucina semplice e genuina a partire da materie prime di qualità e dai prodotti raccolti in giornata nell’orto biologico. Il menù varia ogni giorno e celebra la tradizione salentina, tra pasta fatta in casa, pesce fresco e tanti manicaretti preparati con passione dalla Chef Gina."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/hotel-nauticus": {
+  "nome": "Hotel Nauticus***",
+  "desc": "In Salento, a Torre San Giovanni, Hotel Nauticus ti aspetta con formula B&B. Animali domestici benvenuti, WiFi, ristorante, colazione",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "L’Hotel Nauticus ti aspetta a Torre San Giovanni, una delle località più vivaci della Costa Ionica, a breve distanza dalle meravigliose spiagge di sabbia finissima e mare turchese.",
+     "L’hotel propone un soggiorno con formula Bed & Breakfast in camere che coniugano praticità e stile. Al piano terra, il ristorante offre la possibilità di pranzare o cenare à la carte, assaporando i piatti della tradizione salentina.",
+     "Gli ospiti possono inoltre usufruire del servizio spiaggia presso un lido convenzionato, attrezzato con ombrelloni e lettini.",
+     "Torre San Giovanni, in provincia di Lecce, si trova in una delle zone più suggestive della costa, tra Gallipoli e Santa Maria di Leuca. Una posizione strategica per scoprire località celebri del Salento, come Leuca, Gallipoli, Otranto, Porto Cesareo, Maglie e la splendida Lecce, gioiello barocco."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Reception 24H",
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Curate in ogni dettaglio, le 14 camere dell’Hotel Nauticus sono arredate con gusto e offrono ogni comfort, tra cui insonorizzazione con doppi vetri, aria condizionata, bagno privato. Ogni camera dispone di un balcone con tavolo e sedie e alcune godono di vista sul mare e sul porticciolo turistico."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale",
+    "p": [
+     "Camere luminose, elegantemente arredate in stile moderno, ciascuna con un piccolo balcone con tavolo e sedie. Il bagno privato ha doccia e asciugacapelli, l’aria condizionata è regolabile autonomamente. A disposizione degli ospiti anche TV, Wi-Fi e frigobar su richiesta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Quadrupla matrimoniale con due letti singoli",
+    "p": [
+     "Ariose e piacevoli camere dal design moderno, dotate di letto matrimoniale, 2 letti singoli e di un balcone con tavolo e sedie. Queste stanze offrono ogni comfort, come bagno privato con doccia e phon, aria condizionata regolabile TV, Wi-Fi e, su richiesta, frigobar."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Superior",
+    "p": [
+     "Bellissime, ampie e luminose camere arredate in stile moderno, con terrazzino privato dotato di tavolo, sedie e sdraio. Ogni camera dispone di bagno privato con doccia e phon, aria condizionata regolabile autonomamente, TV, Wi-Fi e frigobar disponibile su richiesta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Gli ospiti dell’hotel possono iniziare la giornata al meglio con una golosa colazione a buffet italiana o continentale e con prodotti senza glutine per chi soffre di intolleranza al glutine.",
+     "Per pranzo o cena il ristorante pizzeria al piano terra propone piatti à la carte con le deliziose specialità della tradizione pugliese e salentina."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/le-gemelle-boutique-hotel": {
+  "nome": "Le Gemelle Boutique Hotel***",
+  "desc": "Le Gemelle Boutique Hotel***stelle a marina di Torre Suda (LE), è un B&B moderno, con giardino, vasche idromassaggio, bici, ottima colazione",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "A soli 50 metri dal mare, Le Gemelle Boutique Hotel nella marina di Torre Suda, in Salento, è un intimo hotel curato nei dettagli. Grazie alla comoda posizione, puoi raggiungere a piedi il mare su scogliera bassa rasata con lidi attrezzati, scegliendo tra spazi liberi e stabilimenti attrezzati.",
+     "Puoi rilassarti in giardino, immergendoti nelle vasche idromassaggio, con un massaggio o un trattamento, oppure sorseggiare un fresco aperitivo vista mare.",
+     "L’hotel mette a disposizione un angolo per la preparazione delle pappe, dedicato ai neogenitori, le biciclette, deposito bagagli per chi desidera arrivare presto e godersi la vacanza fino all’ultimo istante.",
+     "L’hotel propone escursioni in barca con skipper esperti, verso le incantevoli baie e le misteriose grotte marine, per cui è famosa la costa salentina."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Servizio lavanderia",
+     "Solarium",
+     "Parcheggio",
+     "Biciclette gratuite",
+     "Giardino",
+     "Vasche idromassaggio"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Disponibilità di biciclette con seggiolini e caschi",
+     "Angolo pappe",
+     "Baby sitter a pagamento",
+     "Culla a pagamento"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti",
+     "Idromassaggio",
+     "Aperitivi Vista Mare"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast",
+     "Solo pernottamento"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le Gemelle Boutique Hotel offre moderne camere doppie, triple, quadruple, familiari e anche Deluxe con vasca idromassaggio."
+    ],
+    "li": []
+   },
+   {
+    "h": "Familiare",
+    "p": [
+     "La camera familiare, moderna e completamente rinnovata, si trova al piano seminterrato, ed è dotata di finestre, climatizzatore e deumidificatore. Offre, tra l’altro, un letto matrimoniale, uno alla francese, 2 comodi divani letto, minifrigo, bagno con doppio lavabo e due soffioni doccia. Grazie all’ampia metratura, ospita comodamente una famiglia o un gruppo di amici."
+    ],
+    "li": []
+   },
+   {
+    "h": "Doppia/Tripla Superior",
+    "p": [
+     "Le Superior dispongono di letto matrimoniale, bagno con doccia, balconcino o finestra che si affacciano sul giardino interno. Nella categoria tripla offrono anche un letto a castello."
+    ],
+    "li": []
+   },
+   {
+    "h": "Doppia/Tripla Standard",
+    "p": [
+     "Camere con letto matrimoniale e letto a castello, di circa 15 mq. Dispongono di bagno con doccia, cassetta di sicurezza, TV LCD, mini-frigo, aria condizionata autonoma, asciugacapelli, set di cortesia."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Le Gemelle Boutique Hotel ti augura il buongiorno con una colazione salentina e continentale, a base di specialità fatte in casa, prodotti locali e da forno, squisiti dolci tipici, frutta fresca di stagione. La ricchezza del buffet rende la colazione un vero e proprio brunch, anche con proposte senza glutine e senza lattosio. Il tutto, accompagnato da succhi di frutta, cremosi cappuccini, caffè espresso, latte e yogurt per tutti i gusti. La sala colazione è un inno alle vacanze: arredata con cura, luminosa e accogliente per iniziare al meglio la giornata!"
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/palazzo-arco-cadura-hotel-spa": {
+  "nome": "Palazzo Arco Cadura Hotel & Spa***",
+  "desc": "Palazzo Arco Cadura Hotel & Spa nel centro di Galatina, con centro benessere, rooftop panoramico, colazione.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Nel cuore di Galatina, Palazzo Arco Cadura Hotel & Spa è un’antica dimora che offre soggiorni di charme, per vivere la bellezza autentica del Salento. Al suo interno tradizione e contemporaneità si intrecciano armoniosamente: i soffitti affrescati e le volte in pietra viva sono accostati a comfort moderni e tocchi di design sofisticato, creando ambienti suggestivi.",
+     "L’accoglienza attenta, le camere raffinate e luminose, il delizioso buffet della colazione sono solo alcuni dei segni distintivi di un’ospitalità unica. L’elegante rooftop regala una vista bellissima sulla città e i suoi dintorni: ogni giorno si può gustare un aperitivo con drink e stuzzichini, con possibilità di rilassarsi nella stupenda vasca idromassaggio esterna con i colori del tramonto negli occhi. Per una coccola in più, la Spa di Palazzo Arco Cadura Hotel & Spa propone un rigenerante percorso benessere con sauna, bagno turco, doccia emozionale e vasca idromassaggio.",
+     "La posizione strategica di Palazzo Arco Cadura, nel cuore del Salento, permette di esplorare comodamente spiagge e località iconiche come Otranto, Gallipoli, Santa Maria di Leuca, Porto Cesareo, Castro, Maglie, Specchia, Corigliano d’Otranto e Copertino. A soli 20 km si può visitare la magnifica Lecce, gioiello del barocco pugliese."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Bar",
+     "Centro benessere / Spa",
+     "Servizio navetta"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Baby sitter a pagamento"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Idromassaggio",
+     "Bagno turco",
+     "Sauna finlandese",
+     "Hammam"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Bed&Breakfast",
+     "Solo pernottamento"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Palazzo Arco Cadura Hotel & Spa propone ai suoi ospiti 13 camere eleganti e completamente domotizzate, in cui il fascino antico si combina con i comfort moderni. 6 le tipologie tra cui scegliere: matrimoniale piccola, matrimoniale superior, quadrupla superior, matrimoniale deluxe e doppia uso singola, suite duplex, suite superior."
+    ],
+    "li": []
+   },
+   {
+    "h": "Superior Twin",
+    "p": [
+     "Dotata di soppalco, la camera, che può ospitare fino a 3 persone, offre un letto alla francese nel soppalco e un letto singolo al piano terra. Dispone di un balconcino e di un confortevole bagno. Regala un soggiorno unico tra charme d’epoca e comfort moderni."
+    ],
+    "li": []
+   },
+   {
+    "h": "Superior Matrimoniale",
+    "p": [
+     "Camere dallo stile raffinato e moderno, dall’atmosfera avvolgente e dotate di ogni comfort. Le Superior Matrimoniali dispongono di comodo letto King size, di bagno privato e di balcone da cui si gode di una vista incantevole."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite Superior",
+    "p": [
+     "Cullati nell’eleganza di queste spaziose suite di 40 mq, ideali per ospitare fino a 4 persone. Dispongono di una ampia camera da letto, una cucina che consente di preparare i pasti in completa autonomia, un comodo divano letto e un bagno con doccia. I grandi terrazzi accessibili sia dalla cucina che dalla camera offrono una splendida vista sul centro storico, il cuore vivace di Galatina."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Immagina di svegliarti in una camera dal fascino senza tempo e di iniziare la giornata con una coccola speciale: il ricco e vario buffet della prima colazione. Ogni proposta è frutto di una attenta selezione delle materie prime con preparazioni fatte sul momento. Puoi gustare fragranti croissant, frutta di stagione, yogurt artigianale, miele locale e una raffinata selezione di caffè e tè, senza dimenticare le prelibatezze tipiche come gli amatissimi pasticciotti."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/racar-hotel-villaggio": {
+  "nome": "Racar Hotel & Villaggio***",
+  "desc": "Racar Hotel & Villaggio a Frigole, Lecce. Appartamenti vicino al mare con spiaggia privata, 2 piscine, animazione, parcheggio e ristorante tipico",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Racar Hotel & Villaggio si trova vicino ad una delle cale più belle della marina di Frigole, a breve distanza da Lecce. La struttura si adagia su un litorale caratterizzato da una costa bassa e sabbiosa, offrendo ai propri ospiti una spiaggia privata esclusiva in uno dei tratti più suggestivi del panorama salentino, dove la natura incontaminata incontra il fascino del mare aperto.",
+     "Pensato per garantire il massimo del comfort e del divertimento, il villaggio offre servizi d’eccellenza che spaziano dal relax delle 2 grandi piscine (una per adulti e una per bambini) all’energia dello staff di animazione, che propone un ricco programma quotidiano tra tornei sportivi, giochi e spettacoli serali. Gli amanti dello sport possono usufruire di campi da tennis, calcetto e ping-pong, mentre i più piccoli hanno a disposizione un parco giochi dedicato. La struttura, dotata di parcheggio privato gratuito, unisce la funzionalità dei bungalow alla comodità dell’hotel, creando un ambiente perfetto per ogni esigenza. Racar Hotel & Villaggio offre sia la formula hotel che la formula residence e, scegliendo quest’ultima opzione, gli animali domestici sono i benvenuti.",
+     "La posizione del Racar Hotel & Villaggio nella marina di Frigole lo rende il luogo ideale per gli appassionati di sub, surf e natura, grazie alla bellezza dei fondali e alla trasparenza delle acque. La vicinanza alla città di Lecce, capitale del Barocco, permette di arricchire il soggiorno con escursioni culturali indimenticabili, in un punto del Salento dove l’accoglienza mediterranea si fonde con una storia millenaria."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Solarium",
+     "Parcheggio",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi Family",
+    "p": [],
+    "li": [
+     "Animazione per bambini",
+     "Area giochi interna o esterna",
+     "Baby sitter a pagamento",
+     "Biberoneria ad uso gratuito, seggiolone su richiesta in appartamento"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast",
+     "Formula residence"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le camere del Villaggio Racar sono concepite per offrire un riposo rigenerante a pochi passi dal mare. Tutte le sistemazioni sono dotate di balcone privato e arredate con uno stile semplice e accogliente. Chi sceglie questa soluzione può usufruire dei servizi hotel, come le piscine, i campi sportivi, l’animazione."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale",
+    "p": [
+     "Con una superficie di 18 m², sono la soluzione ideale per le coppie. Dispongono di un comodo letto matrimoniale, balcone privato e tutte le dotazioni tecnologiche per un soggiorno all’insegna della praticità."
+    ],
+    "li": []
+   },
+   {
+    "h": "Tripla",
+    "p": [
+     "Ampie camere di 21 m², con letto matrimoniale e letto singolo, bagno con doccia, aria condizionata, frigobar, asciugacapelli e TV SAT. Ambienti luminosi dotati di balcone, perfetti per piccoli nuclei familiari o amici."
+    ],
+    "li": []
+   },
+   {
+    "h": "Residence",
+    "p": [
+     "Appartamenti indipendenti di 22 mq con patio privato, che ospitano fino a 3 adulti e 1 infant. Dispongono di un letto matrimoniale e di un letto singolo, con possibilità di aggiungere una culla. Gli animali domestici sono i benvenuti. Ogni appartamento offre angolo cottura attrezzato con utensili da cucina, stoviglie, frigo, freezer, bagno con set di cortesia, prima fornitura di biancheria inclusa, aria condizionata."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Villaggio Racar dispone di un ristorante interno dallo stile accurato e di 2 bar. Al mattino viene servita una colazione a buffet dolce e salata, pensata per iniziare la giornata con energia prima di scendere in spiaggia.",
+     "Il cuore del gusto è proprio il ristorante, dove riscoprire il sapore originale dei piatti salentini e nazionali, attraverso un menù turistico a scelta che cambia ogni giorno, e servizio attento, curato inogni minimo dettaglio. La cucina utilizza materie prime selezionate da produttori locali, per garantire freschezza e genuinità."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/tenuta-doxi": {
+  "nome": "Tenuta Doxi",
+  "desc": "Tenuta Doxi a Sannicola, residenza storica vicino a Gallipoli e al mare. Offre B&B e mezza pensione, parcheggio, colazione a km0, esperienze.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Tenuta Doxi a Sannicola, vicino a Gallipoli, è una masseria del XIX secolo circondata dalla ricca natura salentina. L’antica azienda agricola è stata ristrutturata sapientemente e oggi accoglie gli ospiti per vacanze slow e autentiche, a pochi minuti dal mare cristallino del Salento.",
+     "Un luogo sospeso nel tempo, dove rilassarsi e ritagliarsi momenti di pura pace passeggiando tra i vigneti rigogliosi, assaporando la bontà dei prodotti locali, partecipando alle degustazioni guidate dei vini della Cantina Coppola.",
+     "Tenuta Doxi organizza anche diverse esperienze, come le cooking class, le escursioni guidate in bici, gli aperitivi in vigna, cena, pizza o pranzo alla tenuta, uscite in barca a vela, corsi di ceramica. Inoltre, sono disponibili un’area barbecue e il parcheggio gratuito."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Piscina outdoor",
+     "Parcheggio",
+     "Escursioni organizzate in bici"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Le camere di Tenuta Doxi sono un inno all’ospitalità salentina, con architetture tipiche, spazi generosi, uno stile sobrio e tutti i comfort per il tuo soggiorno."
+    ],
+    "li": []
+   },
+   {
+    "h": "Matrimoniale Standard",
+    "p": [
+     "Questa camera dispone di un letto artigianale doppio, dallo stile vintage anni ’50. A disposizione un frigobar, TV, aria condizionata, riscaldamento e bagno con doccia, oltre ad un grazioso spazio esterno privato, arredato con tavolo e sedie."
+    ],
+    "li": []
+   },
+   {
+    "h": "Il Terrazzino",
+    "p": [
+     "Un’ampia camera matrimoniale al primo piano, arredata con pezzi unici realizzati da artigiani salentini. Lo stile è un mix tra vintage anni ’50 e moderno. A disposizione frigobar, TV, aria condizionata e bagno con doccia. Il punto di forza è la grande terrazza privata, con vista panoramica sulla tenuta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Tripla Standard",
+    "p": [
+     "La Tripla offre letto matrimoniale e letto singolo, realizzati da un artigiano locale. Lo stile dell’arredamento è quello vintage anni ’50, con dettagli moderni. In camera trovi frigobar, TV LED, aria condizionata, riscaldamento e bagno con doccia. Meravigliosa la vista sul vigneto di Negroamaro della tenuta."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Un delizioso buffet di prodotti a km 0, ti dà il buongiorno ogni mattina a Tenuta Doxi. Il Ristorante Il Vigneto propone il meglio dei piatti tradizionali pugliesi e italiani, anche con opzioni vegetariane, vegane e senza glutine. Cene e pizza in tenuta sono disponibili su prenotazione."
+    ],
+    "li": []
+   }
+  ]
+ },
+ "hotel/volito-hotel": {
+  "nome": "Volito Hotel****",
+  "desc": "Nel cuore del Salento, a Patù, l’Hotel Volito, pet-friendly e con piscina, è vicino alle splendide spiagge di Pescoluse e di Ugento.",
+  "sez": [
+   {
+    "h": "Hotel",
+    "p": [
+     "Nel cuore del Salento, a Patù, l’Hotel Volito è vicinissimo alle splendide spiagge di Pescoluse e di Ugento. Un hotel dal fascino unico, che offre un’esperienza autentica a contatto con la natura grazie alle sue costruzioni eco-sostenibili.",
+     "Ogni giorno puoi rilassarti nella splendida piscina all’aperto, su un’elegante terrazza in legno, circondata dagli aromi della natura e degli alberi in frutto. I tuoi animali sono i benvenuti, per loro puoi richiedere il pratico dog-kit.",
+     "Per le tue giornate di mare, l’Hotel Volito è convenzionato con il Lido Venere, uno stabilimento balneare attrezzato, situato in uno dei tratti più incantevoli della costa salentina.",
+     "Patù è un borgo dell’entroterra salentino, circondato da un paesaggio ricco di panorami stupendi: il colore rosso della terra, le distese di ulivi, i resti archeologici. Per rendere il tuo soggiorno ancora più indimenticabile, l’hotel propone bellissime esperienze come escursioni in barca, passeggiate a cavallo, massaggi, sessioni di yoga all’ombra degli ulivi, degustazioni di vino e itinerari alla scoperta dei paesaggi rurali e del patrimonio storico del Salento."
+    ],
+    "li": []
+   },
+   {
+    "h": "Servizi in hotel",
+    "p": [],
+    "li": [
+     "Wi-fi gratuito",
+     "Spiaggia convenzionata",
+     "Animali domestici benvenuti",
+     "Bar",
+     "Servizio lavanderia",
+     "Piscina outdoor",
+     "Parcheggio",
+     "Giardino"
+    ]
+   },
+   {
+    "h": "Servizi centro benessere",
+    "p": [],
+    "li": [
+     "Massaggi e trattamenti"
+    ]
+   },
+   {
+    "h": "Trattamenti disponibili",
+    "p": [],
+    "li": [
+     "Mezza pensione",
+     "Bed&Breakfast",
+     "Solo pernottamento"
+    ]
+   },
+   {
+    "h": "Camere",
+    "p": [
+     "Quanto è bello dormire immersi nella quiete della natura? Le camere di Volito Hotel sono costruite in modo interamente sostenibile: rivestite in pietra viva, riprendono le forme e i materiali delle “pajare”, i piccoli trulli in pietra caratteristici del territorio salentino."
+    ],
+    "li": []
+   },
+   {
+    "h": "Superior Matrimoniale",
+    "p": [
+     "Ampie e luminose stanze di 25 mq con affaccio sul giardino interno. Il bagno è accessibile a persone con disabilità. Queste camere regalano agli ospiti il contatto con la natura e sono dotate di tutti i comfort, come il bagno privato, il televisore al LED, la connessione internet, il climatizzatore, il frigobar e la cassetta di sicurezza."
+    ],
+    "li": []
+   },
+   {
+    "h": "Superior Tripla",
+    "p": [
+     "Un’esperienza di relax a contatto con la meravigliosa natura del Salento ti attende in queste camere di 25 mq, affacciate sul giardino interno. Qui trovi tutti i comfort per la tua vacanza, tra cui patio privato, bagno interno, TV LED, connessione internet, aria condizionata, minibar e cassaforte."
+    ],
+    "li": []
+   },
+   {
+    "h": "Suite",
+    "p": [
+     "Il massimo del comfort e del relax nelle favolose Suite situate al piano terra. Sono caratterizzate da ampi spazi – 35 mq – e composte da una camera matrimoniale e un’area idromassaggio. Ogni suite è dotata di bagno interno, patio privato, televisore al LED, una connessione internet, un climatizzatore, un frigo bar e una cassetta di sicurezza."
+    ],
+    "li": []
+   },
+   {
+    "h": "Cucina",
+    "p": [
+     "Ogni sera, il ristorante di Volito Hotel apre le porte a chi desidera assaporare una cena tipica salentina, nella quiete della campagna di Patù. Il menù propone piatti della tradizione realizzati con verdure di stagione provenienti direttamente dall’orto e ingredienti locali: primi piatti a base di pasta fresca e ricette con cotture tradizionali, a legna o a pietra.",
+     "La cucina tradizionale salentina si presta per sua natura a chi segue un’alimentazione vegetariana o vegana. La varietà e la qualità dei piatti soddisfa il palato di tutti i commensali, grandi e bambini.",
+     "La giornata inizia con una colazione ricca e invitante a base di prodotti locali di qualità. Il ricco buffet offre confetture e brioche artigianali, e un ampio assortimento di dolci preparati in casa."
+    ],
+    "li": []
+   }
+  ]
+ }
+}
