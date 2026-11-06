@@ -82,6 +82,8 @@ for d0, ds, fs in os.walk(B):
             t = t.replace("</head>", f'<link rel="stylesheet" href="{R}menu.css">\n</head>', 1)
             t = t.replace("</body>", f'<script src="{R}menu.js"></script>\n</body>', 1)
         t = re.sub(r'((?:href|src)="(?:\.\./)*(?:menu|pagine)\.(?:js|css))(?:\?v=\w+)?"', lambda _m: _m.group(1) + '?v=20261107l"', t)
+        if rel == "home-zi-cosimo.html":  # il suo quiz resta il suo, con Zì Cosimo
+            t = t.replace('href="index.html#quiz"', 'href="home-zi-cosimo.html#quiz"')
         open(p, "w", encoding="utf-8").write(t)
         n += 1
 print("pagine", n)

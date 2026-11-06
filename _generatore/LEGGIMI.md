@@ -15,6 +15,9 @@ Da qualunque cartella, nell'ordine:
 `menu.py` va sempre per ultimo. Se cambi `pagine.css`, `pagine.js`, `menu.css` o `menu.js`,
 aumenta prima la versione `?v=` dentro `menu.py`, altrimenti il browser usa i file vecchi.
 
+La home alternativa con Zì Cosimo (`home-zi-cosimo.html`) si ricrea da `index.html` con
+`python3 -I _generatore/home_zi_cosimo.py`, da lanciare prima di `menu.py`.
+
 ## Cosa c'è
 
 - `dest2.py`: il punto di partenza, carica tutto il resto.
